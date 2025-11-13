@@ -760,6 +760,310 @@
     "id": "hBD24-040"
   },
   {
+    "image": "cardListImages/hBD24/hBD24-041_P.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "レッドエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紅色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Red～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紅色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-041"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-042_P.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ブルーエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位藍色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Blue～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張藍色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-042"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-043_P.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ホワイトエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位白色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～White～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張白色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-043"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-044_P.png",
+    "name": "一条莉々華",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "レッドエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紅色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Red～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紅色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-044"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-045_P.png",
+    "name": "ときのそら",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ホワイトエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位白色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～White～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張白色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-045"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-046_P.png",
+    "name": "一伊那尓栖",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紫",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "パープルエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紫色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Purple～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紫色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-046"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-047_P.png",
+    "name": "ロボ子さん",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紫",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "パープルエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紫色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Purple～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紫色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-047"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-048_P.png",
+    "name": "ラプラス・ダークネス",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紫",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "パープルエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紫色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Purple～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紫色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-048"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-049_P.png",
+    "name": "響咲リオナ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ホワイトエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位白色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～White～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張白色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-049"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-050_P.png",
+    "name": "角巻わため",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "黃",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "イエローエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位黃色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Yellow～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張黃色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-050"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-051_P.png",
+    "name": "轟はじめ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ホワイトエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位白色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～White～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張白色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-051"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-052_P.png",
+    "name": "鷹嶺ルイ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "レッドエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紅色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Red～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紅色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-052"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-053_P.png",
+    "name": "水宮枢",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ブルーエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位藍色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Blue～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張藍色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-053"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-054_P.png",
+    "name": "風真いろは",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "綠",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "グリーンエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位綠色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Green～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張綠色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-054"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-055_P.png",
+    "name": "AZKi",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "綠",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "グリーンエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位綠色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Green～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張綠色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-055"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-056_P.png",
+    "name": "大空スバル",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "黃",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "イエローエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位黃色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Yellow～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張黃色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-056"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-001_OSR.png",
     "name": "天音かなた",
     "type": "主推",
