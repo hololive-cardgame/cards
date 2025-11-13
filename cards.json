@@ -1064,6 +1064,196 @@
     "id": "hBD24-056"
   },
   {
+    "image": "cardListImages/hBD24/hBD24-057_P.png",
+    "name": "小鳥遊キアラ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "レッドエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紅色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Red～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紅色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-057"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-058_P.png",
+    "name": "輪堂千速",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "綠",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "グリーンエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位綠色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Green～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張綠色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-058"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-059_P.png",
+    "name": "アイラニ・イオフィフティーン",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "綠",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "グリーンエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位綠色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Green～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張綠色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-059"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-060_P.png",
+    "name": "虎金妃笑虎",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "黃",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "イエローエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位黃色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Yellow～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張黃色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-060"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-061_P.png",
+    "name": "宝鐘マリン",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "レッドエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紅色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Red～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紅色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-061"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-062_P.png",
+    "name": "常闇トワ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紫",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "パープルエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紫色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Purple～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紫色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-062"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-063_P.png",
+    "name": "赤井はあと",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "レッドエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紅色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Red～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紅色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-063"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-064_P.png",
+    "name": "大神ミオ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "綠",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "グリーンエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位綠色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Green～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張綠色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-064"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-065_P.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紫",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "パープルエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紫色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Purple～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紫色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-065"
+  },
+  {
+    "image": "cardListImages/hBD24/hBD24-066_P.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "レッドエンハンス",
+      "effect": "[每個回合一次]這個回合中，自己的1位紅色成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "Birthday Gift ～Red～",
+      "effect": "[每場比賽一次]從自己的牌組展示1張紅色成員並加入手牌。將牌組重新洗牌。"
+    },
+    "id": "hBD24-066"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-001_OSR.png",
     "name": "天音かなた",
     "type": "主推",
@@ -1387,6 +1577,82 @@
     "id": "hBP01-007"
   },
   {
+    "image": "cardListImages/hBP01/hBP01-007_P_01.png",
+    "name": "星街すいせい",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ほうき星",
+      "effect": "[每個回合一次]這個主推或自己的藍色成員給予了對手的後台成員傷害時可以使用：給予對手該1位後台成員50點特殊傷害。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "シューティングスター",
+      "effect": "[每場比賽一次]自己的藍色成員給予了對手的中心成員或聯動成員傷害時可以使用：給予對手的1位後台成員相同數值的特殊傷害。"
+    },
+    "id": "hBP01-007"
+  },
+  {
+    "image": "cardListImages/hBP01/hBP01-007_P_02.png",
+    "name": "星街すいせい",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ほうき星",
+      "effect": "[每個回合一次]這個主推或自己的藍色成員給予了對手的後台成員傷害時可以使用：給予對手該1位後台成員50點特殊傷害。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "シューティングスター",
+      "effect": "[每場比賽一次]自己的藍色成員給予了對手的中心成員或聯動成員傷害時可以使用：給予對手的1位後台成員相同數值的特殊傷害。"
+    },
+    "id": "hBP01-007"
+  },
+  {
+    "image": "cardListImages/hBP01/hBP01-007_P_03.png",
+    "name": "星街すいせい",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ほうき星",
+      "effect": "[每個回合一次]這個主推或自己的藍色成員給予了對手的後台成員傷害時可以使用：給予對手該1位後台成員50點特殊傷害。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "シューティングスター",
+      "effect": "[每場比賽一次]自己的藍色成員給予了對手的中心成員或聯動成員傷害時可以使用：給予對手的1位後台成員相同數值的特殊傷害。"
+    },
+    "id": "hBP01-007"
+  },
+  {
+    "image": "cardListImages/hBP01/hBP01-007_P_04.png",
+    "name": "星街すいせい",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ほうき星",
+      "effect": "[每個回合一次]這個主推或自己的藍色成員給予了對手的後台成員傷害時可以使用：給予對手該1位後台成員50點特殊傷害。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "シューティングスター",
+      "effect": "[每場比賽一次]自己的藍色成員給予了對手的中心成員或聯動成員傷害時可以使用：給予對手的1位後台成員相同數值的特殊傷害。"
+    },
+    "id": "hBP01-007"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-008_OSR.png",
     "name": "こぼ・かなえる",
     "type": "主推",
@@ -1532,6 +1798,33 @@
     "type": "成員",
     "tag": "#JP / #4期生 / #歌",
     "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「白 天音かなた (hSD08)」"],
+    "color": "白",
+    "hp": 100,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "天使のお仕事",
+      "effect": "給予對手的中心成員30點特殊傷害(即使擊倒對手的成員，也不會減少對手的生命值)。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "エンジェルステージ",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-013"
+  },
+  {
+    "image": "cardListImages/hBP01/hBP01-013_P_03.png",
+    "name": "天音かなた",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌",
+    "product": "PR卡",
     "color": "白",
     "hp": 100,
     "bloom": "1st",
@@ -2583,6 +2876,36 @@
     "id": "hBP01-042"
   },
   {
+    "image": "cardListImages/hBP01/hBP01-042_P.png",
+    "name": "兎田ぺこら",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ケモミミ",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 120,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "白い砂浜と兎少女",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_green.png","icons/arts_green.png"],
+      "name": "きｔらあああ",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "可以擲1次骰子：擲出的點數每有1點，這個藝能傷害+10。"
+    },
+    "extra": null,
+    "id": "hBP01-042"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-043_RR.png",
     "name": "兎田ぺこら",
     "type": "成員",
@@ -2642,6 +2965,30 @@
     "type": "成員",
     "tag": "#JP / #0期生 / #歌",
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
+    "color": "綠",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "こんあずき～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-044"
+  },
+  {
+    "image": "cardListImages/hBP01/hBP01-044_P_02.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "PR卡",
     "color": "綠",
     "hp": 100,
     "bloom": "Debut",
@@ -3438,6 +3785,36 @@
     "id": "hBP01-066"
   },
   {
+    "image": "cardListImages/hBP01/hBP01-066_P.png",
+    "name": "小鳥遊キアラ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #トリ",
+    "product": "PR卡",
+    "color": "紅",
+    "hp": 120,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "不死鳥の剣姫",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "跪きなさい。",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "可以將1張與這個成員重疊的成員放到存檔區：給予對手的聯動成員40點特殊傷害。"
+    },
+    "extra": null,
+    "id": "hBP01-066"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-067_RR.png",
     "name": "小鳥遊キアラ",
     "type": "成員",
@@ -3605,6 +3982,33 @@
     "type": "成員",
     "tag": "#JP / #5期生 / #ケモミミ",
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "宴の始まりだ！",
+      "effect": "從自己的牌組展示1張粉絲並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "共依存",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": "這個成員如果沒帶有「座員」，不能使用這個藝能。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-070"
+  },
+  {
+    "image": "cardListImages/hBP01/hBP01-070_P_02.png",
+    "name": "尾丸ポルカ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ケモミミ",
+    "product": "PR卡",
     "color": "紅",
     "hp": 110,
     "bloom": "1st",
@@ -4022,6 +4426,33 @@
     "type": "成員",
     "tag": "#JP / #0期生 / #歌",
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
+    "color": "藍",
+    "hp": 110,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "雪山の記憶",
+      "effect": "可以擲1次骰子：奇數時，擊倒對手1位HP減少40以上的後台成員(即使擊倒對手的成員，也不會減少對手的生命值)。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png"],
+      "name": "戦うメイドさん",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-080"
+  },
+  {
+    "image": "cardListImages/hBP01/hBP01-080_P.png",
+    "name": "星街すいせい",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "PR卡",
     "color": "藍",
     "hp": 110,
     "bloom": "1st",
@@ -13042,6 +13473,25 @@
     "id": "hBP04-002"
   },
   {
+    "image": "cardListImages/hBP04/hBP04-002_P.png",
+    "name": "儒烏風亭らでん",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "綠",
+    "life": 6,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ReGLOSSの風流人",
+      "effect": "[每個回合一次]將自己存檔區的1張吶喊卡發送給自己持有#ReGLOSS的成員。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "余った時間でぐるぐる",
+      "effect": "[每場比賽一次]將自己存檔區1~4張持有#きのこ的活動返回手牌。每將2張牌返回手牌，從自己的牌組抽1張牌。"
+    },
+    "id": "hBP04-002"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-003_OSR.png",
     "name": "一条莉々華",
     "type": "主推",
@@ -13574,6 +14024,33 @@
     "type": "成員",
     "tag": "#JP / #秘密結社holoX / #ケモミミ",
     "product": "hololive OFFICIAL CARD GAME 1st Anniversary Celebration Set",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "絶対諦めない！",
+      "effect": "這個成員擊倒對手的成員時，將自己牌組上方的1張牌放到holo能量區。之後，查看自己的holo能量區。展示其中的1張牌並加入手牌。將holo能量區重新洗牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "かくせいのこより",
+      "damage": 160,
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "這個成員帶著持有#こよラボ的支援卡時，從自己的牌組展示1張持有#こよラボ的支援卡並加入手牌。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP04-013"
+  },
+  {
+    "image": "cardListImages/hBP04/hBP04-013_P.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ",
+    "product": "PR卡",
     "color": "白",
     "hp": 200,
     "bloom": "2nd",
@@ -15029,6 +15506,33 @@
     "type": "成員",
     "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
     "product": "補充包「キュリアスユニバース (hBP04)」",
+    "color": "藍",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ユニーリアの令嬢",
+      "effect": "將自己吶喊牌組上方的1張牌，發送給自己帶有「雪民」的「雪花ラミィ」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "今日も祝福がありますように",
+      "damage": 130,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "可以將這個成員的1張吶喊卡放到存檔區：給予對手的中心成員或1位後台成員30點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP04-048"
+  },
+  {
+    "image": "cardListImages/hBP04/hBP04-048_P.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "PR卡",
     "color": "藍",
     "hp": 190,
     "bloom": "2nd",
@@ -20570,6 +21074,15 @@
     "id": "hBP05-074"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-074_P.png",
+    "name": "フレンドリーパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": "PR卡",
+    "supportEffect": "從自己的牌組展示1~2張特殊規則為「這個成員沒有張數限制」的Debut成員，放到舞台上。將牌組重新洗牌。如果將2張Debut成員放到舞台上，再將自己的1張手牌放回牌組下方。",
+    "id": "hBP05-074"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-075_C.png",
     "name": "牛丼",
     "type": "支援・活動",
@@ -23074,6 +23587,33 @@
     "id": "hSD06-006"
   },
   {
+    "image": "cardListImages/hSD06/hSD06-006_P.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 220,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "サムライ少女",
+      "effect": "從自己的牌組展示1張「ﾁｬｷ丸」或「ぽこべぇ」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "刀の錆になるでござる！",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hSD06-006"
+  },
+  {
     "image": "cardListImages/hSD06/hSD06-007_RR.png",
     "name": "風真いろは",
     "type": "成員",
@@ -23769,6 +24309,33 @@
     "id": "hSD08-004"
   },
   {
+    "image": "cardListImages/hSD08/hSD08-004_P.png",
+    "name": "天音かなた",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌",
+    "product": "PR卡",
+    "color": "白",
+    "hp": 180,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "エンジェルウィンド",
+      "effect": "[限定中心位置]自己聯動位置持有#4期生的Debut成員藝能傷害+40。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png","icons/arts_null.png"],
+      "name": "きみの背中に追いつけるように",
+      "damage": 120,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "[每個回合一次]使用這個藝能擊倒對手的中心成員時，給予對手的1位2nd成員40點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD08-004"
+  },
+  {
     "image": "cardListImages/hSD08/hSD08-005_C.png",
     "name": "姫森ルーナ",
     "type": "成員",
@@ -23928,6 +24495,36 @@
     "type": "成員",
     "tag": "#JP / #3期生 / #絵 / #海",
     "product": "起始牌組「赤 宝鐘マリン (hSD09)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "3期生の絆",
+      "damage": 60,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "「宝鐘マリン」以外，如果持有#3期生的成員在自己的舞台上，從自己的牌組抽1張牌。"
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_red.png","icons/arts_null.png"],
+      "name": "キミたちと水平線の向こう側へ",
+      "damage": 120,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "自己的舞台上每有1位持有#3期生且不同卡名的成員，給予對手的中心成員與聯動成員10點特殊傷害。"
+    },
+    "extra": null,
+    "id": "hSD09-004"
+  },
+  {
+    "image": "cardListImages/hSD09/hSD09-004_P.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海",
+    "product": "PR卡",
     "color": "紅",
     "hp": 200,
     "bloom": "2nd",
