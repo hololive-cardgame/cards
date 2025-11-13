@@ -1,6 +1,6 @@
 [
   {
-    "image": "hBD_1/hBD24-001_P.png",
+    "image": "cardListImages/hBD24/hBD24-001_P.png",
     "name": "パヴォリア・レイネ",
     "type": "主推",
     "product": "PR卡",
@@ -19,7 +19,7 @@
     "id": "hBD24-001"
   },
   {
-    "image": "hBD_1/hBD24-002_P.png",
+    "image": "cardListImages/hBD24/hBD24-002_P.png",
     "name": "獅白ぼたん",
     "type": "主推",
     "product": "PR卡",
@@ -38,7 +38,7 @@
     "id": "hBD24-002"
   },
   {
-    "image": "hBD_1/hBD24-003_P.png",
+    "image": "cardListImages/hBD24/hBD24-003_P.png",
     "name": "戌神ころね",
     "type": "主推",
     "product": "PR卡",
@@ -57,7 +57,7 @@
     "id": "hBD24-003"
   },
   {
-    "image": "hBD_1/hBD24-004_P.png",
+    "image": "cardListImages/hBD24/hBD24-004_P.png",
     "name": "白上フブキ",
     "type": "主推",
     "product": "PR卡",
@@ -76,7 +76,7 @@
     "id": "hBD24-004"
   },
   {
-    "image": "hBD_1/hBD24-005_P.png",
+    "image": "cardListImages/hBD24/hBD24-005_P.png",
     "name": "姫森ルーナ",
     "type": "主推",
     "product": "PR卡",
@@ -95,7 +95,7 @@
     "id": "hBD24-005"
   },
   {
-    "image": "hBD_1/hBD24-006_P.png",
+    "image": "cardListImages/hBD24/hBD24-006_P.png",
     "name": "クレイジー・オリー",
     "type": "主推",
     "product": "PR卡",
@@ -114,7 +114,7 @@
     "id": "hBD24-006"
   },
   {
-    "image": "hBD_1/hBD24-007_P.png",
+    "image": "cardListImages/hBD24/hBD24-007_P.png",
     "name": "ジジ・ムリン",
     "type": "主推",
     "product": "PR卡",
@@ -133,7 +133,7 @@
     "id": "hBD24-007"
   },
   {
-    "image": "hBD_1/hBD24-008_P.png",
+    "image": "cardListImages/hBD24/hBD24-008_P.png",
     "name": "ベスティア・ゼータ",
     "type": "主推",
     "product": "PR卡",
@@ -152,7 +152,7 @@
     "id": "hBD24-008"
   },
   {
-    "image": "hBD_1/hBD24-009_P.png",
+    "image": "cardListImages/hBD24/hBD24-009_P.png",
     "name": "セシリア・イマーグリーン",
     "type": "主推",
     "product": "PR卡",
@@ -171,7 +171,7 @@
     "id": "hBD24-009"
   },
   {
-    "image": "hBD_1/hBD24-010_P.png",
+    "image": "cardListImages/hBD24/hBD24-010_P.png",
     "name": "雪花ラミィ",
     "type": "主推",
     "product": "PR卡",
@@ -190,7 +190,7 @@
     "id": "hBD24-010"
   },
   {
-    "image": "hBD_1/hBD24-011_P.png",
+    "image": "cardListImages/hBD24/hBD24-011_P.png",
     "name": "ネリッサ・レイヴンクロフト",
     "type": "主推",
     "product": "PR卡",
@@ -209,7 +209,7 @@
     "id": "hBD24-011"
   },
   {
-    "image": "hBD_1/hBD24-012_P.png",
+    "image": "cardListImages/hBD24/hBD24-012_P.png",
     "name": "白銀ノエル",
     "type": "主推",
     "product": "PR卡",
@@ -228,7 +228,7 @@
     "id": "hBD24-012"
   },
   {
-    "image": "hBD_1/hBD24-013_P.png",
+    "image": "cardListImages/hBD24/hBD24-013_P.png",
     "name": "紫咲シオン",
     "type": "主推",
     "product": "PR卡",
@@ -247,7 +247,7 @@
     "id": "hBD24-013"
   },
   {
-    "image": "hBD_1/hBD24-014_P.png",
+    "image": "cardListImages/hBD24/hBD24-014_P.png",
     "name": "こぼ・かなえる",
     "type": "主推",
     "product": "PR卡",
@@ -266,7 +266,7 @@
     "id": "hBD24-014"
   },
   {
-    "image": "hBD_1/hBD24-015_P.png",
+    "image": "cardListImages/hBD24/hBD24-015_P.png",
     "name": "百鬼あやめ",
     "type": "主推",
     "product": "PR卡",
@@ -285,7 +285,7 @@
     "id": "hBD24-015"
   },
   {
-    "image": "hBD_1/hBD24-016_P.png",
+    "image": "cardListImages/hBD24/hBD24-016_P.png",
     "name": "沙花叉クロヱ",
     "type": "主推",
     "product": "PR卡",
@@ -304,7 +304,7 @@
     "id": "hBD24-016"
   },
   {
-    "image": "hBD_1/hBD24-017_P.png",
+    "image": "cardListImages/hBD24/hBD24-017_P.png",
     "name": "兎田ぺこら",
     "type": "主推",
     "product": "PR卡",
@@ -323,7 +323,7 @@
     "id": "hBD24-017"
   },
   {
-    "image": "hBD_1/hBD24-018_P_02.png",
+    "image": "cardListImages/hBD24/hBD24-018_P_02.png",
     "name": "アユンダ・リス",
     "type": "主推",
     "product": "PR卡",
@@ -342,7 +342,7 @@
     "id": "hBD24-018"
   },
   {
-    "image": "hBD_1/hBD24-019_P.png",
+    "image": "cardListImages/hBD24/hBD24-019_P.png",
     "name": "尾丸ポルカ",
     "type": "主推",
     "product": "PR卡",
@@ -361,7 +361,7 @@
     "id": "hBD24-019"
   },
   {
-    "image": "hBD_1/hBD24-020_P.png",
+    "image": "cardListImages/hBD24/hBD24-020_P.png",
     "name": "フワワ・アビスガード",
     "type": "主推",
     "product": "PR卡",
@@ -380,7 +380,7 @@
     "id": "hBD24-020"
   },
   {
-    "image": "hBD_1/hBD24-021_P.png",
+    "image": "cardListImages/hBD24/hBD24-021_P.png",
     "name": "モココ・アビスガード",
     "type": "主推",
     "product": "PR卡",
@@ -399,7 +399,7 @@
     "id": "hBD24-021"
   },
   {
-    "image": "hBD_1/hBD24-022_P.png",
+    "image": "cardListImages/hBD24/hBD24-022_P.png",
     "name": "儒烏風亭らでん",
     "type": "主推",
     "product": "PR卡",
@@ -418,7 +418,7 @@
     "id": "hBD24-022"
   },
   {
-    "image": "hBD_1/hBD24-023_P.png",
+    "image": "cardListImages/hBD24/hBD24-023_P.png",
     "name": "癒月ちょこ",
     "type": "主推",
     "product": "PR卡",
@@ -437,7 +437,7 @@
     "id": "hBD24-023"
   },
   {
-    "image": "hBD_1/hBD24-024_P.png",
+    "image": "cardListImages/hBD24/hBD24-024_P.png",
     "name": "ムーナ・ホシノヴァ",
     "type": "主推",
     "product": "PR卡",
@@ -456,7 +456,7 @@
     "id": "hBD24-024"
   },
   {
-    "image": "hBD_1/hBD24-025_P.png",
+    "image": "cardListImages/hBD24/hBD24-025_P.png",
     "name": "アキ・ローゼンタール",
     "type": "主推",
     "product": "PR卡",
@@ -475,7 +475,7 @@
     "id": "hBD24-025"
   },
   {
-    "image": "hBD_1/hBD24-026_P.png",
+    "image": "cardListImages/hBD24/hBD24-026_P.png",
     "name": "猫又おかゆ",
     "type": "主推",
     "product": "PR卡",
@@ -494,7 +494,7 @@
     "id": "hBD24-026"
   },
   {
-    "image": "hBD_1/hBD24-027_P.png",
+    "image": "cardListImages/hBD24/hBD24-027_P.png",
     "name": "火威青",
     "type": "主推",
     "product": "PR卡",
@@ -513,7 +513,7 @@
     "id": "hBD24-027"
   },
   {
-    "image": "hBD_1/hBD24-028_P.png",
+    "image": "cardListImages/hBD24/hBD24-028_P.png",
     "name": "ハコス・ベールズ",
     "type": "主推",
     "product": "PR卡",
@@ -532,7 +532,7 @@
     "id": "hBD24-028"
   },
   {
-    "image": "hBD_1/hBD24-029_P.png",
+    "image": "cardListImages/hBD24/hBD24-029_P.png",
     "name": "さくらみこ",
     "type": "主推",
     "product": "PR卡",
@@ -551,7 +551,7 @@
     "id": "hBD24-029"
   },
   {
-    "image": "hBD_1/hBD24-030_P.png",
+    "image": "cardListImages/hBD24/hBD24-030_P.png",
     "name": "アーニャ・メルフィッサ",
     "type": "主推",
     "product": "PR卡",
@@ -570,7 +570,7 @@
     "id": "hBD24-030"
   },
   {
-    "image": "hBD_1/hBD24-031_P.png",
+    "image": "cardListImages/hBD24/hBD24-031_P.png",
     "name": "オーロ・クロニー",
     "type": "主推",
     "product": "PR卡",
@@ -589,7 +589,7 @@
     "id": "hBD24-031"
   },
   {
-    "image": "hBD_1/hBD24-032_P.png",
+    "image": "cardListImages/hBD24/hBD24-032_P.png",
     "name": "博衣こより",
     "type": "主推",
     "product": "PR卡",
@@ -608,7 +608,7 @@
     "id": "hBD24-032"
   },
   {
-    "image": "hBD_1/hBD24-033_P.png",
+    "image": "cardListImages/hBD24/hBD24-033_P.png",
     "name": "IRyS",
     "type": "主推",
     "product": "PR卡",
@@ -627,7 +627,7 @@
     "id": "hBD24-033"
   },
   {
-    "image": "hBD_1/hBD24-034_P.png",
+    "image": "cardListImages/hBD24/hBD24-034_P.png",
     "name": "星街すいせい",
     "type": "主推",
     "product": "PR卡",
@@ -646,7 +646,7 @@
     "id": "hBD24-034"
   },
   {
-    "image": "hBD_1/hBD24-035_P.png",
+    "image": "cardListImages/hBD24/hBD24-035_P.png",
     "name": "桃鈴ねね",
     "type": "主推",
     "product": "PR卡",
@@ -665,7 +665,7 @@
     "id": "hBD24-035"
   },
   {
-    "image": "hBD_1/hBD24-036_P.png",
+    "image": "cardListImages/hBD24/hBD24-036_P.png",
     "name": "不知火フレア",
     "type": "主推",
     "product": "PR卡",
@@ -684,7 +684,7 @@
     "id": "hBD24-036"
   },
   {
-    "image": "hBD_1/hBD24-037_P.png",
+    "image": "cardListImages/hBD24/hBD24-037_P.png",
     "name": "森カリオペ",
     "type": "主推",
     "product": "PR卡",
@@ -703,7 +703,7 @@
     "id": "hBD24-037"
   },
   {
-    "image": "hBD_1/hBD24-038_P.png",
+    "image": "cardListImages/hBD24/hBD24-038_P.png",
     "name": "古石ビジュー",
     "type": "主推",
     "product": "PR卡",
@@ -722,7 +722,7 @@
     "id": "hBD24-038"
   },
   {
-    "image": "hBD_1/hBD24-039_P.png",
+    "image": "cardListImages/hBD24/hBD24-039_P.png",
     "name": "音乃瀬奏",
     "type": "主推",
     "product": "PR卡",
@@ -741,7 +741,7 @@
     "id": "hBD24-039"
   },
   {
-    "image": "hBD_1/hBD24-040_P.png",
+    "image": "cardListImages/hBD24/hBD24-040_P.png",
     "name": "天音かなた",
     "type": "主推",
     "product": "PR卡",
@@ -6280,7 +6280,7 @@
     "id": "hBP02-032"
   },
   {
-    "image": "images_1/hBP02-032_P.png",
+    "image": "cardListImages/hBP02/hBP02-032_P.png",
     "name": "宝鐘マリン",
     "type": "成員",
     "tag": "#JP / #3期生 / #絵 / #海",
@@ -10969,7 +10969,7 @@
     "id": "hBP03-051"
   },
   {
-    "image": "images_1/hBP03-051_P_02.png",
+    "image": "cardListImages/hBP03/hBP03-051_P_02.png",
     "name": "常闇トワ",
     "type": "成員",
     "tag": "#JP / #4期生 / #歌 / #シューター",
@@ -12409,7 +12409,7 @@
     "id": "hBP03-092"
   },
   {
-    "image": "images_1/hBP03-092_P.png",
+    "image": "cardListImages/hBP03/hBP03-092_P.png",
     "name": "ホロライブ0期生",
     "type": "支援・活動",
     "tag": null,
@@ -17191,7 +17191,7 @@
     "id": "hBP05-011"
   },
   {
-    "image": "images_1/hBP05-011_P.png",
+    "image": "cardListImages/hBP05/hBP05-011_P.png",
     "name": "白銀ノエル",
     "type": "成員",
     "tag": "#JP / #3期生 / #お酒",
@@ -18217,7 +18217,7 @@
     "id": "hBP05-031"
   },
   {
-    "image": "images_1/hBP05-031_P_02.png",
+    "image": "cardListImages/hBP05/hBP05-031_P_02.png",
     "name": "尾丸ポルカ",
     "type": "成員",
     "tag": "#JP / #5期生 / #ケモミミ",
@@ -20311,7 +20311,7 @@
     "id": "hBP05-079"
   },
   {
-    "image": "images_1/hBP05-079_01_P.png",
+    "image": "cardListImages/hBP05/hBP05-079_01_P.png",
     "name": "み俺恥",
     "type": "支援・活動",
     "tag": null,
@@ -20320,7 +20320,7 @@
     "id": "hBP05-079"
   },
   {
-    "image": "images_1/hBP05-079_02_P.png",
+    "image": "cardListImages/hBP05/hBP05-079_02_P.png",
     "name": "み俺恥",
     "type": "支援・活動",
     "tag": null,
@@ -20356,7 +20356,7 @@
     "id": "hBP05-080"
   },
   {
-    "image": "images_1/hBP05-080_P.png",
+    "image": "cardListImages/hBP05/hBP05-080_P.png",
     "name": "SorAZセレブレーション",
     "type": "支援・活動",
     "tag": null,
@@ -23730,7 +23730,7 @@
     "id": "hSD09-007"
   },
   {
-    "image": "hYS_1/hYS01-001_OC.png",
+    "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
     "product": "スタートエールセット",
@@ -23749,7 +23749,7 @@
     "id": "hYS01-001"
   },
   {
-    "image": "hYS_1/hYS01-002_OC.png",
+    "image": "cardListImages/hYS0/hYS01-002_OC.png",
     "name": "兎田ぺこら",
     "type": "主推",
     "product": "スタートエールセット",
@@ -23768,7 +23768,7 @@
     "id": "hYS01-002"
   },
   {
-    "image": "hYS_1/hYS01-003_OC.png",
+    "image": "cardListImages/hYS0/hYS01-003_OC.png",
     "name": "小鳥遊キアラ",
     "type": "主推",
     "product": "スタートエールセット",
@@ -23787,7 +23787,7 @@
     "id": "hYS01-003"
   },
   {
-    "image": "hYS_1/hYS01-004_OC.png",
+    "image": "cardListImages/hYS0/hYS01-004_OC.png",
     "name": "星街すいせい",
     "type": "主推",
     "product": "スタートエールセット",
@@ -23806,7 +23806,7 @@
     "id": "hYS01-004"
   },
   {
-    "image": "hY_1/hY01-001_C.png",
+    "image": "cardListImages/hY0/hY01-001_C.png",
     "name": "白エール",
     "type": "吶喊",
     "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「白 轟はじめ (hSD05)」","起始牌組「白 天音かなた (hSD08)」","スタートエールセット"],
@@ -23815,7 +23815,7 @@
     "id": "hY01-001"
   },
   {
-    "image": "hY_1/hY01-002_P.png",
+    "image": "cardListImages/hY0/hY01-002_P.png",
     "name": "白エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -23824,7 +23824,7 @@
     "id": "hY01-002"
   },
   {
-    "image": "hY_1/hY01-003_SY.png",
+    "image": "cardListImages/hY0/hY01-003_SY.png",
     "name": "白エール",
     "type": "吶喊",
     "product": "補充包「クインテットスペクトラム (hBP02)」",
@@ -23833,7 +23833,7 @@
     "id": "hY01-003"
   },
   {
-    "image": "hY_1/hY01-004_SY.png",
+    "image": "cardListImages/hY0/hY01-004_SY.png",
     "name": "白エール",
     "type": "吶喊",
     "product": "補充包「エリートスパーク (hBP03)」",
@@ -23842,7 +23842,7 @@
     "id": "hY01-004"
   },
   {
-    "image": "hY_1/hY01-005_P.png",
+    "image": "cardListImages/hY0/hY01-005_P.png",
     "name": "白エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -23851,7 +23851,7 @@
     "id": "hY01-005"
   },
   {
-    "image": "hY_1/hY01-006_SY.png",
+    "image": "cardListImages/hY0/hY01-006_SY.png",
     "name": "白エール",
     "type": "吶喊",
     "product": "補充包「キュリアスユニバース (hBP04)」",
@@ -23860,7 +23860,7 @@
     "id": "hY01-006"
   },
   {
-    "image": "hY_1/hY01-007_SY.png",
+    "image": "cardListImages/hY0/hY01-007_SY.png",
     "name": "白エール",
     "type": "吶喊",
     "product": "補充包「エンチャントレガリア (hBP05)」",
@@ -23869,7 +23869,7 @@
     "id": "hY01-007"
   },
   {
-    "image": "hY_1/hY01-009_P.png",
+    "image": "cardListImages/hY0/hY01-009_P.png",
     "name": "白エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -23878,7 +23878,7 @@
     "id": "hY01-009"
   },
   {
-    "image": "hY_1/hY02-001_C.png",
+    "image": "cardListImages/hY0/hY02-001_C.png",
     "name": "緑エール",
     "type": "吶喊",
     "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「緑 風真いろは (hSD06)」","スタートエールセット"],
@@ -23887,7 +23887,7 @@
     "id": "hY02-001"
   },
   {
-    "image": "hY_1/hY02-002_SY.png",
+    "image": "cardListImages/hY0/hY02-002_SY.png",
     "name": "緑エール",
     "type": "吶喊",
     "product": "補充包「クインテットスペクトラム (hBP02)」",
@@ -23896,7 +23896,7 @@
     "id": "hY02-002"
   },
   {
-    "image": "hY_1/hY02-003_SY.png",
+    "image": "cardListImages/hY0/hY02-003_SY.png",
     "name": "緑エール",
     "type": "吶喊",
     "product": "補充包「エリートスパーク (hBP03)」",
@@ -23905,7 +23905,7 @@
     "id": "hY02-003"
   },
   {
-    "image": "hY_1/hY02-004_P.png",
+    "image": "cardListImages/hY0/hY02-004_P.png",
     "name": "緑エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -23914,7 +23914,7 @@
     "id": "hY02-004"
   },
   {
-    "image": "hY_1/hY02-005_SY.png",
+    "image": "cardListImages/hY0/hY02-005_SY.png",
     "name": "緑エール",
     "type": "吶喊",
     "product": "補充包「キュリアスユニバース (hBP04)」",
@@ -23923,7 +23923,7 @@
     "id": "hY02-005"
   },
   {
-    "image": "hY_1/hY02-006_SY.png",
+    "image": "cardListImages/hY0/hY02-006_SY.png",
     "name": "緑エール",
     "type": "吶喊",
     "product": "補充包「エンチャントレガリア (hBP05)」",
@@ -23932,7 +23932,7 @@
     "id": "hY02-006"
   },
   {
-    "image": "hY_1/hY02-007_P.png",
+    "image": "cardListImages/hY0/hY02-007_P.png",
     "name": "緑エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -23941,7 +23941,7 @@
     "id": "hY02-007"
   },
   {
-    "image": "hY_1/hY03-001_C.png",
+    "image": "cardListImages/hY0/hY03-001_C.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「赤 宝鐘マリン (hSD09)」","スタートエールセット"],
@@ -23950,7 +23950,7 @@
     "id": "hY03-001"
   },
   {
-    "image": "hY_1/hY03-002_SY.png",
+    "image": "cardListImages/hY0/hY03-002_SY.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "補充包「クインテットスペクトラム (hBP02)」",
@@ -23959,7 +23959,7 @@
     "id": "hY03-002"
   },
   {
-    "image": "hY_1/hY03-003_SY.png",
+    "image": "cardListImages/hY0/hY03-003_SY.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "補充包「エリートスパーク (hBP03)」",
@@ -23968,7 +23968,7 @@
     "id": "hY03-003"
   },
   {
-    "image": "hY_1/hY03-004_SY.png",
+    "image": "cardListImages/hY0/hY03-004_SY.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "補充包「キュリアスユニバース (hBP04)」",
@@ -23977,7 +23977,7 @@
     "id": "hY03-004"
   },
   {
-    "image": "hY_1/hY03-005_P.png",
+    "image": "cardListImages/hY0/hY03-005_P.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -23986,7 +23986,7 @@
     "id": "hY03-005"
   },
   {
-    "image": "hY_1/hY03-006_P.png",
+    "image": "cardListImages/hY0/hY03-006_P.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -23995,7 +23995,7 @@
     "id": "hY03-006"
   },
   {
-    "image": "hY_1/hY03-007_P.png",
+    "image": "cardListImages/hY0/hY03-007_P.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -24004,7 +24004,7 @@
     "id": "hY03-007"
   },
   {
-    "image": "hY_1/hY03-008_P.png",
+    "image": "cardListImages/hY0/hY03-008_P.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -24013,7 +24013,7 @@
     "id": "hY03-008"
   },
   {
-    "image": "hY_1/hY03-009_SY.png",
+    "image": "cardListImages/hY0/hY03-009_SY.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "補充包「エンチャントレガリア (hBP05)」",
@@ -24022,7 +24022,7 @@
     "id": "hY03-009"
   },
   {
-    "image": "hY_1/hY03-011_P.png",
+    "image": "cardListImages/hY0/hY03-011_P.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -24031,7 +24031,7 @@
     "id": "hY03-011"
   },
   {
-    "image": "hY_1/hY03-012_P.png",
+    "image": "cardListImages/hY0/hY03-012_P.png",
     "name": "赤エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -24040,7 +24040,7 @@
     "id": "hY03-012"
   },
   {
-    "image": "hY_1/hY04-001_C.png",
+    "image": "cardListImages/hY0/hY04-001_C.png",
     "name": "青エール",
     "type": "吶喊",
     "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「青 猫又おかゆ (hSD03)」","スタートエールセット"],
@@ -24049,7 +24049,7 @@
     "id": "hY04-001"
   },
   {
-    "image": "hY_1/hY04-002_SY.png",
+    "image": "cardListImages/hY0/hY04-002_SY.png",
     "name": "青エール",
     "type": "吶喊",
     "product": "補充包「クインテットスペクトラム (hBP02)」",
@@ -24058,7 +24058,7 @@
     "id": "hY04-002"
   },
   {
-    "image": "hY_1/hY04-003_SY.png",
+    "image": "cardListImages/hY0/hY04-003_SY.png",
     "name": "青エール",
     "type": "吶喊",
     "product": "補充包「エリートスパーク (hBP03)」",
@@ -24067,7 +24067,7 @@
     "id": "hY04-003"
   },
   {
-    "image": "hY_1/hY04-004_P.png",
+    "image": "cardListImages/hY0/hY04-004_P.png",
     "name": "青エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -24076,7 +24076,7 @@
     "id": "hY04-004"
   },
   {
-    "image": "hY_1/hY04-005_SY.png",
+    "image": "cardListImages/hY0/hY04-005_SY.png",
     "name": "青エール",
     "type": "吶喊",
     "product": "補充包「キュリアスユニバース (hBP04)」",
@@ -24085,7 +24085,7 @@
     "id": "hY04-005"
   },
   {
-    "image": "hY_1/hY04-006_SY.png",
+    "image": "cardListImages/hY0/hY04-006_SY.png",
     "name": "青エール",
     "type": "吶喊",
     "product": "補充包「エンチャントレガリア (hBP05)」",
@@ -24094,7 +24094,7 @@
     "id": "hY04-006"
   },
   {
-    "image": "hY_1/hY04-007_S.png",
+    "image": "cardListImages/hY0/hY04-007_S.png",
     "name": "青エール",
     "type": "吶喊",
     "product": "スタートデッキセット-2025 ホロナツパラダイスver.",
@@ -24103,7 +24103,7 @@
     "id": "hY04-007"
   },
   {
-    "image": "hY_1/hY04-009_P.png",
+    "image": "cardListImages/hY0/hY04-009_P.png",
     "name": "青エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -24112,7 +24112,7 @@
     "id": "hY04-009"
   },
   {
-    "image": "hY_1/hY05-001_C.png",
+    "image": "cardListImages/hY0/hY05-001_C.png",
     "name": "紫エール",
     "type": "吶喊",
     "product": ["補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「紫 癒月ちょこ (hSD04)」"],
@@ -24121,7 +24121,7 @@
     "id": "hY05-001"
   },
   {
-    "image": "hY_1/hY05-002_SY.png",
+    "image": "cardListImages/hY0/hY05-002_SY.png",
     "name": "紫エール",
     "type": "吶喊",
     "product": "補充包「クインテットスペクトラム (hBP02)」",
@@ -24130,7 +24130,7 @@
     "id": "hY05-002"
   },
   {
-    "image": "hY_1/hY05-003_SY.png",
+    "image": "cardListImages/hY0/hY05-003_SY.png",
     "name": "紫エール",
     "type": "吶喊",
     "product": "補充包「エリートスパーク (hBP03)」",
@@ -24139,7 +24139,7 @@
     "id": "hY05-003"
   },
   {
-    "image": "hY_1/hY05-004_SY.png",
+    "image": "cardListImages/hY0/hY05-004_SY.png",
     "name": "紫エール",
     "type": "吶喊",
     "product": "補充包「キュリアスユニバース (hBP04)」",
@@ -24148,7 +24148,7 @@
     "id": "hY05-004"
   },
   {
-    "image": "hY_1/hY05-005_SY.png",
+    "image": "cardListImages/hY0/hY05-005_SY.png",
     "name": "紫エール",
     "type": "吶喊",
     "product": "補充包「エンチャントレガリア (hBP05)」",
@@ -24157,7 +24157,7 @@
     "id": "hY05-005"
   },
   {
-    "image": "hY_1/hY05-007_P.png",
+    "image": "cardListImages/hY0/hY05-007_P.png",
     "name": "紫エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -24166,7 +24166,7 @@
     "id": "hY05-007"
   },
   {
-    "image": "hY_1/hY06-001_C.png",
+    "image": "cardListImages/hY0/hY06-001_C.png",
     "name": "黄エール",
     "type": "吶喊",
     "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「黄 不知火フレア (hSD07)」"],
@@ -24175,7 +24175,7 @@
     "id": "hY06-001"
   },
   {
-    "image": "hY_1/hY06-002_SY.png",
+    "image": "cardListImages/hY0/hY06-002_SY.png",
     "name": "黄エール",
     "type": "吶喊",
     "product": "補充包「エリートスパーク (hBP03)」",
@@ -24184,7 +24184,7 @@
     "id": "hY06-002"
   },
   {
-    "image": "hY_1/hY06-003_P.png",
+    "image": "cardListImages/hY0/hY06-003_P.png",
     "name": "黄エール",
     "type": "吶喊",
     "product": "PR卡",
@@ -24193,7 +24193,7 @@
     "id": "hY06-003"
   },
   {
-    "image": "hY_1/hY06-004_SY.png",
+    "image": "cardListImages/hY0/hY06-004_SY.png",
     "name": "黄エール",
     "type": "吶喊",
     "product": "補充包「キュリアスユニバース (hBP04)」",
@@ -24202,7 +24202,7 @@
     "id": "hY06-004"
   },
   {
-    "image": "hY_1/hY06-005_SY.png",
+    "image": "cardListImages/hY0/hY06-005_SY.png",
     "name": "黄エール",
     "type": "吶喊",
     "product": "補充包「エンチャントレガリア (hBP05)」",
@@ -24211,7 +24211,7 @@
     "id": "hY06-005"
   },
   {
-    "image": "hY_1/hY06-006_P.png",
+    "image": "cardListImages/hY0/hY06-006_P.png",
     "name": "黄エール",
     "type": "吶喊",
     "product": "PR卡",
