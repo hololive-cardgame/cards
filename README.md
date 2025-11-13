@@ -1,0 +1,1 @@
+Sometimes, it is okay to feel tired. It is totally fine to fail no matter how many times. At least you try your best. Try to stand back up. Try to find your true self. Be you, don't lose faith. You are great as you are. Because, every success needs process. And I believe in you.
