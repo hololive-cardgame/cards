@@ -414,18 +414,25 @@ function generateFilterOptions() {
   // 收錄商品排序 hSDxx hBPxx
   function customSort(arr) {
     return arr.sort((a, b) => {
-      const extractNumber = (set) => {
-        const match = set.match(/h\w+(\d+)/);
-        if (match) {
-          return parseInt(match[1], 10);  // 返回數字
-        }
-        return Infinity;  // 如果沒有匹配到名稱，放到最後面
+
+      const parseSet = (set) => {
+        const match = set.match(/^(h[A-Za-z]+)(\d+)$/);
+        if (!match) return { prefix: set, num: Infinity };
+        return {
+          prefix: match[1],
+          num: parseInt(match[2], 10),
+        };
       };
 
-      const numberA = extractNumber(a);
-      const numberB = extractNumber(b);
+      const A = parseSet(a);
+      const B = parseSet(b);
 
-      return numberA - numberB;  // 按數字排序
+      // 先比較字母前綴
+      if (A.prefix < B.prefix) return -1;
+      if (A.prefix > B.prefix) return 1;
+
+      // 再比較數字
+      return A.num - B.num;
     });
   }
   // 填充收錄商品選項
