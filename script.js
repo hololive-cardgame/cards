@@ -415,7 +415,7 @@ function generateFilterOptions() {
   function customSort(arr) {
     return arr.sort((a, b) => {
       const extractNumber = (set) => {
-        const match = set.match(/^h[A-Za-z]+(\d+)$/);
+        const match = set.match(/h[A-Za-z]+(\d+)/);
         if (match) {
           return parseInt(match[1], 10);  // 返回數字
         }
