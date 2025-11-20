@@ -21879,7 +21879,7 @@
     "name": "スゴイパソコン",
     "type": "支援・物品",
     "tag": null,
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「紫 癒月ちょこ (hSD04)」"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」"],
     "supportEffect": "將自己的1張吶喊卡放到存檔區才能使用。\n\n從自己的牌組展示1張Buzz以外的1st成員或2nd成員並加入手牌。將牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hSD01-019"
   },
@@ -24920,6 +24920,238 @@
     "id": "hSD10-013"
   },
   {
+    "image": "cardListImages/hSD11/hSD11-001_OSR.png",
+    "name": "虎金妃笑虎",
+    "type": "主推",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "黃",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "虎視眈々",
+      "effect": "[每個回合一次]將自己存檔區的1~2張吶喊卡發送給自己1位持有#FLOW GLOW且沒有吶喊卡的成員。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "ニコたんの名を呼ぶがいいさ！",
+      "effect": "[每場比賽一次]因自己持有#FLOW GLOW的成員的效果將吶喊卡放到存檔區時可以使用：每將1張吶喊卡放到存檔區，給予對手的中心成員或聯動成員30點特殊傷害。"
+    },
+    "id": "hSD11-001"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-002_C.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "黃",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ニコたんが～来たァー！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD11-002"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-003_C.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "黃",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "にこと出会えたの何かのキセキ",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "期待せよ 牙で噛まれちゃうシゲキ",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hSD11-003"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-004_U.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "黃",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "人を笑顔にするためならば",
+      "effect": "可以將自己舞台上的2張吶喊卡放到存檔區：將自己存檔區的1張「虎金妃笑虎」返回手牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "自分の人生すらも捧げられる",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "可以將自己吶喊牌組上方的1張牌發送給自己的「虎金妃笑虎」。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD11-004"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-005_U.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "黃",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "FLOW GLOWのお笑い担当",
+      "effect": "可以將自己存檔區的1張吶喊卡發送給自己持有#FLOW GLOW的後台成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "百折不撓",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果自己舞台上的吶喊卡有5張以上，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD11-005"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-006_RR.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "黃",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "戯笑の使者",
+      "effect": "自己的表演階段開始時，可以將自己手牌1張持有#FLOW GLOW的成員放到存檔區：將自己存檔區的1張黃色吶喊卡發送給自己的「虎金妃笑虎」。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "虎嘯風生",
+      "damage": "40+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "可以將這個成員任意數量的吶喊卡放到存檔區：每將1張吶喊卡放到存檔區，這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD11-006"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-007_C.png",
+    "name": "水宮枢",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "藍",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "しゅぴしゅわー",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "直到下個對手回合結束，對手中心位置的1位成員交棒需要的吶喊卡數量+1。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD11-007"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-008_C.png",
+    "name": "水宮枢",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "FLOW GLOWのえらい宣伝担当",
+      "effect": "直到下個對手回合結束，對手中心位置的1位成員交棒需要的吶喊卡數量+1。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "愛は時間ですよ",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果對交棒需要的吶喊卡數量為2以上的成員使用這個藝能，將自己吶喊牌組上方的1張牌發送給自己的後台成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD11-008"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-009_RR.png",
+    "name": "水宮枢",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "藍",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "感情の伝令者",
+      "effect": "直到下個對手回合結束，對手中心位置的1位成員交棒需要的吶喊卡數量+3。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "スゥイートオブセッション",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "對成員使用這個藝能，該成員交棒需要的吶喊卡數量每有1個，給予10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD11-009"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
@@ -25233,7 +25465,7 @@
     "image": "cardListImages/hY0/hY04-001_C.png",
     "name": "青エール",
     "type": "吶喊",
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「青 猫又おかゆ (hSD03)」","スタートエールセット"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","スタートエールセット"],
     "color": "藍",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY04-001"
@@ -25359,7 +25591,7 @@
     "image": "cardListImages/hY0/hY06-001_C.png",
     "name": "黄エール",
     "type": "吶喊",
-    "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「黄 不知火フレア (hSD07)」"],
+    "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」"],
     "color": "黃",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY06-001"
