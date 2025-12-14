@@ -21525,6 +21525,120 @@
     "id": "hBP05-087"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-001_OSR.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "BIG CAT means…",
+      "effect": "[每個回合一次]如果自己的中心成員為「ラオーラ・パンテーラ」，從自己的牌組展示1張與自己聯動成員相同卡名的成員並加入手牌。將牌組重新洗牌。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "BIG TROUBLE!!",
+      "effect": "[每場比賽一次]這場比賽中，自己所有的「ラオーラ・パンテーラ」在重置階段不需要改為休息狀態。"
+    },
+    "id": "hBP06-001"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-002_OSR.png",
+    "name": "響咲リオナ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "やりたいように、私は私らしく",
+      "effect": "[每個回合一次]將自己牌組上方的2張牌放到存檔區。之後，這個回合中，自己持有#FLOW GLOW的中心成員與聯動成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "生き抜いていくんです！",
+      "effect": "[每場比賽一次]自己牌組的張數在5張以下，且自己持有#FLOW GLOW的成員擊倒對手的中心成員時可以使用：對手的生命值-1。"
+    },
+    "id": "hBP06-002"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-003_OSR.png",
+    "name": "風真いろは",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "迷ったらまず実行！",
+      "effect": "[每個回合一次]將自己吶喊牌組上方的1張牌發送給自己的Buzz成員或從Buzz成員綻放的「風真いろは」。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "アルティメットつよつよござる",
+      "effect": "[每場比賽一次]這個回合中，自己的舞台上每有1張吶喊卡，自己舞台上所有的「風真いろは」藝能傷害+10。之後，如果自己的舞台上有Buzz成員，從自己的牌組抽3張牌。"
+    },
+    "id": "hBP06-003"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-004_OSR.png",
+    "name": "百鬼あやめ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "鬼閻魔",
+      "effect": "[每個回合一次]將自己吶喊牌組上方的1~2張牌放到存檔區：每將1張吶喊卡放到存檔區，從自己的牌組抽1張牌。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "二刀一閃！ 鬼神斬り",
+      "effect": "[每場比賽一次]自己的存檔區每有1張紅色吶喊卡，給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "id": "hBP06-004"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-005_OSR.png",
+    "name": "ハコス・ベールズ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "混沌の化身",
+      "effect": "[每個回合一次]如果這場比賽中有使用過自己的SP主推技能，擲1次骰子。從自己的牌組抽牌，直到手牌張數與擲出的點數相同。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲",
+      "effect": "[每場比賽一次]擲1次骰子。擲出的點數每有1點，將自己的1張手牌放到存檔區。"
+    },
+    "id": "hBP06-005"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-006_OSR.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "満月の輝き",
+      "effect": "[每個回合一次]給予了對手的1位成員特殊傷害時可以使用：給予對手的中心成員與聯動成員20點特殊傷害。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "双月の斉唱",
+      "effect": "[每場比賽一次]如果雙方舞台上的吶喊卡總和在6張以上，從自己的吶喊牌組展示1~3張吶喊卡，分配給自己持有#ID1期生的成員。將吶喊牌組重新洗牌。"
+    },
+    "id": "hBP06-006"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
