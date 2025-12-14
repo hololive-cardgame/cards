@@ -22031,6 +22031,186 @@
     "id": "hBP06-021"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-022_C.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 140,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "手作りのお守り",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-022"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-023_U.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ホップすてっぷジャンプ！",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張Buzz成員「風真いろは」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "GOZAGOZA536",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-023"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-024_C.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 200,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "まじかる☆ござるの元気の出る魔法",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-024"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-025_U.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "のんびり過ごす記念日",
+      "effect": "[限定中心位置或聯動位置]自己的舞台上除了這個成員外，持有#秘密結社holoX的所有成員藝能傷害+20。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "ツンツンツン…",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-025"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-026_R.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 250,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "元気をお届け！",
+      "effect": "[限定中心位置]自己的成員聯動時，如果自己的手牌在5張以上，可以將自己吶喊牌組上方的1張牌發送給自己的聯動成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png"],
+      "name": "喜んでもらえたらいいな",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP06-026"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-027_RR.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "伝えたい想い",
+      "effect": "這個成員擊倒對手的中心成員時，自己這個回合綻放過的1位「風真いろは」，可以使用自己手牌的成員再次進行綻放。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "一緒にすてっぷ",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果自己的主推為「風真いろは」，且自己有聯動成員，這個藝能傷害+40。如果這個成員是從Buzz成員綻放的，這個藝能的傷害不會被減少。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-027"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-028_C.png",
+    "name": "姫森ルーナ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ベイビー",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "んなあああああい",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-028"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
