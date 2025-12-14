@@ -22211,6 +22211,303 @@
     "id": "hBP06-028"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-029_U.png",
+    "name": "姫森ルーナ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ベイビー",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "祝祭",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果自己的成員帶有粉絲，可以將自己吶喊牌組上方的1張牌發送給這個成員。"
+    },
+    "art2": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ロイヤル・フラワーブーケ",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hBP06-029"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-030_R.png",
+    "name": "姫森ルーナ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ベイビー",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "みんなへ感謝の気持ち",
+      "effect": "[限定聯動位置]對手回合中，將附加給自己中心成員的「ルーナイト」放到存檔區時，作為代替，可以替換給自己的後台成員「姫森ルーナ」。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "届けたいのら！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "可以將自己存檔區的1張「ルーナイト」附加給自己的「姫森ルーナ」。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-030"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-031_RR.png",
+    "name": "姫森ルーナ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ベイビー",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "んなっしょい！",
+      "effect": "如果自己的主推為「姫森ルーナ」，可以將自己舞台上的1~2張「ルーナイト」放到存檔區：每將1張牌放到存檔區，將自己吶喊牌組上方的1張牌發送給自己的1位「姫森ルーナ」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ずっと一緒なのらね",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果這個成員帶有2張以上的「ルーナイト」，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-031"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-032_R.png",
+    "name": "セシリア・イマーグリーン",
+    "type": "成員",
+    "tag": "#EN / #Justice / #語学",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "FOR! JUSTICE!",
+      "effect": "將自己吶喊牌組上方的1張牌發送給自己這個成員外持有#Justice的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "春の思い出",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-032"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-033_R.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "濡羽色のほころび",
+      "effect": "如果這個回合有使用過持有#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "茸 （くさびら）",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "可以將自己存檔區的1張吶喊卡發送給自己持有#ReGLOSS的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-033"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-034_C.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "夏の海でドキドキデート",
+      "damage": "10+",
+      "specialAttackImage": null,
+      "effect": "可以將自己的1張手牌放到存檔區：這個回合中，自己的中心成員「百鬼あやめ」藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-034"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-035_U.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": {
+      "name": "かわ余",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張道具、吉祥物或粉絲，附加給自己的「百鬼あやめ」。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "…二度寝する(:3_ヽ)_",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-035"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-036_C.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "まったり夜桜温泉デート",
+      "effect": "從自己的牌組展示1張「阿修羅＆羅刹」、「鬼神刀「阿修羅」」或「ぽよ余」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "お風呂上がりの幸せな時間",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "可以將自己吶喊牌組上方的1張牌放到存檔區：從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-036"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-037_U.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "お参りデート",
+      "effect": "可以將自己存檔區的2張紅色吶喊卡依照喜歡的順序放回吶喊牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "ずっと元気でいられますように…",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "可以將自己吶喊牌組上方的1張牌放到存檔區：給予對手的中心成員或聯動成員30點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-037"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-038_R.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "たまに増える余",
+      "effect": "可以將自己吶喊牌組上方的1張牌放到存檔區：將自己存檔區的1張「百鬼あやめ」返回手牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "では参る！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "可以將自己吶喊牌組上方的1張牌放到存檔區：給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-038"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-039_RR.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "2nd",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "余、なんも聞いとらんかった。",
+      "effect": "[限定中心位置]如果自己有聯動成員且對手沒有聯動成員，自己所有的成員不會受到對手的藝能傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "百鬼乱舞 -朧月-",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己的主推為「百鬼あやめ」，可以將自己吶喊牌組上方的1~3張牌放到存檔區：每將1張吶喊卡放到存檔區，這個藝能傷害+40。自己的生命值在2以下才能在聯動位置使用這個藝能。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-039"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
