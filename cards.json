@@ -22663,7 +22663,7 @@
       "effect": "將自己存檔區的1~5張成員依照喜歡的順序放回牌組下方。每將1張成員放回牌組，這個藝能傷害+10。"
     },
     "art2": {
-      "image": ["icons/arts_red.png""icons/arts_null.png","icons/arts_null.png"],
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
       "name": "💥¡¡SSꓵHƆSꓶƎԀԀOꓷ💥",
       "damage": 100,
       "specialAttackImage": "icons/tokkou_50_purple.png",
