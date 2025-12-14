@@ -3164,6 +3164,30 @@
     "id": "hBP01-048"
   },
   {
+    "image": "cardListImages/hBP06/hBP01-048_03_C.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "皆殿、風真いろはでござる～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-048"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-049_C.png",
     "name": "風真いろは",
     "type": "成員",
@@ -4109,6 +4133,30 @@
     "id": "hBP01-072"
   },
   {
+    "image": "cardListImages/hBP06/hBP01-072_02_C.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 80,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "WAZZUP!!",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "這個成員有紅色吶喊卡時，可以擲1次骰子：奇數時，給予對手的聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-072"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-073_C.png",
     "name": "ハコス・ベールズ",
     "type": "成員",
@@ -4777,6 +4825,30 @@
     "type": "成員",
     "tag": "#ID / #ID1期生 / #歌",
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
+    "color": "藍",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "ムーン　ムーン　ムーナだよ！",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "可以擲1次骰子：偶數時，給予對手的1位後台成員20點特殊傷害(即使擊倒對手的成員，也不會減少對手的生命值)。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-088"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP01-088_02_C.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
     "color": "藍",
     "hp": 90,
     "bloom": "Debut",
@@ -8095,6 +8167,30 @@
     "id": "hBP02-054"
   },
   {
+    "image": "cardListImages/hBP06/hBP02-054_02_C.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紫",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "グリム・リーパーの第一弟子",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "自己的存檔區有成員時，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP02-054"
+  },
+  {
     "image": "cardListImages/hBP02/hBP02-055_U.png",
     "name": "森カリオペ",
     "type": "成員",
@@ -9735,6 +9831,30 @@
     "type": "成員",
     "tag": "#JP / #4期生 / #ベイビー",
     "product": "補充包「エリートスパーク (hBP03)」",
+    "color": "白",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "みんな～、おりゅ～？",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "帶有「ルーナイト」的成員不在自己的舞台上時，從自己的牌組展示1張「ルーナイト」，附加給自己的成員。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-009"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP03-009_02_C.png",
+    "name": "姫森ルーナ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ベイビー",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
     "color": "白",
     "hp": 90,
     "bloom": "Debut",
@@ -11983,6 +12103,30 @@
     "id": "hBP03-057"
   },
   {
+    "image": "cardListImages/hBP06/hBP03-057_02_C.png",
+    "name": "ロボ子さん",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紫",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "はろーぼー！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-057"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-058_C.png",
     "name": "ロボ子さん",
     "type": "成員",
@@ -12093,6 +12237,36 @@
     "type": "成員",
     "tag": "#JP / #ゲーマーズ / #ケモミミ",
     "product": "補充包「エリートスパーク (hBP03)」",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ぉぁよ～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ゆびゆび～",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-061"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP03-061_02_C.png",
+    "name": "戌神ころね",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
     "color": "黃",
     "hp": 120,
     "bloom": "Debut",
@@ -14199,6 +14373,30 @@
     "id": "hBP04-016"
   },
   {
+    "image": "cardListImages/hBP06/hBP04-016_02_C.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "チアオーラ",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "自己舞台上的成員在5位以下時，可以從自己的牌組展示1張持有#Justice的Spot成員並放到舞台上。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-016"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-017_C.png",
     "name": "ラオーラ・パンテーラ",
     "type": "成員",
@@ -15266,6 +15464,30 @@
     "type": "成員",
     "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
     "product": "補充包「キュリアスユニバース (hBP04)」",
+    "color": "藍",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "こんらみ～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位成員10點特殊傷害。即使擊倒對手的成員，也不會減少對手的生命值。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-043"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP04-043_02_C.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
     "color": "藍",
     "hp": 90,
     "bloom": "Debut",
@@ -16449,6 +16671,36 @@
     "id": "hBP04-067"
   },
   {
+    "image": "cardListImages/hBP06/hBP04-067_02_C.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "黃",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "あじまる！ あじまる！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ちわーす！ ホロライブ2期生 大空スバルっス!!",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-067"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-068_U.png",
     "name": "大空スバル",
     "type": "成員",
@@ -16976,6 +17228,33 @@
     "type": "成員",
     "tag": "#JP / #1期生 / #シューター",
     "product": "補充包「キュリアスユニバース (hBP04)」",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "わっしょ～い！",
+      "effect": "對手回合中，這個成員被擊倒時，可以將這個成員的1張吶喊卡，替換給自己其他的成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ホロライブの清楚担当",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-079"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP04-079_02_C.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
     "color": "黃",
     "hp": 120,
     "bloom": "Debut",
@@ -21935,6 +22214,30 @@
     "type": "成員",
     "tag": "#JP / #2期生 / #シューター",
     "product": "起始牌組「赤 百鬼あやめ (hSD02)」",
+    "color": "紅",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "こんなきり～",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD02-002"
+  },
+  {
+    "image": "cardListImages/hSD06/hSD02-002_02_C.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
     "color": "紅",
     "hp": 90,
     "bloom": "Debut",
