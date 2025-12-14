@@ -21677,6 +21677,360 @@
     "id": "hBP06-008"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-009_C.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "BIG PINK CAT",
+      "effect": "[限定中心位置]自己的聯動成員受到的傷害-10。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "I see you!",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-009"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-010_U.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "夢みたいな最高のチーム",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張Debut成員或Spot成員，放到舞台上。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "みんな素晴らしい友達だよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-010"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-011_C.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "RAORAO",
+      "effect": "從自己的牌組展示1張持有#Justice的Debut成員或1st成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Mamma mia",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-011"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-012_U.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "The REAL Queen is Here!",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "LA FINE",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組抽2張牌。"
+    },
+    "extra": null,
+    "id": "hBP06-012"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-013_R.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 250,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "CATCH ALL CHATTINI AROUND THE WORLD!!!",
+      "effect": "從自己的牌組展示1張「Chattino」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "一緒に世界を征服しよう！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]這個回合中，自己持有#絵的聯動成員藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP06-013"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-014_RR.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "夢紡ぎのアトリエ",
+      "effect": "這個成員使用了藝能時，查看自己的holo能量區。展示其中的1張牌並加入手牌。如果將牌加入手牌，將自己的1張手牌放到holo能量區。將holo能量區重新洗牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "色彩のリナシメント",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "[限定中心位置]這個回合中，自己持有#絵的聯動成員藝能傷害+50，該成員的藝能需要的無色吶喊卡數量-1。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-014"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-015_C.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "おかえりおな～",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP06-015"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-016_U.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "一緒に共闘しよ",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張持有#FLOW GLOW且有聯動效果的成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "おつりおなああああ！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-016"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-017_C.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "夢はアリーナでするライブ",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "タイフーン起こすこのホロライブ",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hBP06-017"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-018_U.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "FLOW GLOWのリーダー",
+      "effect": "這個回合中，自己舞台上1位持有#FLOW GLOW的成員藝能傷害+20。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Brr! Brr!",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "將自己牌組上方的1張牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-018"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-019_R.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ストイック負けず嫌い王",
+      "effect": "如果自己的主推為「響咲リオナ」，可以將自己牌組上方的1張牌放到存檔區：從自己的牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "意外と熱血タイプ？",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "將自己牌組上方的1張牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-019"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-020_RR.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "意志の指揮者",
+      "effect": "對手回合中，這個成員被擊倒時，可以將自己牌組上方的2張牌放到存檔區。如果將牌放到存檔區，自己的舞台上每有1位持有#FLOW GLOW且不同卡名的成員，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "レゾナンスロア",
+      "damage": "150+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "將自己牌組上方的1~3張牌放到存檔區。每將1張牌放到存檔區，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-020"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-021_R.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "君に届けっ",
+      "effect": "這個回合中，自己舞台上1位持有#秘密結社holoX的成員藝能傷害+30。如果這個成員帶著持有#こよラボ的支援卡，則該成員藝能傷害+50。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "青春の１ページ",
+      "damage": "90+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "可以將自己存檔區1張持有#こよラボ的支援卡放回牌組下方：這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-021"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
