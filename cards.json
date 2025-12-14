@@ -22508,6 +22508,225 @@
     "id": "hBP06-039"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-040_C.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "You can do it!",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "擲1次骰子。如果為奇數，給予對手的中心成員與聯動成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-040"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-041_U.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": {
+      "name": "GYM RAT",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組抽3張牌後，將2張手牌放到存檔區。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Brat Wellness",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-041"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-042_C.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Strawberry Princess",
+      "effect": "將自己的1張手牌放到存檔區。之後，從自己的牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "イチゴで彩る誕生日",
+      "damage": "40+",
+      "specialAttackImage": null,
+      "effect": "可以將自己的2張手牌放到存檔區：這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-042"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-043_U.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Once a Peasant,",
+      "effect": "可以將自己手牌1張持有#Promise的成員放到存檔區：給予對手的中心成員或聯動成員30點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "ALWAYS A PEASANT.",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-043"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-044_R.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "ホイールオブフォーチュン",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果這場比賽中有使用過自己的SP主推技能「🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲」，擲1次骰子。擲出的點數每有1點，這個藝能傷害+10。"
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "ありがチュー！",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hBP06-044"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-045_RR.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "カオスリローデッド",
+      "damage": "70+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "將自己存檔區的1~5張成員依照喜歡的順序放回牌組下方。每將1張成員放回牌組，這個藝能傷害+10。"
+    },
+    "art2": {
+      "image": ["icons/arts_red.png""icons/arts_null.png","icons/arts_null.png"],
+      "name": "💥¡¡SSꓵHƆSꓶƎԀԀOꓷ💥",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果這場比賽中有使用過自己的SP主推技能「🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲」，給予對手的中心成員或聯動成員100點特殊傷害。"
+    },
+    "extra": null,
+    "id": "hBP06-045"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-046_R.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "間違っているぞ！",
+      "effect": "如果這場比賽中有使用過自己的SP主推技能「ホークアイ」，這個成員的藝能傷害+20。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "永久不滅の絆",
+      "damage": 120,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果自己的主推為「鷹嶺ルイ」，可以將自己的2張手牌放到存檔區：給予對手的中心成員或聯動成員50點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-046"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-047_R.png",
+    "name": "一条莉々華",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #料理 / #語学",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "家にあるもの限界飯",
+      "effect": "如果自己的主推為「一条莉々華」，且自己的存檔區有2張以上的「限界飯」，從自己的牌組抽2張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "ガチでなんもない。タスケテ。",
+      "damage": 70,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "[限定聯動位置]給予對手的聯動成員50點特殊傷害。如果對手沒有聯動成員，則給予對手的中心成員50點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-047"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
