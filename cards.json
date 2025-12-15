@@ -22727,6 +22727,360 @@
     "id": "hBP06-047"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-048_C.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ムーンペース",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "如果這個成員有藍色以外的吶喊卡，給予對手的1位後台成員10點特殊傷害。即使擊倒對手的成員，也不會減少對手的生命值。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-048"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-049_U.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "青い琥珀",
+      "effect": "如果在自己後攻的第一個回合，從自己的吶喊牌組展示1張藍色吶喊卡，發送給自己的「ムーナ・ホシノヴァ」。將吶喊牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "星々の踊り",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-049"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-050_C.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "2 Sides of The Moon",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位後台成員10點特殊傷害。"
+    },
+    "art2": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "Lunar Duality",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hBP06-050"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-051_U.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "スプリングパーティー",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "親愛の情",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "如果自己的主推為「ムーナ・ホシノヴァ」，可以將這個成員的1張吶喊卡放到存檔區：從自己的牌組抽1張牌。"
+    },
+    "extra": null,
+    "id": "hBP06-051"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-052_R.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 240,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "新月",
+      "effect": "這個成員給予了對手的成員藝能傷害時可以使用：給予對手該成員受到的傷害相同數值的特殊傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "下弦の月",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果自己的主推為「ムーナ・ホシノヴァ」，且這個成員有4張以上的吶喊卡，這個藝能傷害+60。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP06-052"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-053_RR.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "星の運命",
+      "effect": "選擇對手的中心成員或聯動成員。給予選擇的成員，該成員受到的傷害相同數值的特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "Tidal Eclipse",
+      "damage": 90,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果這個成員有4張以上的吶喊卡，給予對手的中心成員或聯動成員90點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-053"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-054_R.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "有言実行！！",
+      "effect": "如果這個成員帶有「雪民」，給予對手的中心成員20點特殊傷害。之後，從自己的牌組抽1張牌。如果這個成員帶有3張以上的「雪民」，則從自己的牌組抽2張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_null.png"],
+      "name": "暖かい誕生日とその先へ",
+      "damage": "140+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "這個成員每帶有1張「雪民」，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-054"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-055_R.png",
+    "name": "沙花叉クロヱ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #海",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "ワンワーーン！！！",
+      "effect": "如果自己的主推為「紫咲シオン」，將對手存檔區的3張吶喊卡發送給對手的中心成員。之後，可以將自己存檔區的1張吶喊卡發送給自己的「紫咲シオン」。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_purple.png"],
+      "name": "二人で紡いだ魔法",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "展示自己牌組上方的4張牌。每有1張成員，這個藝能傷害+20。將展示的牌放到存檔區。如果其中有活動，從自己的牌組抽2張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-055"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-056_R.png",
+    "name": "沙花叉クロヱ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #海",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "ギャル叉と登校",
+      "effect": "如果這場比賽中有使用過自己的SP主推技能「人生リセットボタン」，這個成員的藝能「沙花叉と青春しよ？」需要的無色吶喊卡數量-1。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "沙花叉と青春しよ？",
+      "damage": "120+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "展示自己牌組上方的6張牌。每有1張成員，這個藝能傷害+20。將展示的牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-056"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-057_C.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Mori's Underground Live",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組抽1張牌後，將1張手牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-057"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-058_U.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Yes, Chef.",
+      "effect": "從自己的牌組抽3張牌後，將2張手牌放到存檔區。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "a chef’s journey’s end.",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果這個成員有紫色吶喊卡，從自己的牌組抽1張牌。之後，將自己牌組上方的2張牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-058"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-059_R.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "お泊りパーリナイ!",
+      "effect": "如果自己的舞台上有3位以上持有#EN的成員，從自己的吶喊牌組展示1張藍色吶喊卡或紫色吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "まどろみの中で",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-059"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-060_RR.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Bull's-eye!!!!",
+      "damage": 60,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "如果自己的主推為「森カリオペ」，可以將自己牌組上方的2張牌放到存檔區。如果將牌放到存檔區，將自己吶喊牌組上方的1張牌發送給自己的成員。"
+    },
+    "art2": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "Memento Mori.",
+      "damage": "200+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "這個回合中，自己舞台上1位持有#Myth的成員藝能傷害+20。之後，如果自己的主推為「森カリオペ」，且自己的存檔區有8張以上的成員，可以從自己的牌組抽1張牌。"
+    },
+    "extra": null,
+    "id": "hBP06-060"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
