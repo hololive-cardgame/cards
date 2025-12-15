@@ -23759,6 +23759,159 @@
     "id": "hBP06-087"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-088_C.png",
+    "name": "ドッキリうさぎ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "自己的成員在上個對手回合中被擊倒，且自己的生命值比對手少時才能使用。\n\n選擇對手的中心成員或聯動成員。將該成員改為休息狀態並移動到舞台後方。下個對手的重置階段，該成員不能改為活動狀態。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-088"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-089_C.png",
+    "name": "ドローイングストリーム",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "從自己的吶喊牌組展示1張吶喊卡，發送給自己持有#絵的成員。將吶喊牌組重新洗牌。之後，將自己存檔區1張持有#絵的成員返回手牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-089"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-090_U.png",
+    "name": "ブルームステージ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "從自己的牌組抽2張牌。之後，如果自己的生命值在4以下，自己這個回合從Debut綻放為1st的1位成員，可以使用自己手牌的成員再次進行綻放。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-090"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-091_U.png",
+    "name": "ホロライブ1期生",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意持有#1期生的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-091"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-092_C.png",
+    "name": "マヨネーズちゅっちゅっ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "這個回合中，自己舞台上的1位「博衣こより」藝能傷害+30。",
+    "id": "hBP06-092"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-093_U.png",
+    "name": "山田ルイ54世",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "自己舞台上的所有成員都持有#秘密結社holoX才能使用。\n\n從自己的牌組展示2張持有#秘密結社holoX的成員並加入手牌。將牌組重新洗牌。之後，如果自己舞台上的吶喊卡數量比對手少，可以將自己吶喊牌組上方的1張牌發送給自己的成員。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-093"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-094_C.png",
+    "name": "ワークアウト",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "自己有聯動成員或對手沒有聯動成員時才能使用。\n\n這個回合中，自己舞台上的1位成員藝能傷害+20。如果該成員是Buzz成員或2nd成員，則該成員的藝能傷害+50。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-094"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-095_U.png",
+    "name": "IDENTIFY -AREA 15-",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "自己舞台上的所有成員都持有#ID1期生才能使用。\n\n從自己的牌組展示2張持有#ID1期生的成員並加入手牌。將牌組重新洗牌。之後，如果自己吶喊牌組的張數為0，這個回合中，自己持有#ID1期生的成員擊倒對手的中心成員時，對手的生命值-1。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-095"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-096_U.png",
+    "name": "2人あわせてラムダック！",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "選擇自己的1位「角巻わため」與「大空スバル」。將自己存檔區的吶喊卡發送給剛才選擇的成員，每人各1張。之後，這個回合中，剛才選擇的成員藝能傷害+20。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-096"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-097_C.png",
+    "name": "カワイイスタジャン",
+    "type": "支援・道具",
+    "tag": "#Buzzグッズ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "◆附加給Buzz成員有追加效果\n■帶有這個道具的成員HP+30。\n■對手的主要階段中，帶有這個道具的成員的HP不會受到對手的效果減少、改變。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP06-097"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-098_U.png",
+    "name": "鬼神刀「阿修羅」",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "帶有這個道具的成員藝能傷害+10。\n\n◆附加給「百鬼あやめ」有追加效果\n帶有這個道具的成員聯動時，如果自己的生命值為1，且對手沒有聯動成員，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP06-098"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-099_U.png",
+    "name": "ゆび",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "帶有這個道具的成員藝能傷害+10。\n\n這個道具從手牌附加給「戌神ころね」時，可以將自己存檔區的1張「戌神ころね」返回手牌。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP06-099"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-100_C.png",
+    "name": "Chattino",
+    "type": "支援・吉祥物",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "帶有這個吉祥物的成員HP+10。\n\n◆附加給1st以上的「ラオーラ・パンテーラ」有追加效果\n如果自己的主推為「ラオーラ・パンテーラ」，帶有這個吉祥物的成員HP+20。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hBP06-100"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-101_C.png",
+    "name": "ムーナびと",
+    "type": "支援・吉祥物",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "帶有這個吉祥物的成員HP+20。\n\n◆附加給「ムーナ・ホシノヴァ」有追加效果\n[每個回合一次]帶有這個吉祥物的成員給予了對手的成員特殊傷害時，可以將自己存檔區的1張藍色吶喊卡發送給自己的後台成員。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hBP06-101"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-102_C.png",
+    "name": "えびふらいおん",
+    "type": "支援・吉祥物",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "帶有這個吉祥物的成員HP+20。\n\n◆附加給「夏色まつり」有追加效果\n對手回合中，帶有這個吉祥物的成員被擊倒時，可以將這個成員的1張黃色吶喊卡替換給自己其他的「夏色まつり」。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hBP06-102"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-103_C.png",
+    "name": "まつりす",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "因自己主推或持有#1期生的成員的效果擲了骰子時，可以將這個粉絲放到存檔區：該骰子的點數視為4。\n\n這個粉絲只能附加給「夏色まつり」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP06-103"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-104_C.png",
+    "name": "スバ友",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "對手回合中，帶有這個粉絲的成員被擊倒時，可以將自己吶喊牌組上方的1張牌發送給自己的「大空スバル」。\n\n這個粉絲只能附加給「大空スバル」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP06-104"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
