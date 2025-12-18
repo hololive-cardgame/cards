@@ -2846,6 +2846,33 @@
     "id": "hBP01-041"
   },
   {
+    "image": "cardListImages/hBP06/hBP01-041_SR.png",
+    "name": "兎田ぺこら",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 90,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "成長した兎田ぺこらを",
+      "effect": "將自己吶喊牌組上方的1張牌，發送給自己的中心成員或聯動成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "見逃しちゃだめぺこだよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-041"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-042_R.png",
     "name": "兎田ぺこら",
     "type": "成員",
@@ -3165,6 +3192,30 @@
   },
   {
     "image": "cardListImages/hBP06/hBP01-048_03_C.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "皆殿、風真いろはでござる～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-048"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP01-048_HR.png",
     "name": "風真いろは",
     "type": "成員",
     "tag": "#JP / #秘密結社holoX",
@@ -6370,6 +6421,33 @@
     "id": "hBP02-016"
   },
   {
+    "image": "cardListImages/hBP06/hBP02-016_SR.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ノエちゃんの勇姿……",
+      "effect": "從Debut綻放時，從自己的牌組展示1張持有#3期生的Debut成員、1st成員或Spot成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "目に焼き付けるんだゾ♡",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP02-016"
+  },
+  {
     "image": "cardListImages/hBP02/hBP02-017_RR.png",
     "name": "白銀ノエル",
     "type": "成員",
@@ -7011,6 +7089,33 @@
     "type": "成員",
     "tag": "#JP / #3期生 / #絵 / #海",
     "product": "補充包「クインテットスペクトラム (hBP02)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "キミたちの声が船長の支えです！",
+      "effect": "給予對手的聯動成員20點特殊傷害。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "いっしょに出航しましょう！（健全）",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP02-031"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP02-031_SR.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
     "color": "紅",
     "hp": 130,
     "bloom": "1st",
@@ -8168,6 +8273,30 @@
   },
   {
     "image": "cardListImages/hBP06/hBP02-054_02_C.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紫",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "グリム・リーパーの第一弟子",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "自己的存檔區有成員時，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP02-054"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP02-054_HR.png",
     "name": "森カリオペ",
     "type": "成員",
     "tag": "#EN / #Myth / #歌",
@@ -15507,6 +15636,30 @@
     "id": "hBP04-043"
   },
   {
+    "image": "cardListImages/hBP06/hBP04-043_HR.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "こんらみ～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位成員10點特殊傷害。即使擊倒對手的成員，也不會減少對手的生命值。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-043"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-044_U.png",
     "name": "雪花ラミィ",
     "type": "成員",
@@ -16672,6 +16825,36 @@
   },
   {
     "image": "cardListImages/hBP06/hBP04-067_02_C.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "黃",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "あじまる！ あじまる！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ちわーす！ ホロライブ2期生 大空スバルっス!!",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-067"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP04-067_HR.png",
     "name": "大空スバル",
     "type": "成員",
     "tag": "#JP / #2期生 / #トリ",
@@ -21544,7 +21727,64 @@
     "id": "hBP06-001"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-001_OUR.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "BIG CAT means…",
+      "effect": "[每個回合一次]如果自己的中心成員為「ラオーラ・パンテーラ」，從自己的牌組展示1張與自己聯動成員相同卡名的成員並加入手牌。將牌組重新洗牌。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "BIG TROUBLE!!",
+      "effect": "[每場比賽一次]這場比賽中，自己所有的「ラオーラ・パンテーラ」在重置階段不需要改為休息狀態。"
+    },
+    "id": "hBP06-001"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-001_SEC.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "BIG CAT means…",
+      "effect": "[每個回合一次]如果自己的中心成員為「ラオーラ・パンテーラ」，從自己的牌組展示1張與自己聯動成員相同卡名的成員並加入手牌。將牌組重新洗牌。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "BIG TROUBLE!!",
+      "effect": "[每場比賽一次]這場比賽中，自己所有的「ラオーラ・パンテーラ」在重置階段不需要改為休息狀態。"
+    },
+    "id": "hBP06-001"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-002_OSR.png",
+    "name": "響咲リオナ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "やりたいように、私は私らしく",
+      "effect": "[每個回合一次]將自己牌組上方的2張牌放到存檔區。之後，這個回合中，自己持有#FLOW GLOW的中心成員與聯動成員藝能傷害+20。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "生き抜いていくんです！",
+      "effect": "[每場比賽一次]自己牌組的張數在5張以下，且自己持有#FLOW GLOW的成員擊倒對手的中心成員時可以使用：對手的生命值-1。"
+    },
+    "id": "hBP06-002"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-002_OUR.png",
     "name": "響咲リオナ",
     "type": "主推",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
@@ -21582,7 +21822,83 @@
     "id": "hBP06-003"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-003_OUR.png",
+    "name": "風真いろは",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "迷ったらまず実行！",
+      "effect": "[每個回合一次]將自己吶喊牌組上方的1張牌發送給自己的Buzz成員或從Buzz成員綻放的「風真いろは」。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "アルティメットつよつよござる",
+      "effect": "[每場比賽一次]這個回合中，自己的舞台上每有1張吶喊卡，自己舞台上所有的「風真いろは」藝能傷害+10。之後，如果自己的舞台上有Buzz成員，從自己的牌組抽3張牌。"
+    },
+    "id": "hBP06-003"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-003_SEC.png",
+    "name": "風真いろは",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "迷ったらまず実行！",
+      "effect": "[每個回合一次]將自己吶喊牌組上方的1張牌發送給自己的Buzz成員或從Buzz成員綻放的「風真いろは」。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "アルティメットつよつよござる",
+      "effect": "[每場比賽一次]這個回合中，自己的舞台上每有1張吶喊卡，自己舞台上所有的「風真いろは」藝能傷害+10。之後，如果自己的舞台上有Buzz成員，從自己的牌組抽3張牌。"
+    },
+    "id": "hBP06-003"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-004_OSR.png",
+    "name": "百鬼あやめ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "鬼閻魔",
+      "effect": "[每個回合一次]將自己吶喊牌組上方的1~2張牌放到存檔區：每將1張吶喊卡放到存檔區，從自己的牌組抽1張牌。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "二刀一閃！ 鬼神斬り",
+      "effect": "[每場比賽一次]自己的存檔區每有1張紅色吶喊卡，給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "id": "hBP06-004"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-004_OUR.png",
+    "name": "百鬼あやめ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "鬼閻魔",
+      "effect": "[每個回合一次]將自己吶喊牌組上方的1~2張牌放到存檔區：每將1張吶喊卡放到存檔區，從自己的牌組抽1張牌。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "二刀一閃！ 鬼神斬り",
+      "effect": "[每場比賽一次]自己的存檔區每有1張紅色吶喊卡，給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "id": "hBP06-004"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-004_SEC.png",
     "name": "百鬼あやめ",
     "type": "主推",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
@@ -21620,7 +21936,45 @@
     "id": "hBP06-005"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-005_OUR.png",
+    "name": "ハコス・ベールズ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "混沌の化身",
+      "effect": "[每個回合一次]如果這場比賽中有使用過自己的SP主推技能，擲1次骰子。從自己的牌組抽牌，直到手牌張數與擲出的點數相同。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲",
+      "effect": "[每場比賽一次]擲1次骰子。擲出的點數每有1點，將自己的1張手牌放到存檔區。"
+    },
+    "id": "hBP06-005"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-006_OSR.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "満月の輝き",
+      "effect": "[每個回合一次]給予了對手的1位成員特殊傷害時可以使用：給予對手的中心成員與聯動成員20點特殊傷害。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "双月の斉唱",
+      "effect": "[每場比賽一次]如果雙方舞台上的吶喊卡總和在6張以上，從自己的吶喊牌組展示1~3張吶喊卡，分配給自己持有#ID1期生的成員。將吶喊牌組重新洗牌。"
+    },
+    "id": "hBP06-006"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-006_OUR.png",
     "name": "ムーナ・ホシノヴァ",
     "type": "主推",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
@@ -21658,7 +22012,64 @@
     "id": "hBP06-007"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-007_OUR.png",
+    "name": "ロボ子さん",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紫",
+    "life": 6,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "PONじゃないもん！！",
+      "effect": "[每個回合一次]對手回合中，自己的「ロボ子さん」被擊倒時可以使用：將自己牌組上方的2張牌放到存檔區。之後，將自己存檔區的1張「ロボ子さん」返回手牌。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "ボクの『高性能っぷり』を堪能してよね♡",
+      "effect": "[每場比賽一次]從自己的牌組抽2張牌後，將2張手牌放到存檔區。之後，可以選擇自己存檔區任意數量的「ろぼさー」，分配給自己的「ロボ子さん」。"
+    },
+    "id": "hBP06-007"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-008_OSR.png",
+    "name": "夏色まつり",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "黃",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "おまつりわっしょーい！！！",
+      "effect": "[每個回合一次]擲1次骰子。如果擲出的點數大於自己的生命值，從自己的牌組將1張牌加入手牌。將牌組重新洗牌。如果擲出的點數小於自己的生命值，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "絶対勝ちたい！！！！！！！",
+      "effect": "[每場比賽一次]如果自己的中心成員為「夏色まつり」，這個回合中，標示LIMITED的支援卡可以使用2張。"
+    },
+    "id": "hBP06-008"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-008_OUR.png",
+    "name": "夏色まつり",
+    "type": "主推",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "黃",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "おまつりわっしょーい！！！",
+      "effect": "[每個回合一次]擲1次骰子。如果擲出的點數大於自己的生命值，從自己的牌組將1張牌加入手牌。將牌組重新洗牌。如果擲出的點數小於自己的生命值，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "絶対勝ちたい！！！！！！！",
+      "effect": "[每場比賽一次]如果自己的中心成員為「夏色まつり」，這個回合中，標示LIMITED的支援卡可以使用2張。"
+    },
+    "id": "hBP06-008"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-008_SEC.png",
     "name": "夏色まつり",
     "type": "主推",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
@@ -21815,6 +22226,33 @@
     "id": "hBP06-013"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-013_SR.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 250,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "CATCH ALL CHATTINI AROUND THE WORLD!!!",
+      "effect": "從自己的牌組展示1張「Chattino」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "一緒に世界を征服しよう！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]這個回合中，自己持有#絵的聯動成員藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP06-013"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-014_RR.png",
     "name": "ラオーラ・パンテーラ",
     "type": "成員",
@@ -21842,7 +22280,85 @@
     "id": "hBP06-014"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-014_SR.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "夢紡ぎのアトリエ",
+      "effect": "這個成員使用了藝能時，查看自己的holo能量區。展示其中的1張牌並加入手牌。如果將牌加入手牌，將自己的1張手牌放到holo能量區。將holo能量區重新洗牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "色彩のリナシメント",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "[限定中心位置]這個回合中，自己持有#絵的聯動成員藝能傷害+50，該成員的藝能需要的無色吶喊卡數量-1。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-014"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-014_UR.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "夢紡ぎのアトリエ",
+      "effect": "這個成員使用了藝能時，查看自己的holo能量區。展示其中的1張牌並加入手牌。如果將牌加入手牌，將自己的1張手牌放到holo能量區。將holo能量區重新洗牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "色彩のリナシメント",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "[限定中心位置]這個回合中，自己持有#絵的聯動成員藝能傷害+50，該成員的藝能需要的無色吶喊卡數量-1。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-014"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-015_C.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "おかえりおな～",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP06-015"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-015_HR.png",
     "name": "響咲リオナ",
     "type": "成員",
     "tag": "#DEV_IS / #FLOW GLOW",
@@ -21977,6 +22493,33 @@
     "id": "hBP06-019"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-019_SR.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ストイック負けず嫌い王",
+      "effect": "如果自己的主推為「響咲リオナ」，可以將自己牌組上方的1張牌放到存檔區：從自己的牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "意外と熱血タイプ？",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "將自己牌組上方的1張牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-019"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-020_RR.png",
     "name": "響咲リオナ",
     "type": "成員",
@@ -22004,7 +22547,88 @@
     "id": "hBP06-020"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-020_SR.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "意志の指揮者",
+      "effect": "對手回合中，這個成員被擊倒時，可以將自己牌組上方的2張牌放到存檔區。如果將牌放到存檔區，自己的舞台上每有1位持有#FLOW GLOW且不同卡名的成員，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "レゾナンスロア",
+      "damage": "150+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "將自己牌組上方的1~3張牌放到存檔區。每將1張牌放到存檔區，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-020"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-020_UR.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "意志の指揮者",
+      "effect": "對手回合中，這個成員被擊倒時，可以將自己牌組上方的2張牌放到存檔區。如果將牌放到存檔區，自己的舞台上每有1位持有#FLOW GLOW且不同卡名的成員，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "レゾナンスロア",
+      "damage": "150+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "將自己牌組上方的1~3張牌放到存檔區。每將1張牌放到存檔區，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-020"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-021_R.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "君に届けっ",
+      "effect": "這個回合中，自己舞台上1位持有#秘密結社holoX的成員藝能傷害+30。如果這個成員帶著持有#こよラボ的支援卡，則該成員藝能傷害+50。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "青春の１ページ",
+      "damage": "90+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "可以將自己存檔區1張持有#こよラボ的支援卡放回牌組下方：這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-021"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-021_SR.png",
     "name": "博衣こより",
     "type": "成員",
     "tag": "#JP / #秘密結社holoX / #ケモミミ",
@@ -22160,7 +22784,88 @@
     "id": "hBP06-026"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-026_SR.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 250,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "元気をお届け！",
+      "effect": "[限定中心位置]自己的成員聯動時，如果自己的手牌在5張以上，可以將自己吶喊牌組上方的1張牌發送給自己的聯動成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png"],
+      "name": "喜んでもらえたらいいな",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP06-026"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-027_RR.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "伝えたい想い",
+      "effect": "這個成員擊倒對手的中心成員時，自己這個回合綻放過的1位「風真いろは」，可以使用自己手牌的成員再次進行綻放。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "一緒にすてっぷ",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果自己的主推為「風真いろは」，且自己有聯動成員，這個藝能傷害+40。如果這個成員是從Buzz成員綻放的，這個藝能的傷害不會被減少。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-027"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-027_SR.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "伝えたい想い",
+      "effect": "這個成員擊倒對手的中心成員時，自己這個回合綻放過的1位「風真いろは」，可以使用自己手牌的成員再次進行綻放。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "一緒にすてっぷ",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果自己的主推為「風真いろは」，且自己有聯動成員，這個藝能傷害+40。如果這個成員是從Buzz成員綻放的，這個藝能的傷害不會被減少。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-027"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-027_UR.png",
     "name": "風真いろは",
     "type": "成員",
     "tag": "#JP / #秘密結社holoX",
@@ -22268,7 +22973,88 @@
     "id": "hBP06-030"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-030_SR.png",
+    "name": "姫森ルーナ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ベイビー",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "みんなへ感謝の気持ち",
+      "effect": "[限定聯動位置]對手回合中，將附加給自己中心成員的「ルーナイト」放到存檔區時，作為代替，可以替換給自己的後台成員「姫森ルーナ」。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "届けたいのら！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "可以將自己存檔區的1張「ルーナイト」附加給自己的「姫森ルーナ」。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-030"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-031_RR.png",
+    "name": "姫森ルーナ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ベイビー",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "んなっしょい！",
+      "effect": "如果自己的主推為「姫森ルーナ」，可以將自己舞台上的1~2張「ルーナイト」放到存檔區：每將1張牌放到存檔區，將自己吶喊牌組上方的1張牌發送給自己的1位「姫森ルーナ」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ずっと一緒なのらね",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果這個成員帶有2張以上的「ルーナイト」，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-031"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-031_SR.png",
+    "name": "姫森ルーナ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ベイビー",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "んなっしょい！",
+      "effect": "如果自己的主推為「姫森ルーナ」，可以將自己舞台上的1~2張「ルーナイト」放到存檔區：每將1張牌放到存檔區，將自己吶喊牌組上方的1張牌發送給自己的1位「姫森ルーナ」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ずっと一緒なのらね",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果這個成員帶有2張以上的「ルーナイト」，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-031"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-031_UR.png",
     "name": "姫森ルーナ",
     "type": "成員",
     "tag": "#JP / #4期生 / #ベイビー",
@@ -22322,7 +23108,61 @@
     "id": "hBP06-032"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-032_SR.png",
+    "name": "セシリア・イマーグリーン",
+    "type": "成員",
+    "tag": "#EN / #Justice / #語学",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "FOR! JUSTICE!",
+      "effect": "將自己吶喊牌組上方的1張牌發送給自己這個成員外持有#Justice的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "春の思い出",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-032"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-033_R.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "濡羽色のほころび",
+      "effect": "如果這個回合有使用過持有#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "茸 （くさびら）",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "可以將自己存檔區的1張吶喊卡發送給自己持有#ReGLOSS的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-033"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-033_SR.png",
     "name": "儒烏風亭らでん",
     "type": "成員",
     "tag": "#DEV_IS / #ReGLOSS / #お酒",
@@ -22481,7 +23321,88 @@
     "id": "hBP06-038"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-038_SR.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "たまに増える余",
+      "effect": "可以將自己吶喊牌組上方的1張牌放到存檔區：將自己存檔區的1張「百鬼あやめ」返回手牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "では参る！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "可以將自己吶喊牌組上方的1張牌放到存檔區：給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-038"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-039_RR.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "2nd",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "余、なんも聞いとらんかった。",
+      "effect": "[限定中心位置]如果自己有聯動成員且對手沒有聯動成員，自己所有的成員不會受到對手的藝能傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "百鬼乱舞 -朧月-",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己的主推為「百鬼あやめ」，可以將自己吶喊牌組上方的1~3張牌放到存檔區：每將1張吶喊卡放到存檔區，這個藝能傷害+40。自己的生命值在2以下才能在聯動位置使用這個藝能。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-039"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-039_SR.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "2nd",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "余、なんも聞いとらんかった。",
+      "effect": "[限定中心位置]如果自己有聯動成員且對手沒有聯動成員，自己所有的成員不會受到對手的藝能傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "百鬼乱舞 -朧月-",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己的主推為「百鬼あやめ」，可以將自己吶喊牌組上方的1~3張牌放到存檔區：每將1張吶喊卡放到存檔區，這個藝能傷害+40。自己的生命值在2以下才能在聯動位置使用這個藝能。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-039"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-039_UR.png",
     "name": "百鬼あやめ",
     "type": "成員",
     "tag": "#JP / #2期生 / #シューター",
@@ -22643,7 +23564,97 @@
     "id": "hBP06-044"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-044_SR.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "ホイールオブフォーチュン",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果這場比賽中有使用過自己的SP主推技能「🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲」，擲1次骰子。擲出的點數每有1點，這個藝能傷害+10。"
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "ありがチュー！",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hBP06-044"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-045_RR.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "カオスリローデッド",
+      "damage": "70+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "將自己存檔區的1~5張成員依照喜歡的順序放回牌組下方。每將1張成員放回牌組，這個藝能傷害+10。"
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "💥¡¡SSꓵHƆSꓶƎԀԀOꓷ💥",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果這場比賽中有使用過自己的SP主推技能「🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲」，給予對手的中心成員或聯動成員100點特殊傷害。"
+    },
+    "extra": null,
+    "id": "hBP06-045"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-045_SR.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "カオスリローデッド",
+      "damage": "70+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "將自己存檔區的1~5張成員依照喜歡的順序放回牌組下方。每將1張成員放回牌組，這個藝能傷害+10。"
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "💥¡¡SSꓵHƆSꓶƎԀԀOꓷ💥",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果這場比賽中有使用過自己的SP主推技能「🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲」，給予對手的中心成員或聯動成員100點特殊傷害。"
+    },
+    "extra": null,
+    "id": "hBP06-045"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-045_UR.png",
     "name": "ハコス・ベールズ",
     "type": "成員",
     "tag": "#EN / #Promise / #ケモミミ",
@@ -22700,7 +23711,61 @@
     "id": "hBP06-046"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-046_SR.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "間違っているぞ！",
+      "effect": "如果這場比賽中有使用過自己的SP主推技能「ホークアイ」，這個成員的藝能傷害+20。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "永久不滅の絆",
+      "damage": 120,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果自己的主推為「鷹嶺ルイ」，可以將自己的2張手牌放到存檔區：給予對手的中心成員或聯動成員50點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-046"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-047_R.png",
+    "name": "一条莉々華",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #料理 / #語学",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "家にあるもの限界飯",
+      "effect": "如果自己的主推為「一条莉々華」，且自己的存檔區有2張以上的「限界飯」，從自己的牌組抽2張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "ガチでなんもない。タスケテ。",
+      "damage": 70,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "[限定聯動位置]給予對手的聯動成員50點特殊傷害。如果對手沒有聯動成員，則給予對手的中心成員50點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-047"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-047_SR.png",
     "name": "一条莉々華",
     "type": "成員",
     "tag": "#DEV_IS / #ReGLOSS / #料理 / #語学",
@@ -22865,6 +23930,33 @@
     "id": "hBP06-052"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-052_SR.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 240,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "新月",
+      "effect": "這個成員給予了對手的成員藝能傷害時可以使用：給予對手該成員受到的傷害相同數值的特殊傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "下弦の月",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果自己的主推為「ムーナ・ホシノヴァ」，且這個成員有4張以上的吶喊卡，這個藝能傷害+60。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP06-052"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-053_RR.png",
     "name": "ムーナ・ホシノヴァ",
     "type": "成員",
@@ -22892,7 +23984,88 @@
     "id": "hBP06-053"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-053_SR.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "星の運命",
+      "effect": "選擇對手的中心成員或聯動成員。給予選擇的成員，該成員受到的傷害相同數值的特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "Tidal Eclipse",
+      "damage": 90,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果這個成員有4張以上的吶喊卡，給予對手的中心成員或聯動成員90點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-053"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-053_UR.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "星の運命",
+      "effect": "選擇對手的中心成員或聯動成員。給予選擇的成員，該成員受到的傷害相同數值的特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "Tidal Eclipse",
+      "damage": 90,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果這個成員有4張以上的吶喊卡，給予對手的中心成員或聯動成員90點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-053"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-054_R.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "有言実行！！",
+      "effect": "如果這個成員帶有「雪民」，給予對手的中心成員20點特殊傷害。之後，從自己的牌組抽1張牌。如果這個成員帶有3張以上的「雪民」，則從自己的牌組抽2張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_null.png"],
+      "name": "暖かい誕生日とその先へ",
+      "damage": "140+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "這個成員每帶有1張「雪民」，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-054"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-054_SR.png",
     "name": "雪花ラミィ",
     "type": "成員",
     "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
