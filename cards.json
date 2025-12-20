@@ -18380,6 +18380,33 @@
     "id": "hBP05-009"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-009_P.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "PR卡",
+    "color": "白",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "夏深し",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張1st成員「白銀ノエル」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "夏の思い出",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-009"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-010_U.png",
     "name": "白銀ノエル",
     "type": "成員",
@@ -19738,6 +19765,30 @@
     "type": "成員",
     "tag": "#JP / #0期生 / #歌",
     "product": "補充包「エンチャントレガリア (hBP05)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "声出し最高！",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果對手後台成員的HP有減少，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-036"
+  },
+  {
+    "image": "cardListImages/hBP05/hBP05-036_P.png",
+    "name": "星街すいせい",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "PR卡",
     "color": "紅",
     "hp": 110,
     "bloom": "Debut",
@@ -21242,6 +21293,33 @@
     "id": "hBP05-068"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-068_P.png",
+    "name": "白上フブキ",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #ゲーマーズ / #ケモミミ / #絵",
+    "product": "PR卡",
+    "color": "黃",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ゆるゆる休養日",
+      "effect": "如果這個成員帶有吉祥物，查看自己牌組上方的1張牌。將該牌放回牌組上方或下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "おやつ食べてゲーム最高！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-068"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-069_U.png",
     "name": "白上フブキ",
     "type": "成員",
@@ -22660,6 +22738,30 @@
     "type": "成員",
     "tag": "#JP / #秘密結社holoX",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 140,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "手作りのお守り",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-022"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-022_P.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "PR卡",
     "color": "綠",
     "hp": 140,
     "bloom": "Debut",
