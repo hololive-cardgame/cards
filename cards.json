@@ -22690,7 +22690,7 @@
     "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
     "effectC": {
       "name": "君に届けっ",
-      "effect": "這個回合中，自己舞台上1位持有#秘密結社holoX的成員藝能傷害+30。如果這個成員帶著持有#こよラボ的支援卡，則該成員藝能傷害+50。"
+      "effect": "這個回合中，自己舞台上1位持有#秘密結社holoX的成員藝能傷害+30。如果這個成員帶著持有#こよラボ的支援卡，則該成員的藝能傷害+50。"
     },
     "effectB": null,
     "effectG": null,
@@ -22717,7 +22717,7 @@
     "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
     "effectC": {
       "name": "君に届けっ",
-      "effect": "這個回合中，自己舞台上1位持有#秘密結社holoX的成員藝能傷害+30。如果這個成員帶著持有#こよラボ的支援卡，則該成員藝能傷害+50。"
+      "effect": "這個回合中，自己舞台上1位持有#秘密結社holoX的成員藝能傷害+30。如果這個成員帶著持有#こよラボ的支援卡，則該成員的藝能傷害+50。"
     },
     "effectB": null,
     "effectG": null,
