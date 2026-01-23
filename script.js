@@ -935,15 +935,26 @@ function showPopup(card, index) {
           <span>${card.life}</span>
         </div>
 
-        <div class="oshi-skill">
-          <p class="label oshiSkill">主推技能</p>
-          <p>[holo能量：${card.oshiSkill.holoPower}]<span>${card.oshiSkill.name}</span>${card.oshiSkill.effect}</p>
-        </div>
+        ${card.stageSkill ? `
+          <div class="stage-skill">
+            <p class="label stageSkill">主推舞台技能</p>
+            <p>${card.stageSkill.name}</span>${card.stageSkill.effect}</p>
+          </div>
+        ` : ''}
 
-        <div class ="sp-skill">
-          <p class="label spSkill">SP主推技能</p>
-          <p>[holo能量：${card.spSkill.holoPower}]<span>${card.spSkill.name}</span>${card.spSkill.effect}</p>
-        </div>
+        ${card.oshiSkill ? `
+          <div class="oshi-skill">
+            <p class="label oshiSkill">主推技能</p>
+            <p>[holo能量：${card.oshiSkill.holoPower}]<span>${card.oshiSkill.name}</span>${card.oshiSkill.effect}</p>
+          </div>
+        ` : ''}
+
+        ${card.spSkill ? `
+          <div class="sp-skill">
+            <p class="label spSkill">SP主推技能</p>
+            <p>[holo能量：${card.spSkill.holoPower}]<span>${card.spSkill.name}</span>${card.spSkill.effect}</p>
+          </div>
+        ` : ''}
 
         <div class="info">
           <span class="label">卡牌編號</span>
