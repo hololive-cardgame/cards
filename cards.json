@@ -25051,7 +25051,7 @@
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
       "name": "天使界隈",
-      "effect": "這個回合自己每使用過1張支援卡，這個回合中，自己的中心成員的藝能傷害+10。最多支持3張。"
+      "effect": "這個回合自己每使用過1張支援卡，這個回合中，自己的中心成員藝能傷害+10。最多支持3張。"
     },
     "effectB": null,
     "effectG": null,
