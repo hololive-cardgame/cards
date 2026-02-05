@@ -3323,6 +3323,33 @@
     "id": "hBP01-050"
   },
   {
+    "image": "cardListImages/hBP01/hBP01-050_P_03.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "用心棒",
+      "effect": "[限定聯動位置]對手成員的藝能只能選擇自己的聯動成員為對象，特殊傷害除外。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "元気を全力でお届けします！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "將自己吶喊牌組上方的1張牌，發送給自己「風真いろは」以外持有#秘密結社holoX的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-050"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-051_RR.png",
     "name": "風真いろは",
     "type": "成員",
@@ -8320,6 +8347,30 @@
     "id": "hBP02-054"
   },
   {
+    "image": "cardListImages/hBP02/hBP02-054_03_P.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "PR卡",
+    "color": "紫",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "グリム・リーパーの第一弟子",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "自己的存檔區有成員時，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP02-054"
+  },
+  {
     "image": "cardListImages/hBP02/hBP02-055_U.png",
     "name": "森カリオペ",
     "type": "成員",
@@ -9318,6 +9369,15 @@
     "type": "支援・活動",
     "tag": null,
     "product": ["補充包「クインテットスペクトラム (hBP02)」","起始牌組「緑 風真いろは (hSD06)」"],
+    "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意持有#秘密結社holoX的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP02-080"
+  },
+  {
+    "image": "cardListImages/hBP02/hBP02-080_P_2.png",
+    "name": "秘密結社holoX",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "PR卡",
     "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意持有#秘密結社holoX的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP02-080"
   },
@@ -17136,6 +17196,33 @@
     "id": "hBP04-072"
   },
   {
+    "image": "cardListImages/hBP04/hBP04-072_P_02.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #歌 / #トリ",
+    "product": "PR卡",
+    "color": "黃",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "サンライトステージ",
+      "effect": "可以將自己存檔區的1張黃色吶喊卡發送給自己的成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "太陽少女",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "雙方的舞台上每有1張吶喊卡，這個藝能傷害+10。最多支持8張。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP04-072"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-073_C.png",
     "name": "アーニャ・メルフィッサ",
     "type": "成員",
@@ -18412,6 +18499,33 @@
     "type": "成員",
     "tag": "#JP / #3期生 / #お酒",
     "product": "補充包「エンチャントレガリア (hBP05)」",
+    "color": "白",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "闘う団長",
+      "effect": "[限定聯動位置]自己的中心成員持有#3期生時，對手成員的藝能只能選擇自己的聯動成員為對象，特殊傷害除外。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "生きる力",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果這個回合自己有使用過「牛丼」，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-010"
+  },
+  {
+    "image": "cardListImages/hBP05/hBP05-010_P.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "PR卡",
     "color": "白",
     "hp": 140,
     "bloom": "1st",
@@ -21632,6 +21746,15 @@
     "id": "hBP05-075"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-075_P.png",
+    "name": "牛丼",
+    "type": "支援・活動",
+    "tag": "#食べ物",
+    "product": "PR卡",
+    "supportEffect": "選擇自己的1位成員。這個回合中，該成員交棒需要的吶喊卡數量-2。之後，該成員HP回復20點。",
+    "id": "hBP05-075"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-076_U.png",
     "name": "ちょこのビーフストロガノフ",
     "type": "支援・活動",
@@ -24764,6 +24887,33 @@
     "id": "hBP06-067"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-067_P.png",
+    "name": "戌神ころね",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ",
+    "product": "PR卡",
+    "color": "紫",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ホロライブの狂犬",
+      "effect": "可以將自己手牌1張持有#ゲーマーズ的成員放到存檔區：從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "指一本くれや！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-067"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-068_U.png",
     "name": "戌神ころね",
     "type": "成員",
@@ -25606,6 +25756,15 @@
     "type": "支援・活動",
     "tag": null,
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "supportEffect": "從自己的牌組抽2張牌。之後，如果自己的生命值在4以下，自己這個回合從Debut綻放為1st的1位成員，可以使用自己手牌的成員再次進行綻放。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-090"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-090_P.png",
+    "name": "ブルームステージ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "PR卡",
     "supportEffect": "從自己的牌組抽2張牌。之後，如果自己的生命值在4以下，自己這個回合從Debut綻放為1st的1位成員，可以使用自己手牌的成員再次進行綻放。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP06-090"
   },
@@ -29472,6 +29631,15 @@
     "type": "支援・活動",
     "tag": null,
     "product": ["起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」"],
+    "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意持有#FLOW GLOW的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hSD10-012"
+  },
+  {
+    "image": "cardListImages/hSD10/hSD10-012_02_P.png",
+    "name": "FLOW GLOW",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "PR卡",
     "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意持有#FLOW GLOW的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hSD10-012"
   },
