@@ -13439,7 +13439,7 @@
     "name": "凸待ち",
     "type": "支援・活動",
     "tag": null,
-    "product": "補充包「エリートスパーク (hBP03)」",
+    "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「推し Justice (hSD13)」"],
     "supportEffect": "自己的生命值比對手少時才能使用。\n\n對手沒有聯動成員時，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP03-088"
   },
@@ -26588,7 +26588,7 @@
     "name": "スゴイパソコン",
     "type": "支援・物品",
     "tag": null,
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","起始牌組「推し Justice (hSD13)」"],
     "supportEffect": "將自己的1張吶喊卡放到存檔區才能使用。\n\n從自己的牌組展示1張Buzz以外的1st成員或2nd成員並加入手牌。將牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hSD01-019"
   },
@@ -30326,6 +30326,179 @@
     "product": "起始牌組「推し Advent (hSD12)」",
     "supportEffect": "帶有這個吉祥物的成員HP+20。\n\n這個吉祥物從手牌附加給1st以上的「古石ビジュー」時，可以將自己舞台上的1張吶喊卡放到存檔區：從自己的吶喊牌組展示1張吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。\n\n每位成員只能帶有1張吉祥物。",
     "id": "hSD12-016"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-001_OSR.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "主推",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "紅",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -3,
+      "name": "秩序の先駆者",
+      "effect": "[每個回合一次]自己的1位成員受到對手的藝能傷害時，可以選擇自己舞台上1位紅色的Buzz成員或2nd成員：該成員承受該次傷害。"
+    },
+    "spSkill": {
+      "holoPower": -3,
+      "name": "JUST LIKE THAT",
+      "effect": "[每場比賽一次]將自己存檔區1張持有#Justice的成員放到舞台上。之後，將自己存檔區的1~5張吶喊卡發送給該成員。"
+    },
+    "id": "hSD13-001"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-002_OSR.png",
+    "name": "ジジ・ムリン",
+    "type": "主推",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "黃",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "Boat Goes Binted",
+      "effect": "[每個回合一次]將對手的中心成員與聯動成員交換位置。"
+    },
+    "spSkill": {
+      "holoPower": -3,
+      "name": "自由奔放な『追跡者』",
+      "effect": "[每場比賽一次]從自己的牌組展示2張2nd成員「ジジ・ムリン」，放到舞台上。將牌組重新洗牌。之後，將自己存檔區的吶喊卡發送給自己所有的成員，每人各1張。"
+    },
+    "id": "hSD13-002"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-003_C.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "紅",
+    "hp": 140,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "オーッホッホッホッ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD13-003"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-004_C.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "紅",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "薔薇は赤い",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "私の心の炎は青い",
+      "damage": 140,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hSD13-004"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-005_U.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "For Justice! -ERB-",
+      "effect": "對手回合中，自己持有#Justice的成員被擊倒時，將自己吶喊牌組上方的1張牌發送給這個成員。「For Justice! -ERB-」每個回合只能使用一次。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "Lovely to See You, to See You, Lovely～♡",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-005"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-006_U.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "紅",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Bring It On!",
+      "effect": "選擇自己舞台上1位持有#Justice的成員。這個回合中，該成員的藝能傷害+20。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "守護るべきもの",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-006"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-007_RR.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "紅",
+    "hp": 180,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "猛炎のウォークライ",
+      "effect": "這個成員每有1張吶喊卡，這個成員的HP+10。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "悪斬りのカデンツァ",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "這個成員每有1張吶喊卡，這個藝能傷害+20。使用這個藝能擊倒對手的成員時，將自己吶喊牌組上方的1張牌發送給這個成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-007"
   },
   {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
