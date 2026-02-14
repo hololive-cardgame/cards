@@ -30501,6 +30501,252 @@
     "id": "hSD13-007"
   },
   {
+    "image": "cardListImages/hSD13/hSD13-008_C.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "黃",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "For Justice! -GG-",
+      "effect": "將自己存檔區的1張吶喊卡發送給自己持有#Justice的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "GI MURIN!!!!",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD13-008"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-009_C.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "イタズラ増殖！",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張持有#Justice的1st成員，放到舞台上。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "YIPPEEE",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-009"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-010_C.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "黃",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "周囲の頭痛の種",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "悪戯好きのグレムリン",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hSD13-010"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-011_U.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "黃",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "I am Gonathan G.",
+      "effect": "可以將1張與這個成員重疊的Debut成員放到存檔區：給予對手的聯動成員20點特殊傷害。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "すべての意味を追い求めて",
+      "damage": "40+",
+      "specialAttackImage": null,
+      "effect": "如果與這個成員重疊的成員為0張，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-011"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-012_U.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "ご苦労さん！",
+      "effect": "對手回合中，自己的後台成員受到對手的特殊傷害時，可以將1張與這個成員重疊的成員放到存檔區：這個回合中，自己所有的後台成員不會受到特殊傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "負けるわけにはいかない",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-012"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-013_RR.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "黃",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "再起のストレングス",
+      "effect": "[每個回合一次]自己的主要階段，可以將1張與自己的「ジジ・ムリン」重疊的成員放到存檔區：將自己吶喊牌組上方的1張牌發送給這個成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "殻破りのライオット",
+      "damage": "90+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果與這個成員重疊的成員為0張，這個藝能傷害+90。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-013"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-014_C.png",
+    "name": "セシリア・イマーグリーン",
+    "type": "成員",
+    "tag": "#EN / #Justice / #語学",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "無",
+    "hp": 160,
+    "bloom": "Spot",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "正義の旋律",
+      "effect": "[限定中心位置或聯動位置][每個回合一次]自己持有#Justice的Debut成員或Spot成員放到舞台上時，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "紅茶をどうぞ！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "將自己吶喊牌組上方的1張牌發送給自己持有#Justice的成員。"
+    },
+    "art2": null,
+    "extra": "這個成員無法綻放",
+    "id": "hSD13-014"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-015_C.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "無",
+    "hp": 160,
+    "bloom": "Spot",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "正義の諧調",
+      "effect": "可以將自己舞台上的1張吶喊卡放回吶喊牌組下方。如果將牌放回吶喊牌組下方，從自己的吶喊牌組展示1張吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "コーヒーをどうぞ！",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果自己持有#Justice的中心成員與聯動成員有不同顏色的吶喊卡，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": "這個成員無法綻放",
+    "id": "hSD13-015"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-016_U.png",
+    "name": "Justice",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意持有#Justice的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hSD13-016"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-017_U.png",
+    "name": "JUSTICE, JUST LIKE THAT!!!!",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "supportEffect": "自己舞台上的所有成員都持有#Justice才能使用。\n\n選擇自己舞台上的1位成員。將1~2張與該成員重疊的成員返回手牌。這個回合中，因這個效果每將1張成員返回手牌，剛才選擇的成員藝能傷害+20。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hSD13-017"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-018_C.png",
+    "name": "Popo",
+    "type": "支援・吉祥物",
+    "tag": null,
+    "product": "起始牌組「推し Justice (hSD13)」",
+    "supportEffect": "帶有這個吉祥物的成員HP+20。\n\n◆附加給「ジジ・ムリン」有追加效果\n如果與這個成員重疊的成員為0張，這個成員的藝能傷害+20。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hSD13-018"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
@@ -30733,7 +30979,7 @@
     "image": "cardListImages/hY0/hY03-001_C.png",
     "name": "赤エール",
     "type": "吶喊",
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「赤 宝鐘マリン (hSD09)」","スタートエールセット"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「赤 宝鐘マリン (hSD09)」","スタートエールセット","起始牌組「推し Justice (hSD13)」"],
     "color": "紅",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY03-001"
@@ -30985,7 +31231,7 @@
     "image": "cardListImages/hY0/hY06-001_C.png",
     "name": "黄エール",
     "type": "吶喊",
-    "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」"],
+    "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","起始牌組「推し Justice (hSD13)」"],
     "color": "黃",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY06-001"
