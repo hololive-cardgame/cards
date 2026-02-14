@@ -5385,7 +5385,7 @@
     "name": "ふつうのパソコン",
     "type": "支援・物品",
     "tag": null,
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「白 轟はじめ (hSD05)」","起始牌組「緑 風真いろは (hSD06)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「白 轟はじめ (hSD05)」","起始牌組「緑 風真いろは (hSD06)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","起始牌組「推し Advent (hSD12)」","起始牌組「推し Justice (hSD13)」"],
     "supportEffect": "從自己的牌組展示1張Debut成員，放到舞台上。將牌組重新洗牌。",
     "id": "hBP01-104"
   },
@@ -5430,7 +5430,7 @@
     "name": "じゃあ敵だね",
     "type": "支援・活動",
     "tag": null,
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「白 轟はじめ (hSD05)」","起始牌組「白 天音かなた (hSD08)」","起始牌組「赤 宝鐘マリン (hSD09)」"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「白 轟はじめ (hSD05)」","起始牌組「白 天音かなた (hSD08)」","起始牌組「赤 宝鐘マリン (hSD09)」","起始牌組「推し Advent (hSD12)」"],
     "supportEffect": "將對手的中心成員與1位後台成員進行替換。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP01-108"
   },
@@ -9323,7 +9323,7 @@
     "name": "レトロパソコン",
     "type": "支援・物品",
     "tag": null,
-    "product": ["補充包「クインテットスペクトラム (hBP02)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」"],
+    "product": ["補充包「クインテットスペクトラム (hBP02)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「推し Advent (hSD12)」"],
     "supportEffect": "自己的生命值在3以下才能使用。\n\n將自己存檔區的1張成員返回手牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP02-077"
   },
@@ -16074,6 +16074,30 @@
     "id": "hBP04-050"
   },
   {
+    "image": "cardListImages/hSD12/hBP04-050_02_C.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "藍",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "しおり～ん！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-050"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-051_C.png",
     "name": "シオリ・ノヴェラ",
     "type": "成員",
@@ -16700,6 +16724,33 @@
     "type": "成員",
     "tag": "#EN / #Advent / #ベイビー",
     "product": "補充包「キュリアスユニバース (hBP04)」",
+    "color": "紫",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "キラキラ コセキ！",
+      "effect": "對手回合中，這個成員被擊倒時，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ボンビジュー！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-063"
+  },
+  {
+    "image": "cardListImages/hSD12/hBP04-063_02_C.png",
+    "name": "古石ビジュー",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ベイビー",
+    "product": "起始牌組「推し Advent (hSD12)」",
     "color": "紫",
     "hp": 110,
     "bloom": "Debut",
@@ -17986,7 +18037,7 @@
     "name": "Advent",
     "type": "支援・活動",
     "tag": null,
-    "product": "補充包「キュリアスユニバース (hBP04)」",
+    "product": ["補充包「キュリアスユニバース (hBP04)」","起始牌組「推し Advent (hSD12)」"],
     "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意持有#Advent的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP04-096"
   },
@@ -21733,6 +21784,15 @@
     "type": "支援・物品",
     "tag": null,
     "product": "PR卡",
+    "supportEffect": "從自己的牌組展示1~2張特殊規則為「這個成員沒有張數限制」的Debut成員，放到舞台上。將牌組重新洗牌。如果將2張Debut成員放到舞台上，再將自己的1張手牌放回牌組下方。",
+    "id": "hBP05-074"
+  },
+  {
+    "image": "cardListImages/hSD12/hBP05-074_02_C.png",
+    "name": "フレンドリーパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": ["起始牌組「推し Advent (hSD12)」","起始牌組「推し Justice (hSD13)」"],
     "supportEffect": "從自己的牌組展示1~2張特殊規則為「這個成員沒有張數限制」的Debut成員，放到舞台上。將牌組重新洗牌。如果將2張Debut成員放到舞台上，再將自己的1張手牌放回牌組下方。",
     "id": "hBP05-074"
   },
@@ -26465,7 +26525,7 @@
     "name": "春先のどか",
     "type": "支援・工作人員",
     "tag": null,
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「白 轟はじめ (hSD05)」","起始牌組「緑 風真いろは (hSD06)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「白 轟はじめ (hSD05)」","起始牌組「緑 風真いろは (hSD06)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","起始牌組「推し Advent (hSD12)」","起始牌組「推し Justice (hSD13)」"],
     "supportEffect": "從自己的牌組抽3張牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hSD01-016"
   },
@@ -29883,6 +29943,236 @@
     "art2": null,
     "extra": null,
     "id": "hSD11-009"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-001_OSR.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "主推",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "藍",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "収集家",
+      "effect": "[每個回合一次]查看自己牌組上方的3張牌。展示1張支援卡並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "spSkill": {
+      "holoPower": -3,
+      "name": "リベリオン",
+      "effect": "[每場比賽一次]自己的存檔區每有1張支援卡，給予對手1位Debut以外的後台成員10點特殊傷害。"
+    },
+    "id": "hSD12-001"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-002_OSR.png",
+    "name": "古石ビジュー",
+    "type": "主推",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紫",
+    "life": 5,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "Biboo Tax",
+      "effect": "[每個回合一次]雙方將吶喊牌組上方的1張牌放到存檔區。每將1種顏色的吶喊卡放到存檔區，從自己的牌組抽1張牌。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "古代魔石の輝き",
+      "effect": "[每場比賽一次]自己的存檔區每有1張持有#Advent的成員與吶喊卡，給予對手的中心成員10點特殊傷害。"
+    },
+    "id": "hSD12-002"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-003_C.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "藍",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "パレ・モンローズのお話をお聞きになったことは？",
+      "effect": "給予對手的1位後台成員10點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "アデュー、親愛なる聞き手様",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-003"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-004_C.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "藍",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "不穏な忠告",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "這個藝能可以選擇對手的後台成員為對象。"
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png"],
+      "name": "Just a Humble, Kind Witch",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果自己的存檔區有4張以上的支援卡，將自己吶喊牌組上方的1張牌發送給自己持有#Advent的成員。"
+    },
+    "extra": null,
+    "id": "hSD12-004"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-005_U.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "『異世界への旅立ちと幸せ』",
+      "effect": "將自己存檔區的1張吶喊卡發送給自己持有#Advent的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "車窓から見える星がとてもきれいよ",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-005"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-006_R.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "藍",
+    "hp": 250,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "A Study in Advent",
+      "effect": "可以將自己手牌的1張支援卡放到存檔區：從自己的牌組展示1張持有#Advent的Debut成員或1st成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "初歩的なことよ",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hSD12-006"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-007_RR.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "どんな知識が得られるかしら",
+      "effect": "[每個回合一次]這個成員擊倒對手的成員時，將自己存檔區1張標示LIMITED以外的支援卡返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "私達を見くびらないで貰える？",
+      "damage": 110,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "自己的舞台上每有1位持有#Advent的成員，給予對手Debut以外的1位成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-007"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-008_C.png",
+    "name": "古石ビジュー",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ベイビー",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紫",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "花売りの少女",
+      "effect": "如果在自己後攻的第一個回合，雙方的舞台上每有1張吶喊卡，從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "私……この頃よく夢を見るの。",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-008"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-009_C.png",
+    "name": "古石ビジュー",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ベイビー",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "賑やかな家族",
+      "effect": "查看自己牌組上方的3張牌。展示1張持有#Advent的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "とっても感謝してるの",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-009"
   },
   {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
