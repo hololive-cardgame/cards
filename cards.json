@@ -30175,6 +30175,159 @@
     "id": "hSD12-009"
   },
   {
+    "image": "cardListImages/hSD12/hSD12-010_U.png",
+    "name": "古石ビジュー",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ベイビー",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "滲んでいく輝き",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "Your Princess AWAKENS!",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員1張紫色以外的吶喊卡放到存檔區：將自己存檔區的1張成員返回手牌。"
+    },
+    "extra": null,
+    "id": "hSD12-010"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-011_RR.png",
+    "name": "古石ビジュー",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ベイビー",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ビブーと遊んでいかない？",
+      "effect": "從自己的牌組抽1張牌。之後，可以將自己舞台上的1張吶喊卡放到存檔區。如果將牌放到存檔區，選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+40。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "キラキラぜーんぶ受け止めて！",
+      "damage": 110,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "雙方的存檔區每有1種顏色的吶喊卡，這個藝能需要的無色吶喊卡數量-1。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-011"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-012_C.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紫",
+    "hp": 140,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "綾なす想いは、儚きブルー",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": "如果自己的生命值在3以下，這個藝能需要的無色吶喊卡數量-2。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-012"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-013_C.png",
+    "name": "モココ・アビスガード",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ケモミミ",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ハッピー☆パピー -MOCOCO-",
+      "effect": "如果自己舞台上的所有成員都持有#Advent，可以將自己舞台後方的1位Debut成員放回牌組下方：從自己的牌組抽2張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ほんまにほんま～！！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-013"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-014_C.png",
+    "name": "フワワ・アビスガード",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ケモミミ",
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "藍",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": {
+      "name": "ハッピー☆パピー -FUWAWA-",
+      "effect": "如果自己舞台上的所有成員都持有#Advent，可以將自己舞台後方的1位Debut成員放回牌組下方：將自己吶喊牌組上方的1張牌發送給自己的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ほんまにほんまだよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-014"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-015_U.png",
+    "name": "脱獄を果たした共犯者たち",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "supportEffect": "自己舞台上的所有成員都持有#Advent才能使用。\n\n給予對手的中心成員20點特殊傷害。之後，將自己存檔區的1張吶喊卡發送給自己的成員。\n「脱獄を果たした共犯者たち」每個回合只能使用一次。",
+    "id": "hSD12-015"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-016_C.png",
+    "name": "GEOW",
+    "type": "支援・吉祥物",
+    "tag": null,
+    "product": "起始牌組「推し Advent (hSD12)」",
+    "supportEffect": "帶有這個吉祥物的成員HP+20。\n\n這個吉祥物從手牌附加給1st以上的「古石ビジュー」時，可以將自己舞台上的1張吶喊卡放到存檔區：從自己的吶喊牌組展示1張吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hSD12-016"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
@@ -30515,7 +30668,7 @@
     "image": "cardListImages/hY0/hY04-001_C.png",
     "name": "青エール",
     "type": "吶喊",
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","スタートエールセット"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「青 猫又おかゆ (hSD03)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","起始牌組「推し Advent (hSD12)」","スタートエールセット"],
     "color": "藍",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY04-001"
@@ -30596,7 +30749,7 @@
     "image": "cardListImages/hY0/hY05-001_C.png",
     "name": "紫エール",
     "type": "吶喊",
-    "product": ["補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」"],
+    "product": ["補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「紫 癒月ちょこ (hSD04)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「推し Advent (hSD12)」"],
     "color": "紫",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY05-001"
