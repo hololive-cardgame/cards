@@ -6499,7 +6499,7 @@
       "name": "３期生ぱわー",
       "damage": "60+",
       "specialAttackImage": null,
-      "effect": "[限定聯動位置]自己的舞台上除了這個成員外，每有1位標示#3期生的成員，這個藝能傷害+20。最多支持4位。"
+      "effect": "[限定聯動位置]自己的舞台上除了這個成員以外，每有1位標示#3期生的成員，這個藝能傷害+20。最多支持4位。"
     },
     "extra": "這個成員被擊倒時，自己的生命值-2",
     "id": "hBP02-017"
@@ -6529,7 +6529,7 @@
       "name": "３期生ぱわー",
       "damage": "60+",
       "specialAttackImage": null,
-      "effect": "[限定聯動位置]自己的舞台上除了這個成員外，每有1位標示#3期生的成員，這個藝能傷害+20。最多支持4位。"
+      "effect": "[限定聯動位置]自己的舞台上除了這個成員以外，每有1位標示#3期生的成員，這個藝能傷害+20。最多支持4位。"
     },
     "extra": "這個成員被擊倒時，自己的生命值-2",
     "id": "hBP02-017"
@@ -6559,7 +6559,7 @@
       "name": "３期生ぱわー",
       "damage": "60+",
       "specialAttackImage": null,
-      "effect": "[限定聯動位置]自己的舞台上除了這個成員外，每有1位標示#3期生的成員，這個藝能傷害+20。最多支持4位。"
+      "effect": "[限定聯動位置]自己的舞台上除了這個成員以外，每有1位標示#3期生的成員，這個藝能傷害+20。最多支持4位。"
     },
     "extra": "這個成員被擊倒時，自己的生命值-2",
     "id": "hBP02-017"
@@ -16604,7 +16604,7 @@
       "name": "HOLOROの魂",
       "damage": "80+",
       "specialAttackImage": "icons/tokkou_50_green.png",
-      "effect": "自己的舞台上除了這個成員外，每有1位標示#ID2期生的2nd成員，這個藝能傷害+20。"
+      "effect": "自己的舞台上除了這個成員以外，每有1位標示#ID2期生的2nd成員，這個藝能傷害+20。"
     },
     "art2": null,
     "extra": null,
@@ -16631,7 +16631,7 @@
       "name": "HOLOROの魂",
       "damage": "80+",
       "specialAttackImage": "icons/tokkou_50_green.png",
-      "effect": "自己的舞台上除了這個成員外，每有1位標示#ID2期生的2nd成員，這個藝能傷害+20。"
+      "effect": "自己的舞台上除了這個成員以外，每有1位標示#ID2期生的2nd成員，這個藝能傷害+20。"
     },
     "art2": null,
     "extra": null,
@@ -23028,7 +23028,7 @@
     "effectB": null,
     "effectG": {
       "name": "のんびり過ごす記念日",
-      "effect": "[限定中心位置或聯動位置]自己的舞台上除了這個成員外，標示#秘密結社holoX的所有成員藝能傷害+20。"
+      "effect": "[限定中心位置或聯動位置]自己的舞台上除了這個成員以外，標示#秘密結社holoX的所有成員藝能傷害+20。"
     },
     "art1": {
       "image": ["icons/arts_null.png","icons/arts_null.png"],
@@ -23377,7 +23377,7 @@
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
       "name": "FOR! JUSTICE!",
-      "effect": "將自己吶喊牌組上方的1張牌發送給自己這個成員外標示#Justice的成員。"
+      "effect": "將自己吶喊牌組上方的1張牌發送給自己這個成員以外標示#Justice的成員。"
     },
     "effectB": null,
     "effectG": null,
@@ -23404,7 +23404,7 @@
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
       "name": "FOR! JUSTICE!",
-      "effect": "將自己吶喊牌組上方的1張牌發送給自己這個成員外標示#Justice的成員。"
+      "effect": "將自己吶喊牌組上方的1張牌發送給自己這個成員以外標示#Justice的成員。"
     },
     "effectB": null,
     "effectG": null,
@@ -28171,7 +28171,7 @@
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
       "name": "クレッシェンドな日々",
-      "effect": "可以將自己舞台上的1張吶喊卡，替換給自己這個成員外的成員。"
+      "effect": "可以將自己舞台上的1張吶喊卡，替換給自己這個成員以外的成員。"
     },
     "effectB": null,
     "effectG": null,
@@ -28959,7 +28959,7 @@
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
       "name": "ご飯が底をつきそう……",
-      "effect": "自己的中心成員為「不知火フレア」時，可以將自己存檔區的1張吶喊卡，發送給自己這個成員外的成員。"
+      "effect": "自己的中心成員為「不知火フレア」時，可以將自己存檔區的1張吶喊卡，發送給自己這個成員以外的成員。"
     },
     "effectB": null,
     "effectG": null,
