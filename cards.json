@@ -2165,6 +2165,33 @@
     "id": "hBP01-022"
   },
   {
+    "image": "cardListImages/hBP01/hBP01-022_02_P.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "PR卡",
+    "color": "白",
+    "hp": 110,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "楽しむ準備はできてる！？",
+      "effect": "從自己的牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "最高の一日にしようね♪",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-022"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-023_RR.png",
     "name": "ときのそら",
     "type": "成員",
@@ -6616,6 +6643,33 @@
     "id": "hBP02-019"
   },
   {
+    "image": "cardListImages/hBP02/hBP02-019_P.png",
+    "name": "パヴォリア・レイネ",
+    "type": "成員",
+    "tag": "#ID / #ID2期生 / #トリ / #絵",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 60,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "友達をHALUにさせる方法",
+      "effect": "可以將自己存檔區的1張吶喊卡發送給自己的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Very Easy!",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP02-019"
+  },
+  {
     "image": "cardListImages/hBP02/hBP02-020_C.png",
     "name": "パヴォリア・レイネ",
     "type": "成員",
@@ -8914,6 +8968,33 @@
     "id": "hBP02-067"
   },
   {
+    "image": "cardListImages/hBP02/hBP02-067_P.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "PR卡",
+    "color": "紫",
+    "hp": 120,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ネリッサとお茶会",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#歌的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "コーヒーよりも紅茶です",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP02-067"
+  },
+  {
     "image": "cardListImages/hBP02/hBP02-068_R.png",
     "name": "ネリッサ・レイヴンクロフト",
     "type": "成員",
@@ -10552,6 +10633,33 @@
     "id": "hBP03-020"
   },
   {
+    "image": "cardListImages/hBP03/hBP03-020_P.png",
+    "name": "獅白ぼたん",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ケモミミ / #シューター",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 110,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "SSSSR",
+      "effect": "將自己吶喊牌組上方的1張牌，發送給自己的後台成員「獅白ぼたん」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "ショッピングカートで来た",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP03-020"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-021_RR.png",
     "name": "獅白ぼたん",
     "type": "成員",
@@ -11407,6 +11515,33 @@
     "id": "hBP03-036"
   },
   {
+    "image": "cardListImages/hBP03/hBP03-036_P.png",
+    "name": "小鳥遊キアラ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #トリ",
+    "product": "PR卡",
+    "color": "紅",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ハッピータイム",
+      "effect": "可以從自己的牌組展示1~4張「小鳥遊キアラ」，放到存檔區。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "鋼の翼",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP03-036"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-037_C.png",
     "name": "モココ・アビスガード",
     "type": "成員",
@@ -12096,6 +12231,33 @@
     "type": "成員",
     "tag": "#JP / #4期生 / #歌 / #シューター",
     "product": "補充包「エリートスパーク (hBP03)」",
+    "color": "紫",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "トワにしか出せない色",
+      "effect": "給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "大爆発させちゃうぜ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員的4張紫色吶喊卡放到存檔區：將對手舞台上的1張吶喊卡放回吶喊牌組下方。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP03-054"
+  },
+  {
+    "image": "cardListImages/hBP03/hBP03-054_P.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "PR卡",
     "color": "紫",
     "hp": 140,
     "bloom": "1st",
@@ -13026,6 +13188,33 @@
     "type": "成員",
     "tag": "#ID / #ID1期生 / #ケモミミ / #歌",
     "product": "補充包「エリートスパーク (hBP03)」",
+    "color": "黃",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "いやっほー！ みんな元気？",
+      "effect": "從自己的吶喊牌組展示1張綠色吶喊卡或黃色吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ぷるぷる、おつリス！！！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP03-076"
+  },
+  {
+    "image": "cardListImages/hBP03/hBP03-076_P.png",
+    "name": "アユンダ・リス",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #ケモミミ / #歌",
+    "product": "PR卡",
     "color": "黃",
     "hp": 150,
     "bloom": "1st",
@@ -16422,6 +16611,33 @@
     "id": "hBP04-058"
   },
   {
+    "image": "cardListImages/hBP04/hBP04-058_P.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター",
+    "product": "PR卡",
+    "color": "紫",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": [],
+    "effectC": {
+      "name": "貴様の運命試してみるか？",
+      "effect": "可以擲3次骰子：每出現1次奇數，給予對手的中心成員10點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "吾輩に勝つつもりか？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP04-058"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-059_RR.png",
     "name": "ラプラス・ダークネス",
     "type": "成員",
@@ -17655,6 +17871,33 @@
     "id": "hBP04-081"
   },
   {
+    "image": "cardListImages/hBP04/hBP04-081_P.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "PR卡",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "大好きな君に届くように",
+      "effect": "從自己的吶喊牌組展示1張黃色吶喊卡，發送給這個成員。將吶喊牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "全力で歌うよッ！！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP04-081"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-082_RR.png",
     "name": "夏色まつり",
     "type": "成員",
@@ -18829,6 +19072,30 @@
     "type": "成員",
     "tag": "#JP / #3期生 / #ケモミミ",
     "product": "補充包「エンチャントレガリア (hBP05)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "かわいいぺこか？",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "可以擲1次骰子：如果為偶數，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-014"
+  },
+  {
+    "image": "cardListImages/hBP05/hBP05-014_P.png",
+    "name": "兎田ぺこら",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ケモミミ",
+    "product": "PR卡",
     "color": "白",
     "hp": 110,
     "bloom": "Debut",
@@ -20336,6 +20603,33 @@
     "id": "hBP05-044"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-044_P.png",
+    "name": "猫又おかゆ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ",
+    "product": "PR卡",
+    "color": "藍",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "お弁当タイム…？",
+      "effect": "給予對手的中心成員與1位後台成員10點特殊傷害。「お弁当タイム…？」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "ドンストップゲーミング！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-044"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-045_RR.png",
     "name": "猫又おかゆ",
     "type": "成員",
@@ -20500,6 +20794,33 @@
     "type": "成員",
     "tag": "#ID / #ID3期生",
     "product": "補充包「エンチャントレガリア (hBP05)」",
+    "color": "藍",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "幼馴染のドキドキ膝枕",
+      "effect": "給予對手的2位後台成員10點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "キミが元気になれるように",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "給予對手的2位後台成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-048"
+  },
+  {
+    "image": "cardListImages/hBP05/hBP05-048_P.png",
+    "name": "こぼ・かなえる",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "PR卡",
     "color": "藍",
     "hp": 140,
     "bloom": "1st",
@@ -23474,6 +23795,33 @@
     "id": "hBP06-033"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-033_P.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "濡羽色のほころび",
+      "effect": "如果這個回合有使用過標示#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "茸 （くさびら）",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "可以將自己存檔區的1張吶喊卡發送給自己標示#ReGLOSS的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-033"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-034_C.png",
     "name": "百鬼あやめ",
     "type": "成員",
@@ -23797,6 +24145,33 @@
     "type": "成員",
     "tag": "#EN / #Promise / #ケモミミ",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Once a Peasant,",
+      "effect": "可以將自己手牌1張標示#Promise的成員放到存檔區：給予對手的中心成員或聯動成員30點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "ALWAYS A PEASANT.",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-043"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-043_P.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "PR卡",
     "color": "紅",
     "hp": 160,
     "bloom": "1st",
@@ -26827,6 +27202,33 @@
     "type": "成員",
     "tag": "#JP / #2期生 / #シューター",
     "product": "起始牌組「赤 百鬼あやめ (hSD02)」",
+    "color": "紅",
+    "hp": 120,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "どーっちどっち♪",
+      "effect": "從Debut綻放時，查看自己牌組上方的2張牌。展示其中的1張牌並加入手牌。其餘放到存檔區。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "輝いた余を見逃さないでね～～！！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD02-007"
+  },
+  {
+    "image": "cardListImages/hSD02/hSD02-007_02_P.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "PR卡",
     "color": "紅",
     "hp": 120,
     "bloom": "1st",
