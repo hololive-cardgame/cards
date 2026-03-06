@@ -26565,6 +26565,26 @@
     "id": "hBP07-001"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-002_OSR.png",
+    "name": "ベスティア・ゼータ",
+    "type": "主推",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "life": 5,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -3,
+      "name": "Good Luck, holoh3ro!",
+      "effect": "[每個回合一次]選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+50。如果該成員為標示#ID3期生的Buzz成員，則該成員的藝能傷害+80。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "不可能なんてないんだから！",
+      "effect": "[每場比賽一次]選擇自己存檔區任意數量的吉祥物與粉絲，附加給自己1位標示#ID3期生的成員。如果附加3張以上，這個回合中，該成員的藝能傷害+100。"
+    },
+    "id": "hBP07-002"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
