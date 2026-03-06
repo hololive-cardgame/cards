@@ -26923,6 +26923,168 @@
     "id": "hBP07-016"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-017_C.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "holoh3ro Shopping",
+      "effect": "[限定中心位置]自己標示#ID3期生的Buzz成員聯動時，選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+30。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "みんなと一緒にいる時間が好き",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-017"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-018_C.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Horse Doko?",
+      "effect": "展示自己牌組上方的1張牌。如果該牌為支援卡，將展示的牌加入手牌。如果不為支援卡，將展示的牌放回牌組上方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "うまみ～うまみ～♪",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果這個回合自己有使用過活動，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-018"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-019_R.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 230,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "準備万端！",
+      "effect": "從自己的牌組展示1張「BAZO」或「Zecretary」，附加給自己的「ベスティア・ゼータ」。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "ホロライブID初代ダンスクイーン",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "如果這個成員帶有吉祥物或粉絲，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP07-019"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-020_U.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "Ya ya ya ya ya～!",
+      "effect": "擲1次骰子。如果為奇數，對手中心位置的2nd成員HP剩餘100。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png"],
+      "name": "もっとパフォーマンスしたい！",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-020"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-021_RR.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "任務手伝ってくれる？",
+      "effect": "將自己存檔區的1張「BAZO」或「Zecretary」附加給自己的成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "最高のシークレットエージェント",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果標示#ID3期生的Buzz成員在自己的舞台上，這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-021"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-022_R.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 220,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "筋肉は裏切らない！",
+      "effect": "[限定聯動位置]對手回合中，自己標示#3期生的中心成員被擊倒時，將該成員與所有重疊的成員返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "元気もりもりさんでーまっする",
+      "damage": 50,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "選擇自己1位標示#3期生的成員。這個回合中，該成員的藝能需要的無色吶喊卡數量-1。如果該成員是2nd成員「白銀ノエル」，則該成員的藝能需要的無色吶喊卡數量-2。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-022"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
