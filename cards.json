@@ -26546,6 +26546,25 @@
     "id": "hBP06-104"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-001_OSR.png",
+    "name": "角巻わため",
+    "type": "主推",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "life": 5,
+    "stageSkill":{
+      "name": "ドドドライブ",
+      "effect": "自己的「角巻わため」使用了藝能時，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "oshiSkill": {
+      "holoPower": -6,
+      "name": "角ドリルしたろか？",
+      "effect": "[每個回合一次]這個回合中，自己舞台上所有的「角巻わため」藝能傷害+100。"
+    },
+    "spSkill": null,
+    "id": "hBP07-001"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
