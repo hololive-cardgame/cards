@@ -313,6 +313,7 @@ main {
 
 .popup-right .info,
 .popup-right .infoProducts,
+.popup-right .stage-skill,
 .popup-right .oshi-skill,
 .popup-right .sp-skill,
 .popup-right .effect-C,
@@ -327,6 +328,7 @@ main {
 }
 
 .popup-right .infoProducts,
+.popup-right .stage-skill,
 .popup-right .oshi-skill,
 .popup-right .sp-skill,
 .popup-right .effect-C,
@@ -341,12 +343,16 @@ main {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    flex: 0 0 80px;
+    flex: 0 0 95px;
     margin-right: 20px;
     font-size: 0.85rem;
     color: #fff;
     background-color: #534B88;
     border-radius: 20px;
+}
+
+.label.stageSkill {
+    background-image: linear-gradient(90deg, rgb(0, 164, 178), rgb(165, 211, 93) 50%, rgb(78, 203, 12))
 }
 
 .label.oshiSkill {
@@ -374,6 +380,7 @@ main {
     background-image:linear-gradient(90deg, rgb(245, 218, 114), rgb(221, 159, 51) 50%, rgb(245, 218, 114));
 }
 
+.stage-skill span,
 .oshi-skill span,
 .sp-skill span,
 .effect-C span,
