@@ -938,7 +938,7 @@ function showPopup(card, index) {
         ${card.stageSkill ? `
           <div class="stage-skill">
             <p class="label stageSkill">主推舞台技能</p>
-            <p>${card.stageSkill.name}</span>${card.stageSkill.effect}</p>
+            <p>${card.stageSkill.name}<span>${card.stageSkill.effect}</span></p>
           </div>
         ` : ''}
 
