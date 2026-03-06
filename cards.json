@@ -26585,6 +26585,344 @@
     "id": "hBP07-002"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-003_OSR.png",
+    "name": "大神ミオ",
+    "type": "主推",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "life": 5,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "神札の導き",
+      "effect": "[每個回合一次]查看自己牌組上方的2張牌。將其中的1張牌加入手牌。其餘放回牌組上方。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "みんなのママ",
+      "effect": "[每場比賽一次]查看自己牌組上方的6張牌。將其中的3張牌加入手牌。其餘依照喜歡的順序放回牌組上方。之後，自己所有的成員HP回復50點。"
+    },
+    "id": "hBP07-003"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-004_OSR.png",
+    "name": "赤井はあと",
+    "type": "主推",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "life": 5,
+    "stageSkill":{
+      "name": "はあちゃまなう",
+      "effect": "[每個回合一次]自己回合中，自己的「赤井はあと」因自己的效果從舞台上放回牌組時，從自己的牌組抽2張牌。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ワールドワイドな最強アイドル！",
+      "effect": "[每個回合一次]將自己舞台後方的1位Debut成員「赤井はあと」放回牌組下方。之後，選擇自己舞台上的1位「赤井はあと」。這個回合中，該成員的藝能傷害+50。"
+    },
+    "spSkill": null,
+    "id": "hBP07-004"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-005_OSR.png",
+    "name": "オーロ・クロニー",
+    "type": "主推",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "life": 5,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "忘却の輪の上で",
+      "effect": "[每個回合一次]從自己的牌組下方抽2張牌後，將1張手牌放到存檔區。"
+    },
+    "spSkill": {
+      "holoPower": -4,
+      "name": "時間の典獄",
+      "effect": "[每場比賽一次]如果自己的中心成員為2nd成員「オーロ・クロニー」，在這個回合結束後，再次開始自己的回合。"
+    },
+    "id": "hBP07-005"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-006_OSR.png",
+    "name": "AZKi",
+    "type": "主推",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "life": 5,
+    "stageSkill":{
+      "name": "ETERNiTY FRONTiER",
+      "effect": "自己的holo能量區每有1張牌，自己的中心成員「AZKi」藝能傷害+20。"
+    },
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "行くよ、開拓者。",
+      "effect": "[每個回合一次]如果自己的成員在上個對手回合中被擊倒，從自己的牌組展示1張活動並加入手牌。將牌組重新洗牌。"
+    },
+    "spSkill": null,
+    "id": "hBP07-006"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-007_OSR.png",
+    "name": "桃鈴ねね",
+    "type": "主推",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "life": 5,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "スーパーねぽらぼエナジー",
+      "effect": "[每個回合一次]將自己存檔區的吶喊卡發送給自己標示#5期生的所有2nd成員，每人各1張。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "ねねちの大・暴・走！",
+      "effect": "[每場比賽一次]從自己的牌組展示1~4張Debut成員「桃鈴ねね」並放到舞台上。將牌組重新洗牌。"
+    },
+    "id": "hBP07-007"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-008_C.png",
+    "name": "角巻わため",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ケモミミ / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "もういっぺぇ",
+      "effect": "如果在自己後攻的第一個回合，選擇自己的1位「角巻わため」。這個回合中，該成員使用了藝能後，可以再次使用相同的藝能。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "スプリングシープ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-008"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-009_U.png",
+    "name": "角巻わため",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ケモミミ / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "ガブガブ！",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-009"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-010_C.png",
+    "name": "角巻わため",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ケモミミ / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "みんなー！ 楽しむぞおおー！！！！！",
+      "effect": "將自己牌組上方的1張牌放到holo能量區。之後，查看自己的holo能量區。將其中的1張牌加入手牌。將holo能量區重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "みんなの声聞けるかなー？？？？？？？",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-010"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-011_C.png",
+    "name": "角巻わため",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ケモミミ / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "グルグルシープ",
+      "effect": "從自己的牌組展示1張1st成員「角巻わため」並加入手牌。將牌組重新洗牌。「グルグルシープ」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "これボタン弾けちゃうよぉ",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": "如果這個成員有2張以上的白色吶喊卡，這個藝能需要的無色吶喊卡數量-1。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-011"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-012_R.png",
+    "name": "角巻わため",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ケモミミ / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 190,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "わたビーーーーーーーム！！！！！！",
+      "effect": "給予對手的中心成員或聯動成員30點特殊傷害。之後，對手從牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "わたキャノンもだ！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-012"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-013_U.png",
+    "name": "角巻わため",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ケモミミ / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "はばないすでーい！！！",
+      "effect": "這個回合中，自己舞台上的所有「角巻わため」藝能傷害+20。之後，如果自己的中心成員有6張以上的吶喊卡，從自己的牌組抽2張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "センキューオーバーシープ！",
+      "damage": "90+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "這個成員每帶有1張「わためいと」，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-013"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-014_RR.png",
+    "name": "角巻わため",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ケモミミ / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "キュートセクシー",
+      "effect": "每有1張與這個成員重疊的成員，這個成員的HP+10。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png","icons/arts_null.png"],
+      "name": "脳天直撃わためハンマー！",
+      "damage": 160,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "[限定中心位置]使用這個藝能擊倒對手的成員時，如果傷害超過該成員剩餘的HP，給予對手的1位2nd成員與超出部分相同數值的特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-014"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-015_C.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Adopt Me？",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張標示#ID3期生的Buzz成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ノラネコ見つけた~",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-015"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-016_U.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "白",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "Pat the BAZO",
+      "effect": "如果這個成員帶有吉祥物，這個成員的HP+30。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "So, Tell Me Your Secrets?",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-016"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
