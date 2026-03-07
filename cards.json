@@ -26879,7 +26879,7 @@
     "bloom": "Debut",
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
-      "name": "Adopt Me？",
+      "name": "Adopt Me?",
       "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張標示#ID3期生的Buzz成員並加入手牌。將牌組重新洗牌。"
     },
     "effectB": null,
@@ -27083,6 +27083,492 @@
     "art2": null,
     "extra": null,
     "id": "hBP07-022"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-023_C.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "占いパワー注入！",
+      "effect": "如果在自己後攻的第一個回合，查看自己牌組上方的3張牌。將其中的1張牌加入手牌。其餘依照喜歡的順序放回牌組上方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "MIOON!",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-023"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-024_U.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "ウチの大切な家族",
+      "effect": "[每個回合一次]這個成員附加「ミオファ」時，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "今日もいっぱい笑っていこう",
+      "damage": "10+",
+      "specialAttackImage": null,
+      "effect": "可以將自己牌組上方的1張牌放到存檔區。如果該牌為支援卡，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-024"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-025_C.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "抹茶パフェ～！きゅんです",
+      "effect": "選擇自己1位帶有支援卡且標示#ゲーマーズ的成員。這個回合中，該成員的藝能傷害+20。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ゲーマーズカフェへようこそ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "將自己存檔區的1張吶喊卡發送給自己標示#ゲーマーズ的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-025"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-026_C.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "早く来ないかな…",
+      "effect": "從自己的牌組展示1張「ハトタウロス」或「ミオファ」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ちょっとお洒落な感じでしょ？",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-026"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-027_R.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ハートの女王の采配",
+      "effect": "選擇自己這個成員以外的1位後台成員。這個回合中，該成員的藝能傷害+30。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png"],
+      "name": "女王陛下と呼びなさい",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]使用這個藝能擊倒對手的成員時，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-027"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-028_U.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "金瞳の綺羅星",
+      "effect": "查看自己牌組上方的2張牌。將其中的1張牌加入手牌。其餘放回牌組上方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "天まで届け、みんなの願い",
+      "damage": "90+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "可以將自己牌組上方的1張牌放到存檔區。如果該牌為支援卡，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-028"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-029_RR.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "緑の地母神",
+      "effect": "[每個回合一次]對手回合中，這個成員受到了傷害時，如果這個成員帶有支援卡，這個成員HP回復50點。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "Upright Leading",
+      "damage": "130+",
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "可以將自己牌組上方的1張牌放到存檔區。如果該牌為成員，將自己吶喊牌組上方的1張牌發送給自己的成員。如果該牌為支援卡，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-029"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-030_R.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "holoRêve -いろは-",
+      "effect": "從Buzz成員綻放時，自己的1位成員HP回復100點。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png"],
+      "name": "たくさんの宝物",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "可以將這個成員的2張吶喊卡放到存檔區：從自己的牌組抽2張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-030"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-031_R.png",
+    "name": "アイラニ・イオフィフティーン",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #絵",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 240,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "この輝きが私達！",
+      "effect": "可以將自己holo能量區上方的2張牌放到存檔區：從自己的牌組抽2張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "ひとつになる声",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "如果自己主推的顏色為綠色、藍色或黃色，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP07-031"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-032_C.png",
+    "name": "輪堂千速",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ドライブ行こうよ",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張1st成員「輪堂千速」與1張「ふぐ太郎」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "一陣の夜風",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-032"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-033_U.png",
+    "name": "輪堂千速",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ティールマーメイド",
+      "effect": "選擇自己這個回合綻放過的1位標示#FLOW GLOW的成員。這個回合中，該成員的藝能傷害+30。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "～Something blue～ 千速",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-033"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-034_R.png",
+    "name": "輪堂千速",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 190,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ぶいぶい走らせるぞ！！！",
+      "effect": "可以將自己舞台上的1張吶喊卡放到存檔區：從自己的牌組展示1張標示#FLOW GLOW的Debut成員、1st成員或Spot成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "どっちが速いｶﾅ？！？！？！",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果這個成員帶有「ふぐ太郎」，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-034"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-035_RR.png",
+    "name": "輪堂千速",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "Give Me Hype!!",
+      "effect": "這個回合自己標示#FLOW GLOW的成員每綻放一次，將自己吶喊牌組上方的1張牌發送給這個成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "サージングエキゾースト",
+      "damage": 160,
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "計算這個成員持有的吶喊卡數量，將這個成員的所有吶喊卡依照喜歡的順序放回吶喊牌組下方。之後，從自己的牌組抽牌直到手牌張數與因這個效果放回吶喊牌組的吶喊卡張數相同。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-035"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-036_C.png",
+    "name": "赤井はあと",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": {
+      "name": "AKAI HAATO VS HAACHAMA",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示2張Debut成員「赤井はあと」，放到舞台上。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "どちらがお好き？♡",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-036"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-037_U.png",
+    "name": "赤井はあと",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ちゃまと旅する！",
+      "effect": "如果自己的中心成員為「赤井はあと」，從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "旅はまだ、始まったばかり。",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-037"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-038_C.png",
+    "name": "赤井はあと",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "幻獣グルメハンター",
+      "effect": "擲1次骰子。如果為奇數，給予對手的中心成員20點特殊傷害。如果為偶數，從自己的牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "hololiveEN0",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "這個回合中，自己舞台上標示#EN的所有成員藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-038"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-039_C.png",
+    "name": "赤井はあと",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "血ゃ舞ってる奴いる！？",
+      "effect": "[每個回合一次]自己回合中，自己的「赤井はあと」從舞台上放回牌組時，可以將自己存檔區的1張吶喊卡發送給這個成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "俺の名は〝ちゃまお〟漢の中の漢だ！",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "給予對手的中心成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-039"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-040_R.png",
+    "name": "赤井はあと",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Haachama ♥ Restaurant",
+      "effect": "可以將自己舞台後方的1位Debut成員「赤井はあと」放回牌組下方：從自己的牌組展示1張Buzz以外的1st成員或2nd成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "当店自慢のはあとんバーガー！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-040"
   },
   {
     "image": "cardListImages/hPR/hPR-001_P.png",
