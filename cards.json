@@ -27571,6 +27571,603 @@
     "id": "hBP07-040"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-041_U.png",
+    "name": "赤井はあと",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "EVERYBODY SAY HENTAI",
+      "effect": "給予對手的聯動成員50點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "万物に愛されちゃま計画",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己舞台上的所有吶喊卡都是紅色，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-041"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-042_RR.png",
+    "name": "赤井はあと",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "純心タランテラ",
+      "damage": 80,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "給予對手的中心成員與聯動成員40點特殊傷害。"
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "幸せへの旅路",
+      "damage": "140+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果這個回合自己的成員從舞台上放回牌組，這個藝能傷害+50。"
+    },
+    "extra": null,
+    "id": "hBP07-042"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-043_R.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "holoRêve -みこ-",
+      "effect": "選擇3或5。這個回合中，因自己的主推「さくらみこ」與自己舞台上的「さくらみこ」的效果擲骰子時，那些骰子的點數視為剛才選擇的數字。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png","icons/arts_red.png","icons/arts_null.png"],
+      "name": "桜は花に顕る",
+      "damage": "70+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "這個成員每帶有1張「35P」，這個藝能傷害+70，並從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-043"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-044_R.png",
+    "name": "尾丸ポルカ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ケモミミ",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "The Show Must Go On",
+      "effect": "[限定中心位置或聯動位置]對手回合中，自己帶有粉絲的Buzz成員被擊倒時，如果自己的主推為「尾丸ポルカ」，自己受到的生命值傷害-1。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "スタッフファーストです！",
+      "damage": 120,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "將自己牌組上方的2張牌放到存檔區。之後，可以將自己存檔區的1張工作人員返回手牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-044"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-045_R.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 230,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "テンション上がってきた！",
+      "effect": "[限定中心位置或聯動位置]使用了自己的SP主推技能時，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "キミがいないと楽しくないもん",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "自己每有1張手牌，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP07-045"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-046_C.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "後の先を取る！",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張1st成員「エリザベス・ローズ・ブラッドフレイム」與1張「Thorn」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Onwards and Upwards!",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-046"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-047_U.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 120,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "…Very well.",
+      "effect": "如果自己的主推為「エリザベス・ローズ・ブラッドフレイム」，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "さあ、かかってくるといい",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-047"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-048_R.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 260,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "Queen of Impersonation",
+      "effect": "這個成員可以使用自己舞台上標示#EN的所有成員的所有藝能(要有使用該藝能的吶喊卡)。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "Because I love people's voices",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": "將自己存檔區1張標示#EN的成員返回手牌。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP07-048"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-049_RR.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "絢爛のアインザッツ",
+      "effect": "[限定中心位置或聯動位置]自己的成員擊倒對手的成員時，選擇自己的1位成員。這個回合中，該成員的藝能需要的無色吶喊卡數量-2。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "不撓のコンチェルタート",
+      "damage": "130+",
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "如果自己的生命值在4以下，這個藝能傷害+30。如果自己的生命值在2以下，則這個藝能傷害+60。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-049"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-050_C.png",
+    "name": "オーロ・クロニー",
+    "type": "成員",
+    "tag": "#EN / #Promise",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "この日が来た！",
+      "effect": "如果在自己後攻的第一個回合，自己的中心成員「オーロ・クロニー」，可以使用自己手牌的1st成員進行綻放。這個效果可以在第一個回合進行綻放。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "金色のルアー",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-050"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-051_U.png",
+    "name": "オーロ・クロニー",
+    "type": "成員",
+    "tag": "#EN / #Promise",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "TAKE YOUR TIME",
+      "effect": "可以將自己舞台上的1張吶喊卡替換給自己這個成員以外標示#Promise的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Check This Out Yo🕶️",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-051"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-052_C.png",
+    "name": "オーロ・クロニー",
+    "type": "成員",
+    "tag": "#EN / #Promise",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "お時間ですわ！",
+      "effect": "可以將自己存檔區的1張吉祥物附加給這個成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "私の新キャッチフレーズ。どうだい？",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "「オーロ・クロニー」以外，如果標示#Promise的成員在自己的舞台上，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-052"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-053_C.png",
+    "name": "オーロ・クロニー",
+    "type": "成員",
+    "tag": "#EN / #Promise",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "時を超えた約束",
+      "effect": "選擇自己舞台上1位標示#Promise的成員。這個回合中，該成員的藝能傷害+20。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "Everlasting Flower",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "將自己吶喊牌組上方的1張牌發送給自己標示#Promise的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-053"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-054_R.png",
+    "name": "オーロ・クロニー",
+    "type": "成員",
+    "tag": "#EN / #Promise",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 250,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "I'm pretty shy…uwu",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "將自己吶喊牌組上方的1張牌發送給自己標示#Promise的Buzz成員。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP07-054"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-055_U.png",
+    "name": "オーロ・クロニー",
+    "type": "成員",
+    "tag": "#EN / #Promise",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "約束の未来へ",
+      "effect": "選擇自己舞台上1位標示#Promise的成員。這個回合中，該成員的藝能傷害+50。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "Life Goes On",
+      "damage": 90,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-055"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-056_RR.png",
+    "name": "オーロ・クロニー",
+    "type": "成員",
+    "tag": "#EN / #Promise",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "時界を統べし者",
+      "effect": "[限定中心位置]自己的表演階段開始時，自己這個成員以外的1位「オーロ・クロニー」，可以使用與這個成員重疊的成員進行綻放。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "You're not ready for me.",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "可以將這個成員的1張吶喊卡替換給自己其他標示#Promise的成員。之後，如果自己的主推為「オーロ・クロニー」，這個藝能傷害+100。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-056"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-057_R.png",
+    "name": "猫又おかゆ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "君と遊ぶとドキドキしちゃう…",
+      "effect": "給予對手的1位成員30點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_null.png"],
+      "name": "おりゃー！！油断したでしょ～",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "如果自己的主推為「猫又おかゆ」，且對手有HP減少100以上的後台成員，給予對手的1位成員50點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-057"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-058_R.png",
+    "name": "こぼ・かなえる",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Happy For You",
+      "effect": "從自己的吶喊牌組展示1張與自己舞台上1位標示#ID3期生的成員相同顏色的吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "MANTAP LEE!!",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": "如果對手有3位以上HP有減少的後台成員，從自己的牌組抽2張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-058"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-059_C.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "It's Time to Play Dress-up!",
+      "effect": "如果在自己後攻的第一個回合，將自己存檔區的1張支援卡返回手牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "A Cozy, Spooky Night Together",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-059"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-060_U.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 190,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "食料解剖",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png"],
+      "name": "Don't Let Her Cook!",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "自己的存檔區有4張以上的支援卡才能使用這個藝能。"
+    },
+    "extra": null,
+    "id": "hBP07-060"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-061_R.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "A New Chapter Begins!",
+      "effect": "如果自己的主推為「シオリ・ノヴェラ」，查看自己牌組上方的4張牌。展示1張支援卡並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "逃がす訳がないでしょう？",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位後台成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-061"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-062_RR.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "A New Crime & A New Me",
+      "effect": "可以將自己手牌的2張支援卡放到存檔區：選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+50。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "解き放たれた禁断の知識",
+      "damage": "60+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "將自己存檔區的1張吶喊卡發送給自己標示#Advent的成員。之後，如果自己的主推為「シオリ・ノヴェラ」，且這個成員有4張以上的吶喊卡，這個藝能傷害+100。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-062"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
