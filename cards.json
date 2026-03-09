@@ -28168,6 +28168,387 @@
     "id": "hBP07-062"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-063_C.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ドキドキ夜キャンプ…",
+      "effect": "如果在自己後攻的第一個回合，且自己的主推為「AZKi」，將對手舞台上的1張吶喊卡放回吶喊牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "君とぴったり密着空間",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-063"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-064_U.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ゆっくりしにおいで♡",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組展示1張「開拓者」，附加給自己的「AZKi」。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-064"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-065_C.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 190,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "盛り上がっていこう！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組抽1張牌後，將1張手牌放到存檔區。"
+    },
+    "art2": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "みんなの声聞かせてええええええ！！！",
+      "damage": 120,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hBP07-065"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-066_C.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "仮想世界の伴走する歌姫",
+      "effect": "自己的1位成員HP回復30點。之後，選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+10。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "音楽と歌うことが大好き！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-066"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-067_R.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ROMANTiC NiGHT",
+      "effect": "查看自己牌組上方的4張牌。展示1張「AZKi」並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "君と二人きりの夜",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "可以將自己的1張手牌放到存檔區：給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-067"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-068_U.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "共に歩んできた軌跡",
+      "effect": "這個回合中，自己的舞台上每有1位標示#0期生且不同卡名的成員，這個成員的藝能傷害+20。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "ホワイトデーのお返し、待ってるね",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-068"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-069_RR.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 220,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "君と新たな開拓の地へ",
+      "damage": 140,
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "從自己的牌組抽2張牌。"
+    },
+    "art2": {
+      "image": ["icons/arts_purple.png","icons/arts_purple.png","icons/arts_purple.png","icons/arts_null.png"],
+      "name": "紡いだ軌跡 すべてに捧ぐ歌",
+      "damage": 200,
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己的主推為「AZKi」，可以將自己holo能量區上方的4張牌放到存檔區：如果自己的存檔區有4張「フロンティアスピリット」，對手的生命值-1。"
+    },
+    "extra": null,
+    "id": "hBP07-069"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-070_R.png",
+    "name": "癒月ちょこ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #料理",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "今日のご飯、何がいーい？",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#料理的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "がんばって美味しいの作るね♡",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "選擇自己1位標示#料理的成員。這個回合自己每使用過1張標示#食べ物的活動，這個回合中，剛才選擇的成員藝能需要的無色吶喊卡數量-1。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-070"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-071_C.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": {
+      "name": "おい、お前",
+      "effect": "查看自己牌組上方的5張牌。展示1張紫色的Debut成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "手作りの朝ごはんを要求する",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-071"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-072_U.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Secret Love -La+-",
+      "effect": "選擇自己舞台上1位標示#秘密結社holoX的成員，擲3次骰子。這個回合中，因這個效果每出現1次奇數，剛才選擇的成員藝能傷害+10。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "吾輩との秘密だぞ",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-072"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-073_R.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ライブだー！！！！！！！！！",
+      "effect": "這個回合中，這個成員的藝能需要的無色吶喊卡數量-2。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "吾輩の歌聴いてくれる奴いるううう！？！？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組展示1張「ラプラス・ダークネス」並加入手牌。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-073"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-074_RR.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター / #歌",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ラッシュ行きます",
+      "effect": "查看自己牌組上方的3張牌。展示任意數量的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "吾輩の歌を聴けえええええええ！！！！",
+      "damage": "110+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己中心成員的顏色為紫色，這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-074"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-075_R.png",
+    "name": "古石ビジュー",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ベイビー",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "闇夜のハンター",
+      "effect": "如果對與自己存檔區的吶喊卡相同顏色的成員使用這個成員的藝能，這個成員的藝能傷害不會被減少。"
+    },
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "CODE:81800",
+      "damage": "70+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果這個成員有3張以上的吶喊卡，雙方的存檔區每有1張吶喊卡，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-075"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-076_R.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 260,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "SUGOISUGOIDEKAI",
+      "effect": "如果自己的主推為「ネリッサ・レイヴンクロフト」，從自己的牌組抽1張牌，將自己的1張手牌放到holo能量區。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "あら、捕まえられちゃった！",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "可以將自己holo能量區的1張牌放到存檔區：這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP07-076"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
