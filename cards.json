@@ -28549,6 +28549,510 @@
     "id": "hBP07-076"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-077_C.png",
+    "name": "桃鈴ねね",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #歌 / #絵",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "あぱぱ",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張標示#5期生的2nd成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ねね、酔っちゃった～",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-077"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-078_U.png",
+    "name": "桃鈴ねね",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #歌 / #絵",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "君もこっちにおいで～！",
+      "effect": "查看自己牌組上方的5張牌。展示1張「ねっ子」並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ねねと一緒に楽しもう！！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-078"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-079_C.png",
+    "name": "桃鈴ねね",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #歌 / #絵",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ねねちライブスタート！",
+      "effect": "可以將自己存檔區的1張吶喊卡發送給這個成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ご自由にお使いください！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組展示1張「やめなー」，附加給自己的成員。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-079"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-080_C.png",
+    "name": "桃鈴ねね",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #歌 / #絵",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "オレンジアイドル！",
+      "effect": "[每個回合一次]如果自己的主推為「桃鈴ねね」，自己的主要階段可以使用：將自己存檔區的1張「ねっ子」附加給這個成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "さいくーにくぅわいい",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-080"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-081_R.png",
+    "name": "桃鈴ねね",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #歌 / #絵",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "桃鈴ねねは昆虫博士になる！",
+      "effect": "如果自己的holo能量區有4張以上，且對手沒有聯動成員，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png"],
+      "name": "君のハートをブルロック！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果這個成員帶有「ギラファノコギリクワガタ」，則這個藝能給予對手的中心成員與聯動成員藝能傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-081"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-082_U.png",
+    "name": "桃鈴ねね",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #歌 / #絵",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "ねぽらぼが最強です！！！！！！！！！！！！！",
+      "effect": "從自己的牌組展示1張標示#5期生的2nd成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "アチョ～～～！",
+      "damage": 50,
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-082"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-083_RR.png",
+    "name": "桃鈴ねね",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #歌 / #絵",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "みんなのエナジードリンク",
+      "effect": "[限定中心位置]直到下個對手回合結束，雙方舞台上的所有成員藝能傷害+40。自己舞台上的所有2nd成員「桃鈴ねね」藝能傷害再+60。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "オーバーチアリーディング",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "將對手中心成員或聯動成員的1張吶喊卡放回吶喊牌組下方。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-083"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-084_R.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "一緒にゲームしよ",
+      "effect": "對手回合中，這個成員被擊倒時，可以將自己存檔區1張標示LIMITED的支援卡放回牌組下方。如果將牌放回牌組，則將這個成員返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "やっぱり、FPSとか？",
+      "damage": 90,
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "將自己存檔區的1張吶喊卡發送給自己的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-084"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-085_R.png",
+    "name": "不知火フレア",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ハーフエルフ",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "私のとっておき！",
+      "effect": "自己回合中，這個成員移動到聯動位置時，查看自己牌組上方的3張牌。展示1張「不知火フレア」並加入手牌。其餘放到存檔區。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "元気いっぱいカラフルパフェ",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果自己的主推為「不知火フレア」，選擇自己的1位「不知火フレア」。這個回合中，該成員每有1張吶喊卡，該成員的藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-085"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-086_R.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "執念のチェイサー",
+      "effect": "選擇自己的1位「ジジ・ムリン」。這個回合中，該成員的藝能可以選擇對手HP有減少的後台成員為對象。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "追撃のライオット",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果對HP有減少的成員使用這個藝能，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-086"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-087_C.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ニコたん出動！",
+      "effect": "如果在自己後攻的第一個回合，可以將自己吶喊牌組上方的2張牌放到存檔區：選擇自己舞台上1位標示#FLOW GLOW的成員。這個回合中，該成員的藝能傷害+20。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "現行犯逮捕だ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-087"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-088_U.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "虎の威",
+      "effect": "自己舞台後方標示#FLOW GLOW的所有1st成員不會受到對手的特殊傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "みんなが居るから幸せだ！",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "如果這個回合自己舞台上的吶喊卡被放到存檔區，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-088"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-089_R.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "っしゃ反撃抜刀",
+      "effect": "如果自己標示#FLOW GLOW的成員在上個對手回合中被擊倒，從自己的牌組抽2張牌。「っしゃ反撃抜刀」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "スッゲーワクワクするしょ！！",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-089"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-090_RR.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "ここで終わっちゃう虎じゃないんだ！",
+      "effect": "可以將自己存檔區的2張吶喊卡發送給自己1位標示#FLOW GLOW的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png"],
+      "name": "ぶち上げる気合いだ！",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "這個成員每有1張吶喊卡，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-090"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-091_C.png",
+    "name": "ライブスタッフ",
+    "type": "支援・工作人員",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "將自己舞台上的1張吶喊卡放到存檔區才能使用。\n\n將自己存檔區的1張粉絲附加給自己的成員。如果將粉絲附加給成員，將自己存檔區的1張成員返回手牌。",
+    "id": "hBP07-091"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-092_U.png",
+    "name": "アーカイブパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "將自己存檔區的1~3張成員放回牌組重新洗牌。之後，從自己的牌組抽2張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP07-092"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-093_C.png",
+    "name": "うまみー！",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "選擇自己聯動位置的「ベスティア・ゼータ」。這個回合中，該成員的藝能傷害+40。之後，擲1次骰子。如果為6以外，將這張牌放回牌組重新洗牌。\n「うまみー！」每個回合只能使用一次。",
+    "id": "hBP07-093"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-094_U.png",
+    "name": "ギリわるロボ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "將自己的所有手牌放回牌組重新洗牌。然後從自己的牌組抽4張牌。如果自己的生命值在3以下，則雙方將所有手牌放回牌組重新洗牌。然後從各自的牌組抽4張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP07-094"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-095_C.png",
+    "name": "クロスインパクト",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "雙方的中心成員都為2nd成員才能使用。\n\n雙方擲1次骰子。如果自己擲出的點數比對手大，這個回合中，自己的中心成員藝能傷害+100。如果自己擲出的點數比對手小，將自己吶喊牌組上方的1張牌發送給自己的成員。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP07-095"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-096_U.png",
+    "name": "ちゃま旅",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "選擇自己舞台後方的1位「赤井はあと」。將該成員與所有重疊的成員依照喜歡的順序放回牌組下方。這個回合中，自己所有的「赤井はあと」藝能需要的無色吶喊卡數量-1。",
+    "id": "hBP07-096"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-097_U.png",
+    "name": "時の支配者 -Promise-",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "自己舞台上的所有成員都標示#Promise才能使用。\n\n從自己的牌組展示2張標示#Promise的成員並加入手牌。將牌組重新洗牌。之後，如果自己的生命值比對手少，選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+20。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP07-097"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-098_U.png",
+    "name": "ビッグゴッドミオーンの占い",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "自己的主推為「大神ミオ」才能使用。\n\n展示自己牌組上方的3張牌。這個回合中，因這個效果每展示1張支援卡，自己舞台上的所有成員藝能傷害+20。然後將展示的牌依照喜歡的順序放回牌組上方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP07-098"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-099_C.png",
+    "name": "ブヒー！",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "從自己的牌組抽2張牌。之後，如果自己的成員在上個對手回合中被擊倒，選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+20。如果在上個對手回合中被擊倒的成員為「ラプラス・ダークネス」，從自己的牌組抽2張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP07-099"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-100_U.png",
+    "name": "フロンティアスピリット",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "將自己存檔區的1張「AZKi」返回手牌。之後，自己的存檔區每有1張「フロンティアスピリット」，將自己存檔區的1張吶喊卡發送給自己的1位「AZKi」。\n「フロンティアスピリット」每個回合只能使用一次。",
+    "id": "hBP07-100"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-101_C.png",
+    "name": "ASMRマイク",
+    "type": "支援・道具",
+    "tag": "#Buzzグッズ",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "◆附加給Buzz成員有追加效果\n這個成員的藝能需要的無色吶喊卡數量-1。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP07-101"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-102_U.png",
+    "name": "角巻わためのハンマー",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "帶有這個道具的「角巻わため」藝能傷害+20。\n\n◆附加給2nd的「角巻わため」有追加效果\n■[限定中心位置]這個成員的藝能傷害+30。\n■[限定中心位置]這個成員使用了藝能時，擲1次骰子。如果為3或5，給予自己這個成員以外的1位成員50點特殊傷害。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP07-102"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-103_U.png",
+    "name": "ギラファノコギリクワガタ",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "帶有這個道具的「桃鈴ねね」藝能傷害+20。\n\n◆附加給1st以上的「桃鈴ねね」有追加效果\n這個成員的藝能傷害不會被減少。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP07-103"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-104_U.png",
+    "name": "Thorn",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "帶有這個道具的「エリザベス・ローズ・ブラッドフレイム」藝能傷害+20。\n\n◆附加給2nd的「エリザベス・ローズ・ブラッドフレイム」有追加效果\n如果這個成員的HP有減少，這個成員的藝能傷害+20。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP07-104"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
