@@ -29053,6 +29053,60 @@
     "id": "hBP07-104"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-105_C.png",
+    "name": "BAZO",
+    "type": "支援・吉祥物",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "帶有這個吉祥物的成員藝能傷害+10。\n\n◆附加給「ベスティア・ゼータ」有追加效果\n這個成員使用了藝能時，將自己存檔區的1張粉絲返回手牌。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hBP07-105"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-106_U.png",
+    "name": "ハトタウロス",
+    "type": "支援・吉祥物",
+    "tag": "#白上'sキャラクター",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "帶有這個吉祥物的成員HP+20。\n\n◆附加給「大神ミオ」有追加效果\n這個成員聯動時，可以將這個成員帶有的1張「ハトタウロス」放回牌組上方：將自己存檔區的1張成員返回手牌。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hBP07-106"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-107_U.png",
+    "name": "Boros",
+    "type": "支援・吉祥物",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "帶有這個吉祥物的成員HP+20。\n\n◆附加給「オーロ・クロニー」有追加效果\n如果在這場比賽中使用了自己「オーロ・クロニー」的SP主推技能「時間の典獄」，這個成員的藝能傷害+20。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hBP07-107"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-108_C.png",
+    "name": "Zecretary",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "■帶有這個粉絲的成員使用藝能時，如果自己的主推為「ベスティア・ゼータ」，這個粉絲也視為白色吶喊卡。\n■對手回合中，帶有這個粉絲的成員受到了傷害時，將這個粉絲放到存檔區。\n\n這個粉絲只能附加給「ベスティア・ゼータ」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP07-108"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-109_C.png",
+    "name": "Kronies",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "帶有這個粉絲的成員藝能傷害+10。\n\n這個粉絲只能附加給「オーロ・クロニー」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP07-109"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-110_C.png",
+    "name": "ねっ子",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "supportEffect": "[每個回合一次]帶有這個粉絲的成員綻放等級上升時，從自己的牌組抽1張牌。\n\n這個粉絲只能附加給「桃鈴ねね」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP07-110"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
