@@ -35955,6 +35955,15 @@
     "id": "hY02-008"
   },
   {
+    "image": "cardListImages/hBP07/hY02-010_SY.png",
+    "name": "緑エール",
+    "type": "吶喊",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY02-010"
+  },
+  {
     "image": "cardListImages/hY0/hY03-001_C.png",
     "name": "赤エール",
     "type": "吶喊",
@@ -36063,6 +36072,15 @@
     "id": "hY03-013"
   },
   {
+    "image": "cardListImages/hBP07/hY03-014_SY.png",
+    "name": "赤エール",
+    "type": "吶喊",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紅",
+    "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY03-014"
+  },
+  {
     "image": "cardListImages/hY0/hY04-001_C.png",
     "name": "青エール",
     "type": "吶喊",
@@ -36144,6 +36162,15 @@
     "id": "hY04-010"
   },
   {
+    "image": "cardListImages/hBP07/hY04-011_SY.png",
+    "name": "青エール",
+    "type": "吶喊",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "藍",
+    "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY04-011"
+  },
+  {
     "image": "cardListImages/hY0/hY05-001_C.png",
     "name": "紫エール",
     "type": "吶喊",
@@ -36207,6 +36234,15 @@
     "id": "hY05-008"
   },
   {
+    "image": "cardListImages/hBP07/hY05-009_SY.png",
+    "name": "紫エール",
+    "type": "吶喊",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY05-009"
+  },
+  {
     "image": "cardListImages/hY0/hY06-001_C.png",
     "name": "黄エール",
     "type": "吶喊",
@@ -36268,5 +36304,14 @@
     "color": "黃",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY06-007"
+  },
+  {
+    "image": "cardListImages/hBP07/hY06-009_SY.png",
+    "name": "黄エール",
+    "type": "吶喊",
+    "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "黃",
+    "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY06-009"
   }
 ]
