@@ -884,7 +884,7 @@ function showPopup(card, index) {
   // 收錄商品 名稱調整
   const cardProducts = Array.isArray(card.product) ? card.product : [card.product];  // 確保 card.product 是數組
   const productItems = cardProducts.map(productItem => {
-    const setName = productItem.replace(/\(.*\)/, "").trim();  // 去掉括號及其中內容
+    const setName = productItem.replace(/\s*\(.*?\)/, "").trim();  // 去掉括號及其中內容
     return setName;
   });
 
