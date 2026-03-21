@@ -24206,6 +24206,30 @@
     "id": "hBP06-034"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-034_P.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "PR卡",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "夏の海でドキドキデート",
+      "damage": "10+",
+      "specialAttackImage": null,
+      "effect": "可以將自己的1張手牌放到存檔區：這個回合中，自己的中心成員「百鬼あやめ」藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-034"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-035_U.png",
     "name": "百鬼あやめ",
     "type": "成員",
@@ -25225,6 +25249,30 @@
     "type": "成員",
     "tag": "#EN / #Myth / #歌",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Mori's Underground Live",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組抽1張牌後，將1張手牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-057"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-057_P.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "PR卡",
     "color": "藍",
     "hp": 110,
     "bloom": "Debut",
@@ -29608,6 +29656,33 @@
     "id": "hBP07-068"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-068_P.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "PR卡",
+    "color": "紫",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "共に歩んできた軌跡",
+      "effect": "這個回合中，自己的舞台上每有1位標示#0期生且不同卡名的成員，這個成員的藝能傷害+20。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "ホワイトデーのお返し、待ってるね",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-068"
+  },
+  {
     "image": "cardListImages/hBP07/hBP07-069_RR.png",
     "name": "AZKi",
     "type": "成員",
@@ -29757,6 +29832,33 @@
     "type": "成員",
     "tag": "#JP / #秘密結社holoX / #シューター",
     "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": {
+      "name": "おい、お前",
+      "effect": "查看自己牌組上方的5張牌。展示1張紫色的Debut成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "手作りの朝ごはんを要求する",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-071"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-071_P.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター",
+    "product": "PR卡",
     "color": "紫",
     "hp": 120,
     "bloom": "Debut",
