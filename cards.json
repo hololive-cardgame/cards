@@ -6850,7 +6850,7 @@
     "effectC": null,
     "effectB": {
       "name": "心を込めて歌って、踊ります。",
-      "effect": "自己舞台上的吶喊卡每有1種顏色，自己的1位成員HP回復10點。"
+      "effect": "自己的舞台上每有1種顏色的吶喊卡，自己的1位成員HP回復10點。"
     },
     "effectG": null,
     "art1": {
@@ -6939,7 +6939,7 @@
       "name": "孔雀の舞",
       "damage": "100+",
       "specialAttackImage": "icons/tokkou_50_white.png",
-      "effect": "自己舞台上的吶喊卡每有1種顏色，這個藝能傷害+20。"
+      "effect": "自己的舞台上每有1種顏色的吶喊卡，這個藝能傷害+20。"
     },
     "art2": null,
     "extra": null,
@@ -6966,7 +6966,7 @@
       "name": "孔雀の舞",
       "damage": "100+",
       "specialAttackImage": "icons/tokkou_50_white.png",
-      "effect": "自己舞台上的吶喊卡每有1種顏色，這個藝能傷害+20。"
+      "effect": "自己的舞台上每有1種顏色的吶喊卡，這個藝能傷害+20。"
     },
     "art2": null,
     "extra": null,
@@ -6993,7 +6993,7 @@
       "name": "孔雀の舞",
       "damage": "100+",
       "specialAttackImage": "icons/tokkou_50_white.png",
-      "effect": "自己舞台上的吶喊卡每有1種顏色，這個藝能傷害+20。"
+      "effect": "自己的舞台上每有1種顏色的吶喊卡，這個藝能傷害+20。"
     },
     "art2": null,
     "extra": null,
