@@ -14171,7 +14171,7 @@
     "name": "35P",
     "type": "支援・粉絲",
     "tag": null,
-    "product": "補充包「エリートスパーク (hBP03)」",
+    "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「ライブスタートデッキ さくらみこ (hSD16)」"],
     "supportEffect": "■帶有這個粉絲的成員使用藝能時，這個粉絲也視為紅色吶喊卡。\n■帶有這個粉絲的成員被擊倒時，對手可以從牌組抽1張牌。\n\n這個粉絲只能附加給「さくらみこ」，每位成員可以帶有任意數量的粉絲。",
     "id": "hBP03-107"
   },
@@ -36366,6 +36366,101 @@
     "id": "hSD15-010"
   },
   {
+    "image": "cardListImages/hSD16/hSD16-001_OC.png",
+    "name": "さくらみこ",
+    "type": "主推",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "life": 4,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "35Pこっちこっちー",
+      "effect": "[每個回合一次]如果自己的成員帶有「35P」，從自己的牌組抽1張牌。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "35Pいくぞー！",
+      "effect": "[每場比賽一次]選擇自己1位帶有粉絲的「さくらみこ」。這個回合中，該成員的藝能傷害+50。"
+    },
+    "id": "hSD16-001"
+  },
+  {
+    "image": "cardListImages/hSD16/hSD16-002_C.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "hp": 80,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "さくらみこだよ～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD16-002"
+  },
+  {
+    "image": "cardListImages/hSD16/hSD16-003_C.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "hp": 70,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "エリート巫女アイドル！ さくらみこだよ～",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD16-003"
+  },
+  {
+    "image": "cardListImages/hSD16/hSD16-004_C.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "hp": 80,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "後攻なんですｹｰﾄﾞ",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張「35P」，附加給這個成員。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "でゃまれ！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD16-004"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
@@ -36535,7 +36630,7 @@
     "image": "cardListImages/hY0/hY02-001_C.png",
     "name": "緑エール",
     "type": "吶喊",
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「緑 風真いろは (hSD06)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","スタートエールセット"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「ときのそら＆AZKi (hSD01)」","起始牌組「緑 風真いろは (hSD06)」","起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」","スタートエールセット"],
     "color": "綠",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY02-001"
