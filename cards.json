@@ -24167,7 +24167,7 @@
     "effectC": null,
     "effectB": {
       "name": "濡羽色のほころび",
-      "effect": "如果這個回合有使用過標示#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
+      "effect": "如果這個回合自己有使用過標示#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
     },
     "effectG": null,
     "art1": {
@@ -24194,7 +24194,7 @@
     "effectC": null,
     "effectB": {
       "name": "濡羽色のほころび",
-      "effect": "如果這個回合有使用過標示#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
+      "effect": "如果這個回合自己有使用過標示#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
     },
     "effectG": null,
     "art1": {
@@ -24221,7 +24221,7 @@
     "effectC": null,
     "effectB": {
       "name": "濡羽色のほころび",
-      "effect": "如果這個回合有使用過標示#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
+      "effect": "如果這個回合自己有使用過標示#きのこ的活動，從自己的牌組抽2張牌。「濡羽色のほころび」每個回合只能使用一次。"
     },
     "effectG": null,
     "art1": {
@@ -36303,7 +36303,7 @@
     "id": "hSD15-007"
   },
   {
-    "image": "cardListImages/hSD15/hSD15-008.png",
+    "image": "cardListImages/hSD15/hSD15-008_R.png",
     "name": "儒烏風亭らでん",
     "type": "成員",
     "tag": "#DEV_IS / #ReGLOSS / #お酒",
@@ -36323,11 +36323,47 @@
       "name": "きのこ狩り",
       "damage": "40+",
       "specialAttackImage": null,
-      "effect": "如果這個回合有使用過標示#きのこ的活動，這個藝能傷害+10。"
+      "effect": "如果這個回合自己有使用過標示#きのこ的活動，這個藝能傷害+10。"
     },
     "art2": null,
     "extra": null,
     "id": "hSD15-008"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-009_RR.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "hp": 170,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ザ・破天荒",
+      "effect": "[限定中心位置]這個回合中，這個成員的藝能傷害+20。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "伝統と革新をあなたに",
+      "damage": 90,
+      "specialAttackImage": "icons/tokkou_30_blue.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD15-009"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-010_C.png",
+    "name": "まつたけダンス",
+    "type": "支援・活動",
+    "tag": "#きのこ",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "supportEffect": "選擇自己舞台上的1位「儒烏風亭らでん」。這個回合中，該成員的藝能傷害+10。如果該成員有3張以上的吶喊卡，則該成員的藝能傷害+20。",
+    "id": "hSD15-010"
   },
   {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
