@@ -36461,6 +36461,141 @@
     "id": "hSD16-004"
   },
   {
+    "image": "cardListImages/hSD16/hSD16-005_U.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "桜風ランニング",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "擲1次骰子。如果為3或5，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD16-005"
+  },
+  {
+    "image": "cardListImages/hSD16/hSD16-006_C.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "みんなみててにぇ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "いっくぞぉおおおお",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hSD16-006"
+  },
+  {
+    "image": "cardListImages/hSD16/hSD16-007_U.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "みこの膝にごろーんってして",
+      "effect": "對手回合中，這個成員被擊倒時，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "みこの耳かきスキルに蕩けちゃえ",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]擲1次骰子。如果為3或5，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD16-007"
+  },
+  {
+    "image": "cardListImages/hSD16/hSD16-008_R.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "待ってたにぇ",
+      "effect": "擲1次骰子。如果為3或5，將自己存檔區的1張「35P」返回手牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "いっぱい遊ぼっ",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD16-008"
+  },
+  {
+    "image": "cardListImages/hSD16/hSD16-009_RR.png",
+    "name": "さくらみこ",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー",
+    "product": "起始牌組「ライブスタートデッキ さくらみこ (hSD16)」",
+    "color": "紅",
+    "hp": 170,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "35P、ありがとうだよー！",
+      "effect": "這個回合中，自己的舞台上每有1張「35P」，這個成員的藝能傷害+10。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "この瞬間を見せてあげたいなって",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_30_yellow.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD16-009"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
@@ -36711,7 +36846,7 @@
     "image": "cardListImages/hY0/hY03-001_C.png",
     "name": "赤エール",
     "type": "吶喊",
-    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「赤 宝鐘マリン (hSD09)」","スタートエールセット","起始牌組「推し Justice (hSD13)」"],
+    "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「赤 宝鐘マリン (hSD09)」","起始牌組「推し Justice (hSD13)」","起始牌組「ライブスタートデッキ さくらみこ (hSD16)」","スタートエールセット"],
     "color": "紅",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY03-001"
