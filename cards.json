@@ -36124,6 +36124,212 @@
     "id": "hSD14-011"
   },
   {
+    "image": "cardListImages/hSD15/hSD15-001_OC.png",
+    "name": "儒烏風亭らでん",
+    "type": "主推",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "life": 4,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ちょっとまつたけ～♪",
+      "effect": "[每個回合一次]從自己的牌組展示1張標示#きのこ的活動並加入手牌。將牌組重新洗牌。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "あなたの世界を広げに行こう",
+      "effect": "[每場比賽一次]將自己吶喊牌組上方的1張牌發送給自己的「儒烏風亭らでん」。之後，將自己存檔區1張標示#きのこ的活動返回手牌。"
+    },
+    "id": "hSD15-001"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-002_C.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "hp": 80,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "寄ってらっしゃい見てらっしゃい",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD15-002"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-003_C.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "hp": 70,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "今日もあなたのそばに -らでん-",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD15-003"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-004_C.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "一服朝っぱらでん",
+      "effect": "如果在自己後攻的第一個回合，將自己吶喊牌組上方的1張牌發送給自己的後台成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "散歩でもいかがですかな？",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD15-004"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-005_U.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "体力作り頑張るぞー！！！！！",
+      "effect": "對手回合中，這個成員被擊倒時，可以將這個成員的1張吶喊卡替換給自己其他的成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "そろそろ始めちゃいますか",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD15-005"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-006_C.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "世界を彩る -らでん-",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ちょいと一席付き合ってみませんか？",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hSD15-006"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-007_U.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "旅の前日",
+      "effect": "將自己牌組上方的1張牌放到存檔區。之後，可以將自己存檔區的1張Debut成員放到舞台上。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "この博物館おもしろそう！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD15-007"
+  },
+  {
+    "image": "cardListImages/hSD15/hSD15-008.png",
+    "name": "儒烏風亭らでん",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #お酒",
+    "product": "起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」",
+    "color": "綠",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "薄明",
+      "effect": "這個成員擊倒對手的成員時，這個成員HP回復20點。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "きのこ狩り",
+      "damage": "40+",
+      "specialAttackImage": null,
+      "effect": "如果這個回合有使用過標示#きのこ的活動，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD15-008"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
