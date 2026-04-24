@@ -7202,6 +7202,33 @@
     "id": "hBP02-026"
   },
   {
+    "image": "cardListImages/hCO01/hBP02-026_SR.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "オフィシャルホロカコレクション-2025ライブセット-",
+    "color": "綠",
+    "hp": 100,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "アイドルとして成長した姿",
+      "effect": "從自己的吶喊牌組展示1張與自己舞台上1位標示#ゲーマーズ的成員相同顏色的吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "今年も見守っててね！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP02-026"
+  },
+  {
     "image": "cardListImages/hBP02/hBP02-027_RR.png",
     "name": "大神ミオ",
     "type": "成員",
@@ -12161,6 +12188,33 @@
     "id": "hBP03-044"
   },
   {
+    "image": "cardListImages/hCO01/hBP03-044_SR.png",
+    "name": "星街すいせい",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "オフィシャルホロカコレクション-2025ライブセット-",
+    "color": "藍",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "プラネットステージ",
+      "effect": "查看自己牌組上方的4張牌。展示1張「星街すいせい」並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "バーチャルゴースト",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "自己的主推為「星街すいせい」時，可以將這個成員的1張藍色吶喊卡，替換給自己的後台成員「星街すいせい」。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP03-044"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-045_R.png",
     "name": "こぼ・かなえる",
     "type": "成員",
@@ -12629,6 +12683,36 @@
     "id": "hBP03-055"
   },
   {
+    "image": "cardListImages/hCO01/hBP03-055_SR.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "オフィシャルホロカコレクション-2025ライブセット-",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "トワとお家デートしたっていい",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "てんQ",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "自己的後台成員標示#歌時，給予對手的聯動成員20點特殊傷害。"
+    },
+    "extra": null,
+    "id": "hBP03-055"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-056_RR.png",
     "name": "常闇トワ",
     "type": "成員",
@@ -12802,6 +12886,33 @@
     "type": "成員",
     "tag": "#JP / #0期生 / #シューター",
     "product": "補充包「エリートスパーク (hBP03)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "PONしたらその分",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#0期生的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "笑顔になーーれっ",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP03-059"
+  },
+  {
+    "image": "cardListImages/hBP03/hBP03-059_P.png",
+    "name": "ロボ子さん",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #シューター",
+    "product": "PR卡",
     "color": "紫",
     "hp": 130,
     "bloom": "1st",
@@ -20763,6 +20874,36 @@
     "id": "hBP05-037"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-037_P.png",
+    "name": "星街すいせい",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "PR卡",
+    "color": "紅",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Non-Limit Boost",
+      "damage": 50,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
+    },
+    "art2": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "Shout in Crisis",
+      "damage": 220,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "將這個成員的所有吶喊卡放到存檔區。"
+    },
+    "extra": null,
+    "id": "hBP05-037"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-038_R.png",
     "name": "モココ・アビスガード",
     "type": "成員",
@@ -20960,6 +21101,33 @@
     "type": "成員",
     "tag": "#JP / #ゲーマーズ / #ケモミミ",
     "product": "補充包「エンチャントレガリア (hBP05)」",
+    "color": "藍",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "僕でよくな～い？",
+      "effect": "[限定聯動位置]自己的中心成員標示#ゲーマーズ時，對手成員的藝能只能選擇自己的聯動成員為對象，特殊傷害除外。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "まだまだ遊べるよね～？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員的1張藍色吶喊卡放到存檔區：給予對手的中心成員與1位後台成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-043"
+  },
+  {
+    "image": "cardListImages/hCO01/hBP05-043_U.png",
+    "name": "猫又おかゆ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ",
+    "product": "オフィシャルホロカコレクション-2025ライブセット-",
     "color": "藍",
     "hp": 140,
     "bloom": "1st",
@@ -22244,6 +22412,33 @@
     "type": "成員",
     "tag": "#JP / #1期生 / #ゲーマーズ / #ケモミミ / #絵",
     "product": "補充包「エンチャントレガリア (hBP05)」",
+    "color": "黃",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "とびきりの笑顔",
+      "effect": "[限定舞台後方]這個成員不會受到對手傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "満点じゃい！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "可以將自己吶喊牌組上方的1張牌發送給這個成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP05-069"
+  },
+  {
+    "image": "cardListImages/hCO01/hBP05-069_U.png",
+    "name": "白上フブキ",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #ゲーマーズ / #ケモミミ / #絵",
+    "product": "オフィシャルホロカコレクション-2025ライブセット-",
     "color": "黃",
     "hp": 160,
     "bloom": "1st",
@@ -25392,6 +25587,33 @@
     "id": "hBP06-058"
   },
   {
+    "image": "cardListImages/hCO01/hBP06-058_U.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "オフィシャルホロカコレクション-2025ライブセット-",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Yes, Chef.",
+      "effect": "從自己的牌組抽3張牌後，將2張手牌放到存檔區。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "a chef’s journey’s end.",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果這個成員有紫色吶喊卡，從自己的牌組抽1張牌。之後，將自己牌組上方的2張牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-058"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-059_R.png",
     "name": "森カリオペ",
     "type": "成員",
@@ -26681,6 +26903,15 @@
     "type": "支援・活動",
     "tag": null,
     "product": "PR卡",
+    "supportEffect": "從自己的牌組抽2張牌。之後，如果自己的生命值在4以下，自己這個回合從Debut綻放為1st的1位成員，可以使用自己手牌的成員再次進行綻放。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP06-090"
+  },
+  {
+    "image": "cardListImages/hCO01/hBP06-090_P.png",
+    "name": "ブルームステージ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "オフィシャルホロカコレクション-2025ライブセット-",
     "supportEffect": "從自己的牌組抽2張牌。之後，如果自己的生命值在4以下，自己這個回合從Debut綻放為1st的1位成員，可以使用自己手牌的成員再次進行綻放。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP06-090"
   },
@@ -29680,6 +29911,33 @@
     "type": "成員",
     "tag": "#JP / #0期生 / #歌",
     "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "仮想世界の伴走する歌姫",
+      "effect": "自己的1位成員HP回復30點。之後，選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+10。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "音楽と歌うことが大好き！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-066"
+  },
+  {
+    "image": "cardListImages/hCO01/hBP07-066_C.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "オフィシャルホロカコレクション-2025ライブセット-",
     "color": "紫",
     "hp": 170,
     "bloom": "1st",
@@ -37906,7 +38164,7 @@
     "image": "cardListImages/hY0/hY06-001_C.png",
     "name": "黄エール",
     "type": "吶喊",
-    "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","起始牌組「推し Justice (hSD13)」"],
+    "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","起始牌組「推し Justice (hSD13)」","起始牌組「ライブスタートデッキ 大空スバル (hSD19)」"],
     "color": "黃",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY06-001"
