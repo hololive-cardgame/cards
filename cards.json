@@ -24714,6 +24714,33 @@
     "id": "hBP06-039"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-039_P.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "PR卡",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "2nd",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "余、なんも聞いとらんかった。",
+      "effect": "[限定中心位置]如果自己有聯動成員且對手沒有聯動成員，自己所有的成員不會受到對手的藝能傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "百鬼乱舞 -朧月-",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己的主推為「百鬼あやめ」，可以將自己吶喊牌組上方的1~3張牌放到存檔區：每將1張吶喊卡放到存檔區，這個藝能傷害+40。自己的生命值在2以下才能在聯動位置使用這個藝能。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-039"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-040_C.png",
     "name": "ハコス・ベールズ",
     "type": "成員",
@@ -27080,6 +27107,25 @@
     "id": "hBP07-001"
   },
   {
+    "image": "cardListImages/hBP07/hBP07-001_P.png",
+    "name": "角巻わため",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "stageSkill":{
+      "name": "ドドドライブ",
+      "effect": "自己的「角巻わため」使用了藝能時，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "oshiSkill": {
+      "holoPower": -6,
+      "name": "角ドリルしたろか？",
+      "effect": "[每個回合一次]這個回合中，自己舞台上所有的「角巻わため」藝能傷害+100。"
+    },
+    "spSkill": null,
+    "id": "hBP07-001"
+  },
+  {
     "image": "cardListImages/hBP07/hBP07-002_OSR.png",
     "name": "ベスティア・ゼータ",
     "type": "主推",
@@ -28177,6 +28223,33 @@
     "type": "成員",
     "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
     "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "金瞳の綺羅星",
+      "effect": "查看自己牌組上方的2張牌。將其中的1張牌加入手牌。其餘放回牌組上方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "天まで届け、みんなの願い",
+      "damage": "90+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "可以將自己牌組上方的1張牌放到存檔區。如果該牌為支援卡，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-028"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-028_P.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "PR卡",
     "color": "綠",
     "hp": 200,
     "bloom": "2nd",
@@ -35005,6 +35078,36 @@
     "id": "hSD10-006"
   },
   {
+    "image": "cardListImages/hSD10/hSD10-006_P.png",
+    "name": "輪堂千速",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "鼓動の操縦者",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果自己的成員在這個回合有進行綻放，這個藝能傷害+50。"
+    },
+    "art2": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "アクセラビートブレイズ",
+      "damage": 140,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "使用這個藝能擊倒對手的中心成員時，如果傷害超過該成員剩餘的HP，每超過30點傷害，將自己吶喊牌組上方的1張牌發送給自己的1位後台成員。"
+    },
+    "extra": null,
+    "id": "hSD10-006"
+  },
+  {
     "image": "cardListImages/hSD10/hSD10-007_C.png",
     "name": "綺々羅々ヴィヴィ",
     "type": "成員",
@@ -35083,11 +35186,65 @@
     "id": "hSD10-009"
   },
   {
+    "image": "cardListImages/hSD10/hSD10-009_P.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "PR卡",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "美の求道者",
+      "effect": "依照對手的手牌張數，查看自己牌組上方的牌。將其中的1張牌加入手牌。其餘放回牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "ヴィジランスヴィーナス",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "對手每有1張手牌，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD10-009"
+  },
+  {
     "image": "cardListImages/hSD10/hSD10-010_RR.png",
     "name": "響咲リオナ",
     "type": "成員",
     "tag": "#DEV_IS / #FLOW GLOW",
     "product": ["起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」"],
+    "color": "無",
+    "hp": 170,
+    "bloom": "Spot",
+    "batonImage": [],
+    "effectC": {
+      "name": "私の元においで～っ",
+      "effect": "可以將自己的1張手牌放到存檔區：從自己的牌組展示1張標示#FLOW GLOW且有聯動效果的成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "RIONA IN DA HOUSE～!",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "如果標示#FLOW GLOW且2nd以上的成員在自己的舞台上，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": "這個成員無法綻放",
+    "id": "hSD10-010"
+  },
+  {
+    "image": "cardListImages/hSD10/hSD10-010_P.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "PR卡",
     "color": "無",
     "hp": 170,
     "bloom": "Spot",
@@ -35324,6 +35481,33 @@
     "id": "hSD11-006"
   },
   {
+    "image": "cardListImages/hSD11/hSD11-006_P.png",
+    "name": "虎金妃笑虎",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "PR卡",
+    "color": "黃",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "戯笑の使者",
+      "effect": "自己的表演階段開始時，可以將自己手牌1張標示#FLOW GLOW的成員放到存檔區：將自己存檔區的1張黃色吶喊卡發送給自己的「虎金妃笑虎」。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "虎嘯風生",
+      "damage": "40+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "可以將這個成員任意數量的吶喊卡放到存檔區：每將1張吶喊卡放到存檔區，這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD11-006"
+  },
+  {
     "image": "cardListImages/hSD11/hSD11-007_C.png",
     "name": "水宮枢",
     "type": "成員",
@@ -35380,6 +35564,33 @@
     "type": "成員",
     "tag": "#DEV_IS / #FLOW GLOW",
     "product": "起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」",
+    "color": "藍",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "感情の伝令者",
+      "effect": "直到下個對手回合結束，對手中心位置的1位成員交棒需要的吶喊卡數量+3。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "スゥイートオブセッション",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "對成員使用這個藝能，該成員交棒需要的吶喊卡數量每有1個，給予10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD11-009"
+  },
+  {
+    "image": "cardListImages/hSD11/hSD11-009_P.png",
+    "name": "水宮枢",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "PR卡",
     "color": "藍",
     "hp": 210,
     "bloom": "2nd",
@@ -35578,6 +35789,33 @@
     "id": "hSD12-007"
   },
   {
+    "image": "cardListImages/hSD12/hSD12-007_P.png",
+    "name": "シオリ・ノヴェラ",
+    "type": "成員",
+    "tag": "#EN / #Advent",
+    "product": "PR卡",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "どんな知識が得られるかしら",
+      "effect": "[每個回合一次]這個成員擊倒對手的成員時，將自己存檔區1張標示LIMITED以外的支援卡返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "私達を見くびらないで貰える？",
+      "damage": 110,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "自己的舞台上每有1位標示#Advent的成員，給予對手Debut以外的1位成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-007"
+  },
+  {
     "image": "cardListImages/hSD12/hSD12-008_C.png",
     "name": "古石ビジュー",
     "type": "成員",
@@ -35667,6 +35905,33 @@
     "type": "成員",
     "tag": "#EN / #Advent / #ベイビー",
     "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ビブーと遊んでいかない？",
+      "effect": "從自己的牌組抽1張牌。之後，可以將自己舞台上的1張吶喊卡放到存檔區。如果將牌放到存檔區，選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+40。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "キラキラぜーんぶ受け止めて！",
+      "damage": 110,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "雙方的存檔區每有1種顏色的吶喊卡，這個藝能需要的無色吶喊卡數量-1。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-011"
+  },
+  {
+    "image": "cardListImages/hSD12/hSD12-011_P.png",
+    "name": "古石ビジュー",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ベイビー",
+    "product": "PR卡",
     "color": "紫",
     "hp": 200,
     "bloom": "2nd",
@@ -35958,6 +36223,33 @@
     "id": "hSD13-007"
   },
   {
+    "image": "cardListImages/hSD13/hSD13-007_P.png",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "type": "成員",
+    "tag": "#EN / #Justice / #歌",
+    "product": "PR卡",
+    "color": "紅",
+    "hp": 180,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "猛炎のウォークライ",
+      "effect": "這個成員每有1張吶喊卡，這個成員的HP+10。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "悪斬りのカデンツァ",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "這個成員每有1張吶喊卡，這個藝能傷害+20。使用這個藝能擊倒對手的成員時，將自己吶喊牌組上方的1張牌發送給這個成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-007"
+  },
+  {
     "image": "cardListImages/hSD13/hSD13-008_C.png",
     "name": "ジジ・ムリン",
     "type": "成員",
@@ -36101,6 +36393,33 @@
     "type": "成員",
     "tag": "#EN / #Justice",
     "product": "起始牌組「推し Justice (hSD13)」",
+    "color": "黃",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "再起のストレングス",
+      "effect": "[每個回合一次]自己的主要階段，可以將1張與自己的「ジジ・ムリン」重疊的成員放到存檔區：將自己吶喊牌組上方的1張牌發送給這個成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "殻破りのライオット",
+      "damage": "90+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果與這個成員重疊的成員為0張，這個藝能傷害+90。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD13-013"
+  },
+  {
+    "image": "cardListImages/hSD13/hSD13-013_P.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "PR卡",
     "color": "黃",
     "hp": 210,
     "bloom": "2nd",
