@@ -21825,6 +21825,33 @@
     "id": "hBP05-040"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-040_P.png",
+    "name": "miComet",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #ベイビー / #歌",
+    "product": "PR卡",
+    "color": "紅 / 藍",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ビジネスフレンド",
+      "effect": "如果自己的生命值在3以下，自己這個回合綻放過的中心成員「さくらみこ」或「星街すいせい」，可以使用自己手牌的成員再次進行綻放。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ビジネスパートナー",
+      "damage": 90,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員的1張吶喊卡替換給自己的後台成員。"
+    },
+    "art2": null,
+    "extra": "這個成員也視為「さくらみこ」「星街すいせい」",
+    "id": "hBP05-040"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-041_U.png",
     "name": "猫又おかゆ",
     "type": "成員",
