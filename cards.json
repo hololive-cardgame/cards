@@ -2472,6 +2472,30 @@
     "id": "hBP01-028"
   },
   {
+    "image": "cardListImages/hBP08/hBP01-028_C_02.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ハイRyS！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-028"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-029_C.png",
     "name": "IRyS",
     "type": "成員",
@@ -3783,6 +3807,30 @@
     "id": "hBP01-056"
   },
   {
+    "image": "cardListImages/hBP08/hBP01-056_C_02.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紅",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "皆さん、待っ鷹ね？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-056"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-057_U.png",
     "name": "鷹嶺ルイ",
     "type": "成員",
@@ -3986,6 +4034,30 @@
     "type": "成員",
     "tag": "#EN / #Myth / #トリ",
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
+    "color": "紅",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "キッケリキー！",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "可以將自己的1張手牌放到存檔區：這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-062"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP01-062_C_02.png",
+    "name": "小鳥遊キアラ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #トリ",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
     "color": "紅",
     "hp": 90,
     "bloom": "Debut",
@@ -7064,6 +7136,30 @@
     "id": "hBP02-018"
   },
   {
+    "image": "cardListImages/hBP08/hBP02-018_C_02.png",
+    "name": "パヴォリア・レイネ",
+    "type": "成員",
+    "tag": "#ID / #ID2期生 / #トリ / #絵",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "綠",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ペルハティアン！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP02-018"
+  },
+  {
     "image": "cardListImages/hBP02/hBP02-019_U.png",
     "name": "パヴォリア・レイネ",
     "type": "成員",
@@ -9256,6 +9352,30 @@
     "type": "成員",
     "tag": "#EN / #Myth / #絵 / #海",
     "product": "補充包「クインテットスペクトラム (hBP02)」",
+    "color": "紫",
+    "hp": 140,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "WAH!",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP02-061"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP02-061_C_02.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
     "color": "紫",
     "hp": 140,
     "bloom": "Debut",
@@ -12290,6 +12410,30 @@
     "id": "hBP03-037"
   },
   {
+    "image": "cardListImages/hBP08/hBP03-037_C_02.png",
+    "name": "モココ・アビスガード",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ケモミミ",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紅",
+    "hp": 80,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "フワワじゃないよ、モココだよ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "自己的中心成員為「フワワ・アビスガード」時，使用這個藝能不需要吶喊卡。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-037"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-038_C.png",
     "name": "モココ・アビスガード",
     "type": "成員",
@@ -12376,6 +12520,30 @@
     "type": "成員",
     "tag": "#EN / #Advent / #ケモミミ",
     "product": "補充包「エリートスパーク (hBP03)」",
+    "color": "藍",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "チワワじゃないよ、フワワだよ",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-040"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP03-040_C_02.png",
+    "name": "フワワ・アビスガード",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ケモミミ",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
     "color": "藍",
     "hp": 100,
     "bloom": "Debut",
@@ -14453,6 +14621,36 @@
     "id": "hBP03-080"
   },
   {
+    "image": "cardListImages/hBP08/hBP03-080_C_02.png",
+    "name": "音乃瀬奏",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ドレミファソラシド～！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "音楽家の卵！ 音乃瀬～奏で～～～す！",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-080"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-081_C.png",
     "name": "音乃瀬奏",
     "type": "成員",
@@ -16242,6 +16440,30 @@
     "type": "成員",
     "tag": "#EN / #Justice / #語学",
     "product": "補充包「キュリアスユニバース (hBP04)」",
+    "color": "綠",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "正義の調べ",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-028"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP04-028_C_02.png",
+    "name": "セシリア・イマーグリーン",
+    "type": "成員",
+    "tag": "#EN / #Justice / #語学",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
     "color": "綠",
     "hp": 100,
     "bloom": "Debut",
@@ -36591,6 +36813,30 @@
     "id": "hSD11-007"
   },
   {
+    "image": "cardListImages/hBP08/hSD11-007_C_02.png",
+    "name": "水宮枢",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "藍",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "しゅぴしゅわー",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "直到下個對手回合結束，對手中心位置的1位成員交棒需要的無色吶喊卡數量+1。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD11-007"
+  },
+  {
     "image": "cardListImages/hSD11/hSD11-008_C.png",
     "name": "水宮枢",
     "type": "成員",
@@ -37874,6 +38120,15 @@
     "type": "支援・工作人員",
     "tag": null,
     "product": ["起始牌組「ライブスタートデッキ 白上フブキ (hSD14)」","起始牌組「ライブスタートデッキ 儒烏風亭らでん (hSD15)」","起始牌組「ライブスタートデッキ さくらみこ (hSD16)」","起始牌組「ライブスタートデッキ 星街すいせい (hSD17)」","起始牌組「ライブスタートデッキ 森カリオペ (hSD18)」","起始牌組「ライブスタートデッキ 大空スバル (hSD19)」"],
+    "supportEffect": "從自己的牌組抽3張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hSD14-010"
+  },
+  {
+    "image": "cardListImages/hBP08/hSD14-010_C_02.png",
+    "name": "holoAN",
+    "type": "支援・工作人員",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
     "supportEffect": "從自己的牌組抽3張牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hSD14-010"
   },
