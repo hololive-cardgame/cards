@@ -32517,6 +32517,496 @@
     "id": "hBP07-110"
   },
   {
+    "image": "cardListImages/hBP08/hBP08-001_OSR.png",
+    "name": "IRyS",
+    "type": "主推",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "life": 5,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ネフィリムの祝福",
+      "effect": "[每個回合一次]選擇自己舞台上的1位成員。這個回合中，該成員的藝能傷害+20。如果該成員有紫色吶喊卡，則該成員的藝能傷害+50。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "HOPE and DESPAIR",
+      "effect": "[每場比賽一次]自己所有的「IRyS」每有1張吶喊卡，從自己的牌組抽1張牌。之後，自己所有的「IRyS」每有1張紫色吶喊卡，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "id": "hBP08-001"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-002_OSR.png",
+    "name": "セシリア・イマーグリーン",
+    "type": "主推",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "綠",
+    "life": 5,
+    "stageSkill":{
+      "name": "Justiceの古代自動人形",
+      "effect": "自己所有的「セシリア・イマーグリーン」在重置階段不會改為活動狀態。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "SPIN TO WIN!",
+      "effect": "[每個回合一次]將自己吶喊牌組上方的2張牌分配給自己休息狀態的「セシリア・イマーグリーン」。之後，因這個效果附加吶喊卡的所有成員改為活動狀態。"
+    },
+    "spSkill": null,
+    "id": "hBP08-002"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-003_OSR.png",
+    "name": "FUWAMOCO",
+    "type": "主推",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紅",
+    "life": 5,
+    "stageSkill":{
+      "name": "準備は出来てるよね!",
+      "effect": "自己的「フワワ・アビスガード」與「モココ・アビスガード」持有的所有紅色吶喊卡也視為藍色吶喊卡。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "みんなの笑顔はモココが守る!",
+      "effect": "[每個回合一次]如果自己的舞台上有紅色吶喊卡，將自己存檔區1張標示#Advent的成員返回手牌。如果有藍色吶喊卡，將自己存檔區的1張吶喊卡發送給自己標示#Advent的成員。"
+    },
+    "spSkill": null,
+    "id": "hBP08-003"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-004_OSR.png",
+    "name": "水宮枢",
+    "type": "主推",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "藍",
+    "life": 5,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -1,
+      "name": "すうだけ見てたらいいのにね",
+      "effect": "[每個回合一次]選擇對手的中心成員。直到下個對手回合結束，該成員交棒需要的無色吶喊卡數量+3。"
+    },
+    "spSkill": {
+      "holoPower": -2,
+      "name": "いけいけどんどん！",
+      "effect": "[每場比賽一次]給予對手的1位後台成員，對手中心成員受到的傷害相同數值的特殊傷害。"
+    },
+    "id": "hBP08-004"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-005_OSR.png",
+    "name": "鷹嶺ルイ",
+    "type": "主推",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "life": 5,
+    "stageSkill":{
+      "name": "もう金曜だねルイ姉",
+      "effect": "自己回合結束時，如果自己的中心成員為「鷹嶺ルイ」，且自己有聯動成員，從自己的牌組抽牌直到手牌變為4張。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ホイサホイサ",
+      "effect": "[每個回合一次]將自己的2張手牌放到存檔區。如果因這個效果將2張牌放到存檔區，給予對手Debut以外的中心成員與聯動成員50點特殊傷害。"
+    },
+    "spSkill": null,
+    "id": "hBP08-005"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-006_OSR.png",
+    "name": "一伊那尓栖",
+    "type": "主推",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "life": 5,
+    "stageSkill":{
+      "name": "WORLD DOMINATION",
+      "effect": "如果對手舞台上的所有成員都與其主推不同顏色，自己所有「一伊那尓栖」的藝能，不需要吶喊卡也可以使用。"
+    },
+    "oshiSkill": {
+      "holoPower": "-X",
+      "name": "Ina'nisの色彩",
+      "effect": "[每個回合一次]因這個效果每將1張holo能量放到存檔區，選擇對手舞台上的1位成員。這個回合中，剛才選擇的成員視為具有所有顏色的成員。"
+    },
+    "spSkill": null,
+    "id": "hBP08-006"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-007_OSR.png",
+    "name": "音乃瀬奏",
+    "type": "主推",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "life": 5,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "奏でるメロディー",
+      "effect": "[每個回合一次]自己回合結束時，如果這個回合自己的「音乃瀬奏」在中心位置且有使用過藝能才可以使用：將自己的中心成員與自己1位標示#ReGLOSS的後台成員進行替換。"
+    },
+    "spSkill": {
+      "holoPower": -1,
+      "name": "ぱちぱちありがとう！",
+      "effect": "[每場比賽一次]將自己吶喊牌組上方的3張牌發送給自己的中心成員「音乃瀬奏」。這個回合結束時，將自己舞台上的3張吶喊卡放到存檔區。"
+    },
+    "id": "hBP08-007"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-008_C.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Promise of Spring",
+      "effect": "如果在自己後攻的第一個回合，選擇自己舞台上1位標示#Promise的成員。這個回合中，該成員的藝能傷害+30。如果自己的舞台上有紫色吶喊卡，從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "芽吹く春",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-008"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-009_U.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "分かり合える日が来るかもね",
+      "effect": "查看自己的holo能量區。展示其中的1張支援卡並加入手牌。將holo能量區重新洗牌。如果將牌加入手牌，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "あたしはもっと深いところを見てるの",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-009"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-010_C.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Race with Me!!",
+      "effect": "從自己的牌組展示1張「Bloom＆Gloom」或「GuyRyS」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "I am Lightning Speed",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-010"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-011_C.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "The Hot Pink One",
+      "effect": "如果這個成員有白色吶喊卡，從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Hot Ending",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果這個成員有紫色吶喊卡，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-011"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-012_R.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "希望が照らす轍",
+      "effect": "可以將自己舞台上的1張吶喊卡放回吶喊牌組下方：將自己吶喊牌組上方的1張牌發送給自己的「IRyS」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "片や天使 片や悪魔",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "如果這個成員有紫色吶喊卡，給予對手的中心成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-012"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-013_U.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "勝利のティータイム",
+      "effect": "這個成員擊倒對手的成員時，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "萌え萌えキュンしちゃった？",
+      "damage": "70+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果這個成員有紫色吶喊卡，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-013"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-014_RR.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "絶望に残った光",
+      "effect": "給予對手的中心成員30點特殊傷害。如果這個成員有紫色吶喊卡，給予對手的聯動成員30點特殊傷害。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "プリズマティック・アンセム",
+      "damage": "130+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "這個回合中，這個成員每有1張紫色吶喊卡，自己舞台上的所有成員藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-014"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-015_C.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "私に勝てるかな？",
+      "effect": "對手的成員對這個成員造成的藝能傷害-10。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ナインダーツ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-015"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-016_U.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Stairway to the Stars",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果自己的舞台上有3位以上的「ときのそら」，從自己的牌組抽1張牌。"
+    },
+    "art2": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "あの時の空へ…",
+      "damage": 90,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hBP08-016"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-017_R.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "「ヴァ！」",
+      "effect": "從自己的牌組展示1張「あん肝」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "みんな、ぬんぬん進んでいこーう",
+      "damage": "40+",
+      "specialAttackImage": null,
+      "effect": "如果標示#0期生的2nd成員在自己的舞台上，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-017"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-018_RR.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "アイドルになりたいわたし",
+      "effect": "[限定中心位置或聯動位置]從自己的牌組抽2張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "盛り上がってくれたらうれしいな！",
+      "damage": 150,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "如果自己的主推為「ときのそら」，選擇自己舞台上1位其他的「ときのそら」。這個回合中，該成員的藝能可以選擇對手的2nd後台成員為對象。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-018"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-019_U.png",
+    "name": "ラオーラ・パンテーラ",
+    "type": "成員",
+    "tag": "#EN / #Justice / #ケモミミ / #絵",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "ボナペティート -楽しい食事-",
+      "effect": "■如果這個成員沒帶有「Chattino」，這個成員的藝能需要的白色吶喊卡數量-1。\n■如果這個成員帶有「Chattino」，這個成員的HP+30。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "この幸せをシェアしよう",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "如果這個成員沒帶有「Chattino」，從自己的牌組將1張「Chattino」附加給這個成員。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-019"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-020_R.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "白",
+    "hp": 180,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "セクシーダンスクィーン",
+      "effect": "可以將自己牌組上方的1~2張牌放到存檔區：每將1張牌放到存檔區，從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "挑戦のまなざし",
+      "damage": "110+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "如果這個回合自己從牌組將3張牌以上放到存檔區，這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-020"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
