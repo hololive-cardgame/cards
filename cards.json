@@ -33561,7 +33561,7 @@
     },
     "art1": {
       "image": ["icons/arts_null.png"],
-      "name": ""熱狂的な夜"は実在する!!!",
+      "name": "\"熱狂的な夜\"は実在する!!!",
       "damage": 20,
       "specialAttackImage": null,
       "effect": "將自己牌組上方的1張牌放到存檔區。"
