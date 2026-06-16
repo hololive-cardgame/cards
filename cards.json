@@ -34117,6 +34117,438 @@
     "id": "hBP08-060"
   },
   {
+    "image": "cardListImages/hBP08/hBP08-061_C.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "秘密結社のおもてなし",
+      "effect": "如果在自己後攻的第一個回合，且自己的主推為「鷹嶺ルイ」，對手將holo能量區上方的1張牌加入手牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "holoX Coffeeをどうぞ",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-061"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-062_U.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ダウンさせられる覚悟",
+      "effect": "可以將自己的1張手牌放到存檔區：從自己的牌組將1張特殊規則為「這個成員沒有張數限制」的Debut成員放到舞台上。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ダウンさせる意志",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-062"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-063_C.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ホロックス・ディール",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#秘密結社holoX的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "どう似合ってる？？？",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-063"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-064_C.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "荒事上等",
+      "effect": "可以將自己的1張手牌放到存檔區：給予對手的中心成員或聯動成員30點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "眠らない街の仕事屋",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組將1張「ルイ友」附加給自己的成員。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-064"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-065_R.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "大穴きちゃーーー！",
+      "effect": "[限定中心位置]可以將自己的1張手牌放到存檔區：擲1次骰子。如果為1，從自己的牌組抽3張牌。如果不為1，從自己的牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_purple.png"],
+      "name": "差していくよ！",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "如果自己的手牌在2張以下，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-065"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-066_U.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "そんなに顔赤い？",
+      "effect": "可以將自己存檔區的1張支援卡放回牌組上方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "酔い、覚ましていこ？",
+      "damage": "60+",
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "可以將自己的1~2張手牌放到存檔區：每將1張牌放到存檔區，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-066"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-067_RR.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ヴァイオレットドミネーション",
+      "effect": "[限定中心位置]可以將自己的2張手牌放到存檔區：將對手舞台上的1張吶喊卡，替換給對手的成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_purple.png","icons/arts_purple.png"],
+      "name": "逆転の一手",
+      "damage": "130+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己的手牌在2張以下，這個藝能傷害+50。如果自己的手牌為0張，則這個藝能傷害+70。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-067"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-068_C.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 140,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "きタコれ！",
+      "effect": "如果在自己後攻的第一個回合，這個回合中，對手舞台上的所有成員視為具有所有顏色。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "引きこもり娘は外出の夢を見た",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "給予對手與其主推不同顏色的中心成員與聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-068"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-069_U.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "夏の訪れ",
+      "effect": "如果自己的舞台上有3位以上標示#絵的成員，從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "うまくいったでしょ、もっといけるよ",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-069"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-070_C.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "イナ・イマジネーション",
+      "effect": "從自己的牌組展示1張「Takodachi」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "私の生涯の友人",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "對手的舞台上每有1位與其主推不同顏色的成員，自己1位標示#Myth的成員HP回復10點。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-070"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-071_C.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "TOMORROW!?",
+      "effect": "給予對手1位與其主推不同顏色的成員20點特殊傷害。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "Bonk!",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-071"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-072_R.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海 / #サマー",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Natsu Ina!!",
+      "effect": "如果自己的存檔區有8張以上標示#Myth的成員，將自己存檔區1張標示#Myth的成員返回手牌。「Natsu Ina!!」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "マルチカラー・スケッチ",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "對手的舞台上每有1位與其主推不同顏色的成員，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-072"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-073_U.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "お行儀よくしてね？",
+      "effect": "選擇對手舞台上的2位成員。這個回合中，剛才選擇的成員視為具有所有顏色。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "おやつのクッキー抜きだよ！",
+      "damage": 90,
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-073"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-074_RR.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "目覚めよ、赤き眼の黒龍",
+      "effect": "[限定中心位置]對手的舞台上每有1位與其主推不同顏色的成員，從自己的牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ネクロ・エリミネーション!!",
+      "damage": 110,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "可以將自己的1~3張手牌放到存檔區：因這個效果每將1張牌放到存檔區，選擇對手的1位成員。這個回合中，剛才選擇的成員視為具有所有顏色。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-074"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-075_R.png",
+    "name": "ロボ子さん",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #シューター",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ロボ子さん↔ろぼさー",
+      "effect": "從自己的牌組展示1張「ろぼさー」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_purple.png"],
+      "name": "一緒に外に行こうよ",
+      "damage": "110+",
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "這個成員每帶有1張「ろぼさー」，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-075"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-076_R.png",
+    "name": "癒月ちょこ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #料理",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "おいしいごはんの夢",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#料理的成員與1張標示#食べ物的活動並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ごはんをいっぱい食べたあとには……",
+      "damage": 120,
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果自己的存檔區有3張以上標示#食べ物的活動，這個成員HP回復100點。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-076"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
