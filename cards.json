@@ -34549,6 +34549,366 @@
     "id": "hBP08-076"
   },
   {
+    "image": "cardListImages/hBP08/hBP08-077_C.png",
+    "name": "音乃瀬奏",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "歌ってみた、聴いてください",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張1st成員「音乃瀬奏」與1張「リコーダー」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "奏スタンバイ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-077"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-078_U.png",
+    "name": "音乃瀬奏",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "楽しい月曜日だよー！！！！！！！！",
+      "effect": "選擇自己舞台上1位標示#歌的2nd成員。這個回合中，該成員的藝能傷害+20。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "れろれろれろれろ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-078"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-079_C.png",
+    "name": "音乃瀬奏",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "黎明の歌姫",
+      "effect": "如果標示#ReGLOSS的2nd成員在自己的舞台上，這個成員的HP+50。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "清廉なる歌声",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "可以將自己存檔區的1張吶喊卡發送給自己標示#ReGLOSS的中心成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-079"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-080_C.png",
+    "name": "音乃瀬奏",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ファイティングエール",
+      "effect": "如果自己舞台上的吶喊卡數量比對手多，可以從自己的牌組將1張標示#ReGLOSS的Debut成員放到舞台上。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "奏ストラクション",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-080"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-081_R.png",
+    "name": "音乃瀬奏",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "音の饗宴",
+      "effect": "將自己存檔區的1張吶喊卡發送給自己的中心成員「音乃瀬奏」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "今年も伸び盛り",
+      "damage": "40+",
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]如果自己舞台上的吶喊卡數量比對手多1張，這個藝能傷害+20。如果比對手多2張以上，則這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-081"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-082_U.png",
+    "name": "音乃瀬奏",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "めでたい日なのに……",
+      "effect": "如果自己舞台上的吶喊卡數量比對手多，這個回合中，這個成員的藝能傷害+40。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "涙が止まらないよ～",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-082"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-083_RR.png",
+    "name": "音乃瀬奏",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #歌",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "テンション超アップ！",
+      "effect": "如果自己舞台上的吶喊卡數量在對手以下，將自己存檔區的1~2張吶喊卡發送給這個成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "奏オンステージ",
+      "damage": "120+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果自己舞台上的吶喊卡數量比對手多，每多1張，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-083"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-084_R.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 190,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "優雅なてぃーたいむ！",
+      "effect": "如果自己的生命值在3以下，這個回合中，自己舞台上標示#1期生的所有成員藝能傷害+20。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "まちゅだってお姫さま♡",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果標示#1期生的2nd成員在自己的舞台上，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-084"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-085_C.png",
+    "name": "不知火フレア",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ハーフエルフ",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "手、繋いでいると温かいね",
+      "effect": "可以將自己的1張手牌放到存檔區：將自己存檔區的1張Debut成員、1st成員或Spot成員返回手牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "テレ隠しが下手ですな～",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-085"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-086_U.png",
+    "name": "不知火フレア",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ハーフエルフ",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "俺のイナー！",
+      "effect": "可以將自己吶喊牌組上方的1張牌發送給自己的「不知火フレア」或標示#EN的成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "最高のともだち",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果自己的中心成員為2nd成員，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-086"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-087_R.png",
+    "name": "不知火フレア",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ハーフエルフ",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "ドリーミングエール",
+      "effect": "可以將自己存檔區的1~2張吶喊卡發送給自己中心成員的「不知火フレア」或標示#EN的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "夢から醒めたら",
+      "damage": 90,
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-087"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-088_RR.png",
+    "name": "不知火フレア",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ハーフエルフ",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "メロゥ・フラワリー",
+      "effect": "[每個回合一次]自己回合中，這個成員移動到聯動位置時，給予對手的中心成員與聯動成員20點特殊傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "リレーションファンタジー",
+      "damage": "140+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "[限定聯動位置]如果自己的中心成員標示#3期生，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-088"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-089_R.png",
+    "name": "ジジ・ムリン",
+    "type": "成員",
+    "tag": "#EN / #Justice",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ラピッドファイア・ウィット",
+      "effect": "可以將1張與這個成員重疊的成員放到存檔區：從自己的牌組將1張「Popo」附加給自己的成員。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "アイアムアゲーマー",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "將自己存檔區的1張吶喊卡發送給自己標示#Justice的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-089"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-090_C.png",
+    "name": "エレガントパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "將自己存檔區的1~3張吉祥物與粉絲放回牌組重新洗牌。之後，從自己的牌組抽2張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP08-090"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
