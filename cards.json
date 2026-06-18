@@ -32627,7 +32627,7 @@
     "oshiSkill": {
       "holoPower": "-X",
       "name": "Ina'nisの色彩",
-      "effect": "[每個回合一次]因這個效果每將1張holo能量放到存檔區，選擇對手舞台上的1位成員。這個回合中，剛才選擇的成員視為具有所有顏色的成員。"
+      "effect": "[每個回合一次]因這個效果每將1張holo能量放到存檔區，選擇對手舞台上的1位成員。這個回合中，剛才選擇的成員視為具有所有顏色。"
     },
     "spSkill": null,
     "id": "hBP08-006"
@@ -34907,6 +34907,186 @@
     "product": "補充包「バウンサーバウンド (hBP08)」",
     "supportEffect": "將自己存檔區的1~3張吉祥物與粉絲放回牌組重新洗牌。之後，從自己的牌組抽2張牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP08-090"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-091_U.png",
+    "name": "クリエイターパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "從自己的牌組將1張特殊規則為「這個成員沒有張數限制」的Debut成員放到舞台上。將牌組重新洗牌。之後，將自己存檔區的1張Debut成員放到舞台上。",
+    "id": "hBP08-091"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-092_U.png",
+    "name": "思い出のドーナツショップ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "從自己的牌組展示1張「フワワ・アビスガード」與1張「モココ・アビスガード」並加入手牌。將牌組重新洗牌。之後，如果自己的生命值比對手少，給予對手的1位成員20點特殊傷害。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP08-092"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-093_U.png",
+    "name": "ちょこのなすユッケ",
+    "type": "支援・活動",
+    "tag": "#食べ物",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "自己舞台上的所有成員都為「癒月ちょこ」，且自己的生命值在3以下才能使用。\n\n這個回合中，自己舞台上所有的Debut成員與1st成員藝能傷害+20。之後，自己舞台上所有的2nd成員藝能傷害+60。\n\n「ちょこのなすユッケ」每個回合只能使用一次。",
+    "id": "hBP08-093"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-094_U.png",
+    "name": "パパは仕事を辞める",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "自己有聯動成員時才能使用。\n\n選擇自己的中心成員。下個對手回合中，該成員在中心位置第一次受到的藝能傷害-300。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP08-094"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-095_C.png",
+    "name": "破滅の呪文",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "自己舞台上的所有成員都標示#EN，且自己的生命值在3以下才能使用。\n\n給予雙方的中心成員與聯動成員50點特殊傷害。因這個效果擊倒成員，不會減少生命值。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP08-095"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-096_U.png",
+    "name": "優しいモンスター",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "自己的主推為「一条莉々華」才能使用。\n\n從自己的牌組展示1張「一条莉々華」與1張「限界飯」並加入手牌。將牌組重新洗牌。之後，如果自己的存檔區有3張以上的「限界飯」，這個回合中，自己舞台上所有的「一条莉々華」藝能傷害+50。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP08-096"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-097_C.png",
+    "name": "りっちしょこらのハンバーグ",
+    "type": "支援・活動",
+    "tag": "#食べ物",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "選擇自己舞台上的1位成員。該成員HP回復20點。之後，如果自己的存檔區有2張以上標示#食べ物的活動，將自己存檔區的1張吶喊卡發送給該成員。\n\n「りっちしょこらのハンバーグ」每個回合只能使用一次。",
+    "id": "hBP08-097"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-098_U.png",
+    "name": "hololive Mythology",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "自己舞台上的所有成員都標示#Myth才能使用。\n\n展示自己牌組上方的4張牌。將其中的2張牌加入手牌。其餘放到存檔區。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP08-098"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-099_U.png",
+    "name": "HOLOTORI",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "選擇以下一個效果使用。\n\n■將自己標示#トリ的成員的1張吶喊卡放到存檔區。如果將牌放到存檔區，從自己的牌組抽2張牌後，將1張手牌放回牌組下方。\n■將自己存檔區的1張吶喊卡發送給自己標示#トリ的成員。\n\n「HOLOTORI」每個回合只能使用一次。",
+    "id": "hBP08-099"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-100_U.png",
+    "name": "Myth",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意標示#Myth的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP08-100"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-101_U.png",
+    "name": "We are ReGLOSS",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "自己舞台上的所有成員都標示#ReGLOSS才能使用。\n\n從自己的牌組展示2張標示#ReGLOSS的成員並加入手牌。將牌組重新洗牌。之後，如果自己舞台上的成員比對手少，從自己的牌組抽1張牌後，將1張手牌放到存檔區。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP08-101"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-102_C.png",
+    "name": "クールなパーカー",
+    "type": "支援・道具",
+    "tag": "#Buzzグッズ",
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "帶有這個道具的成員藝能傷害+10。\n\n◆附加給Buzz成員有追加效果\n[每個回合一次]這個成員擊倒對手的成員時，從自己的牌組抽2張牌。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP08-102"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-103_U.png",
+    "name": "ホロマント",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "■帶有這個道具的成員HP+50。\n■帶有這個道具的成員被擊倒時，自己的生命值-1。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP08-103"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-104_C.png",
+    "name": "けはい",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "附加給「水宮枢」有追加效果\n■[限定中心位置或聯動位置]對手的中心成員交棒需要的無色吶喊卡數量+1。\n■這個成員綻放等級上升時，從自己的牌組抽1張牌。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP08-104"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-105_C.png",
+    "name": "Bloom＆Gloom",
+    "type": "支援・吉祥物",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "帶有這個吉祥物的成員HP+20。\n\n◆附加給「IRyS」有追加效果\n如果這個成員有白色吶喊卡與紫色吶喊卡，這個成員的藝能傷害+20。\n\n每位成員只能帶有1張吉祥物。",
+    "id": "hBP08-105"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-106_C.png",
+    "name": "GuyRyS",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "對手回合中，帶有這個粉絲的成員被擊倒時，將這個成員的1張吶喊卡，替換給自己其他的成員。\n\n這個粉絲只能附加給「IRyS」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP08-106"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-107_C.png",
+    "name": "Otomo",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "帶有這個粉絲的成員藝能傷害+10。\n\n這個粉絲從手牌或存檔區附加給成員時，將帶有這個粉絲的成員改為活動狀態或休息狀態。\n\n這個粉絲只能附加給「セシリア・イマーグリーン」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP08-107"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-108_C.png",
+    "name": "いたずらなRuffians",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "帶有這個粉絲的成員HP+10。\n\n對手回合中，帶有這個粉絲的成員被擊倒時，如果這個成員有紅色吶喊卡，從自己的牌組抽1張牌。\n\n這個粉絲只能附加給「フワワ・アビスガード」或「モココ・アビスガード」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP08-108"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-109_C.png",
+    "name": "ルイ友",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "帶有這個粉絲的成員藝能傷害+10。\n\n對手回合中，帶有這個粉絲的成員被擊倒時，將這個成員的1張紅色吶喊卡或紫色吶喊卡替換給自己其他的成員。\n\n這個粉絲只能附加給「鷹嶺ルイ」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP08-109"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-110_C.png",
+    "name": "Takodachi",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「バウンサーバウンド (hBP08)」",
+    "supportEffect": "帶有這個粉絲的成員藝能傷害+10。\n\n[限定中心位置]對手的中心成員與聯動成員視為具有所有顏色。\n\n這個粉絲只能附加給「一伊那尓栖」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP08-110"
   },
   {
     "image": "cardListImages/hPR/hPR-001_P.png",
