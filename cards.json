@@ -27558,6 +27558,33 @@
     "id": "hBP06-072"
   },
   {
+    "image": "cardListImages/hBP06/hBP06-072_P.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "PR卡",
+    "color": "黃",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "勝てると思った？",
+      "effect": "對手的1st成員對這個成員造成的藝能傷害-30。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ざんね～ん",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-072"
+  },
+  {
     "image": "cardListImages/hBP06/hBP06-073_U.png",
     "name": "夏色まつり",
     "type": "成員",
@@ -34513,6 +34540,33 @@
     "id": "hBP08-041"
   },
   {
+    "image": "cardListImages/hBP08/hBP08-041_P.png",
+    "name": "小鳥遊キアラ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #トリ",
+    "product": "PR卡",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "不死鳥式エアロビ",
+      "effect": "對手回合中，這個成員被擊倒時，可以作為代替將這個成員返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "\"熱狂的な夜\"は実在する!!!",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "將自己牌組上方的1張牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-041"
+  },
+  {
     "image": "cardListImages/hBP08/hBP08-042_U.png",
     "name": "小鳥遊キアラ",
     "type": "成員",
@@ -34842,6 +34896,33 @@
     "type": "成員",
     "tag": "#DEV_IS / #FLOW GLOW",
     "product": "補充包「バウンサーバウンド (hBP08)」",
+    "color": "藍",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "君との電話ひとりじめ",
+      "effect": "[限定聯動位置]如果自己有標示#FLOW GLOW的中心成員，對手成員的藝能只能選擇自己的聯動成員為對象，特殊傷害除外。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "君さえよかったらもっとはなそ",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-049"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-049_P.png",
+    "name": "水宮枢",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "PR卡",
     "color": "藍",
     "hp": 140,
     "bloom": "1st",
