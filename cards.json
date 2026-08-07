@@ -13139,6 +13139,36 @@
     "id": "hBP03-050"
   },
   {
+    "image": "cardListImages/hBP03/hBP03-050_P_03.png",
+    "name": "FUWAMOCO",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ケモミミ",
+    "product": "PR卡",
+    "color": "藍 / 紅",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "魔界乃番犬シスターズ",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "從自己的吶喊牌組展示1張紅色吶喊卡或藍色吶喊卡，發送給自己標示#Advent的成員。將吶喊牌組重新洗牌。"
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png","icons/arts_red.png"],
+      "name": "2人揃ってFUWAMOCOです！",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": "這個成員也視為「フワワ・アビスガード」「モココ・アビスガード」",
+    "id": "hBP03-050"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-051_C.png",
     "name": "常闇トワ",
     "type": "成員",
@@ -24995,6 +25025,33 @@
     "type": "成員",
     "tag": "#DEV_IS / #FLOW GLOW",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "意志の指揮者",
+      "effect": "對手回合中，這個成員被擊倒時，可以將自己牌組上方的2張牌放到存檔區。如果將牌放到存檔區，自己的舞台上每有1位標示#FLOW GLOW且不同卡名的成員，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "レゾナンスロア",
+      "damage": "150+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "將自己牌組上方的1~3張牌放到存檔區。每將1張牌放到存檔區，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-020"
+  },
+  {
+    "image": "cardListImages/hBP06/hBP06-020_P_02.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "PR卡",
     "color": "白",
     "hp": 200,
     "bloom": "2nd",
