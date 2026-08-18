@@ -415,7 +415,8 @@ function generateFilterOptions() {
   function customSort(arr) {
     return arr.sort((a, b) => {
       const extract = (set) => {
-        const match = set.match(/^(h[A-Za-z]+)(\d+)/);
+        const match = set.match(/(h[A-Za-z]+)(\d+)/);
+
         if (match) {
           return {
             prefix: match[1],
@@ -432,16 +433,16 @@ function generateFilterOptions() {
       const A = extract(a);
       const B = extract(b);
 
-      // 先按照英文系列排序
+      // 先按照系列英文排序
       const prefixCompare = A.prefix.localeCompare(B.prefix);
 
       if (prefixCompare !== 0) {
         return prefixCompare;
       }
 
-      // 系列相同，再按照數字排序
-        return A.number - B.number;
-      });
+      // 同系列再按照數字排序
+      return A.number - B.number;
+    });
   }
   
   // 填充收錄商品選項
