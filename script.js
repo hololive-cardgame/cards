@@ -416,16 +416,32 @@ function generateFilterOptions() {
     return arr.sort((a, b) => {
       const extract = (set) => {
         const match = set.match(/^(h[A-Za-z]+)(\d+)/);
-        return match
-          ? { prefix: match[1], number: parseInt(match[2], 10) }
-          : { prefix: '', number: Infinity };
+        if (match) {
+          return {
+            prefix: match[1],
+            number: parseInt(match[2], 10)
+          };
+        }
+
+        return {
+          prefix: '',
+          number: Infinity
+        };
       };
 
       const A = extract(a);
       const B = extract(b);
 
-      return A.prefix.localeCompare(B.prefix) || A.number - B.number;
-    });
+      // 先按照英文系列排序
+      const prefixCompare = A.prefix.localeCompare(B.prefix);
+
+      if (prefixCompare !== 0) {
+        return prefixCompare;
+      }
+
+      // 系列相同，再按照數字排序
+        return A.number - B.number;
+      });
   }
   
   // 填充收錄商品選項
