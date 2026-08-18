@@ -2157,6 +2157,30 @@
     "id": "hBP01-021"
   },
   {
+    "image": "cardListImages/hEB01/hBP01-021_C_02.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "白",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "みんな～こんそめ～",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-021"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-022_U.png",
     "name": "ときのそら",
     "type": "成員",
@@ -2394,6 +2418,33 @@
     "id": "hBP01-026"
   },
   {
+    "image": "cardListImages/hEB01/hBP01-026_U_02.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "新たな運命",
+      "effect": "從Debut綻放時，從自己的牌組展示1張Buzz以外標示#ID3期生的Debut成員或1st成員並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ステージみんな「私のもの」",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-026"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-027_RR.png",
     "name": "ベスティア・ゼータ",
     "type": "成員",
@@ -2603,6 +2654,33 @@
     "type": "成員",
     "tag": "#EN / #Promise / #歌",
     "product": "PR卡",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "希望の庭園",
+      "effect": "查看自己的holo能量區。展示其中的1張牌並加入手牌。再將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "約束の力",
+      "damage": "50+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "自己每有1位標示#Promise的成員，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-031"
+  },
+  {
+    "image": "cardListImages/hEB01/hBP01-031_R_02.png",
+    "name": "IRyS",
+    "type": "成員",
+    "tag": "#EN / #Promise / #歌",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
     "color": "白",
     "hp": 200,
     "bloom": "2nd",
@@ -2967,6 +3045,33 @@
     "id": "hBP01-039"
   },
   {
+    "image": "cardListImages/hEB01/hBP01-039_U_02.png",
+    "name": "兎田ぺこら",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ケモミミ",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "綠",
+    "hp": 60,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ギャラクシーアイドル",
+      "effect": "自己的主推為「兎田ぺこら」時，可以擲1次骰子：偶數時，將自己吶喊牌組上方的1張牌發送給自己的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "無重力ジャンプ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-039"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-040_C.png",
     "name": "兎田ぺこら",
     "type": "成員",
@@ -3047,6 +3152,33 @@
     "type": "成員",
     "tag": "#JP / #3期生 / #ケモミミ",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "綠",
+    "hp": 90,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "成長した兎田ぺこらを",
+      "effect": "將自己吶喊牌組上方的1張牌，發送給自己的中心成員或聯動成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "見逃しちゃだめぺこだよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-041"
+  },
+  {
+    "image": "cardListImages/hEB01/hBP01-041_U_02.png",
+    "name": "兎田ぺこら",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #ケモミミ",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
     "color": "綠",
     "hp": 90,
     "bloom": "1st",
@@ -3594,6 +3726,33 @@
     "id": "hBP01-050"
   },
   {
+    "image": "cardListImages/hEB01/hBP01-050_U_02.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "綠",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "用心棒",
+      "effect": "[限定聯動位置]對手成員的藝能只能選擇自己的聯動成員為對象，特殊傷害除外。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "元気を全力でお届けします！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "將自己吶喊牌組上方的1張牌，發送給自己「風真いろは」以外標示#秘密結社holoX的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-050"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-051_RR.png",
     "name": "風真いろは",
     "type": "成員",
@@ -3629,6 +3788,36 @@
     "type": "成員",
     "tag": "#JP / #秘密結社holoX",
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
+    "color": "綠",
+    "hp": 250,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "エールを束ねて",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "[限定聯動位置]這個成員每有1張吶喊卡，這個藝能傷害+20(最多支持5張)。"
+    },
+    "art2": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "風華の輝き",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP01-051"
+  },
+  {
+    "image": "cardListImages/hEB01/hBP01-051_RR_02.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
     "color": "綠",
     "hp": 250,
     "bloom": "1st Buzz",
@@ -3753,6 +3942,33 @@
     "id": "hBP01-054"
   },
   {
+    "image": "cardListImages/hEB01/hBP01-054_U_02.png",
+    "name": "アイラニ・イオフィフティーン",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #絵",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "綠",
+    "hp": 120,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "緑の光が広がる海",
+      "effect": "將自己吶喊牌組上方的1張牌，發送給自己「アイラニ・イオフィフティーン」以外標示#ID的成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "楽しみにしてるよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-054"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-055_R.png",
     "name": "アイラニ・イオフィフティーン",
     "type": "成員",
@@ -3785,6 +4001,33 @@
     "type": "成員",
     "tag": "#ID / #ID1期生 / #絵",
     "product": "PR卡",
+    "color": "綠",
+    "hp": 180,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "AREA 15",
+      "effect": "可以將自己存檔區的吶喊卡發送給自己1~3位標示#ID的成員，每人各1張。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "リレーションスカイ",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "「アイラニ・イオフィフティーン」以外標示#ID的成員在自己的舞台上時，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-055"
+  },
+  {
+    "image": "cardListImages/hEB01/hBP01-055_R_02.png",
+    "name": "アイラニ・イオフィフティーン",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #絵",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
     "color": "綠",
     "hp": 180,
     "bloom": "2nd",
@@ -4023,6 +4266,33 @@
     "id": "hBP01-060"
   },
   {
+    "image": "cardListImages/hEB01/hBP01-060_U_02.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 100,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "本当にみんなのおかげ！！",
+      "effect": "從Debut綻放時，可以將自己的1張手牌放到存檔區：從自己的牌組抽2張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "しっかりついてきてよね！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-060"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-061_R.png",
     "name": "鷹嶺ルイ",
     "type": "成員",
@@ -4055,6 +4325,33 @@
     "type": "成員",
     "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
     "product": "PR卡",
+    "color": "紅",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "組織の司令塔",
+      "effect": "可以將自己存檔區1~2張標示#秘密結社holoX的成員返回手牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png","icons/arts_null.png"],
+      "name": "ホークレイヴ",
+      "damage": 60,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "可以將自己的1~5張手牌放到存檔區：每將1張牌放到存檔區，給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-061"
+  },
+  {
+    "image": "cardListImages/hEB01/hBP01-061_R_02.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
     "color": "紅",
     "hp": 190,
     "bloom": "2nd",
@@ -4203,6 +4500,33 @@
     "id": "hBP01-065"
   },
   {
+    "image": "cardListImages/hEB01/hBP01-065_U_02.png",
+    "name": "小鳥遊キアラ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #トリ",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Let's do this!!!!",
+      "effect": "查看自己牌組上方的3張牌。展示1張成員並加入手牌。其餘放到存檔區。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "盛り上げたいとおもいます！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-065"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-066_R.png",
     "name": "小鳥遊キアラ",
     "type": "成員",
@@ -4298,6 +4622,36 @@
     "type": "成員",
     "tag": "#EN / #Myth / #トリ",
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "焔色の導き",
+      "damage": 70,
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_red.png","icons/arts_red.png"],
+      "name": "マジェスティック・フェニックス",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "自己的存檔區每有1張成員，這個藝能傷害+10。然後將自己存檔區的6張成員放回牌組重新洗牌。"
+    },
+    "extra": null,
+    "id": "hBP01-067"
+  },
+  {
+    "image": "cardListImages/hEB01/hBP01-067_RR_02.png",
+    "name": "小鳥遊キアラ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #トリ",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
     "color": "紅",
     "hp": 200,
     "bloom": "2nd",
@@ -4509,6 +4863,33 @@
     "id": "hBP01-070"
   },
   {
+    "image": "cardListImages/hEB01/hBP01-070_U_02.png",
+    "name": "尾丸ポルカ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ケモミミ",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "宴の始まりだ！",
+      "effect": "從自己的牌組展示1張粉絲並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "共依存",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": "這個成員如果沒帶有「座員」，不能使用這個藝能。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-070"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-071_RR.png",
     "name": "尾丸ポルカ",
     "type": "成員",
@@ -4640,6 +5021,33 @@
     "type": "成員",
     "tag": "#EN / #Promise / #ケモミミ",
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
+    "color": "紅",
+    "hp": 90,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ネズミアイドルがいよいよ登場！",
+      "effect": "從Debut綻放時，可以將自己存檔區的1張Debut成員或1st成員返回手牌：該牌標示#EN時，給予對手的聯動成員20點特殊傷害。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "楽しい時間の始まりだ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP01-074"
+  },
+  {
+    "image": "cardListImages/hEB01/hBP01-074_U_02.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
     "color": "紅",
     "hp": 90,
     "bloom": "1st",
@@ -37942,7 +38350,7 @@
     "id": "hSD02-006"
   },
   {
-    "image": "cardListImages/hSD02/hSD02-006_C_02.png",
+    "image": "cardListImages/hEB01/hSD02-006_C_02.png",
     "name": "百鬼あやめ",
     "type": "成員",
     "tag": "#JP / #2期生 / #シューター",
@@ -38023,7 +38431,7 @@
     "id": "hSD02-007"
   },
   {
-    "image": "cardListImages/hSD02/hSD02-007_U_02.png",
+    "image": "cardListImages/hEB01/hSD02-007_U_02.png",
     "name": "百鬼あやめ",
     "type": "成員",
     "tag": "#JP / #2期生 / #シューター",
@@ -38510,7 +38918,7 @@
     "id": "hSD03-007"
   },
   {
-    "image": "cardListImages/hSD03/hSD03-007_U_02.png",
+    "image": "cardListImages/hEB01/hSD03-007_U_02.png",
     "name": "猫又おかゆ",
     "type": "成員",
     "tag": "#JP / #ゲーマーズ / #ケモミミ",
@@ -38940,7 +39348,7 @@
     "id": "hSD04-007"
   },
   {
-    "image": "cardListImages/hSD04/hSD04-007_U_02.png",
+    "image": "cardListImages/hEB01/hSD04-007_U_02.png",
     "name": "癒月ちょこ",
     "type": "成員",
     "tag": "#JP / #2期生 / #料理",
@@ -39319,7 +39727,7 @@
     "id": "hSD05-007"
   },
   {
-    "image": "cardListImages/hSD05/hSD05-007_U_02.png",
+    "image": "cardListImages/hEB01/hSD05-007_U_02.png",
     "name": "轟はじめ",
     "type": "成員",
     "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
@@ -39659,7 +40067,7 @@
     "id": "hSD06-005"
   },
   {
-    "image": "cardListImages/hSD06/hSD06-005_C_02.png",
+    "image": "cardListImages/hEB01/hSD06-005_C_02.png",
     "name": "風真いろは",
     "type": "成員",
     "tag": "#JP / #秘密結社holoX",
@@ -40600,7 +41008,7 @@
     "id": "hSD08-007"
   },
   {
-    "image": "cardListImages/hSD08/hSD08-007_C_02.png",
+    "image": "cardListImages/hEB01/hSD08-007_C_02.png",
     "name": "角巻わため",
     "type": "成員",
     "tag": "#JP / #4期生 / #ケモミミ / #歌 / #サマー",
@@ -40673,7 +41081,7 @@
     "id": "hSD09-002"
   },
   {
-    "image": "cardListImages/hSD09/hSD09-002_U_02.png",
+    "image": "cardListImages/hEB01/hSD09-002_U_02.png",
     "name": "宝鐘マリン",
     "type": "成員",
     "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
