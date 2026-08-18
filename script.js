@@ -411,23 +411,23 @@ function generateFilterOptions() {
     }
   });
 
-  // 收錄商品排序 hSDxx hBPxx
+  // 收錄商品排序 hSDxx hBPxx hEBxx
   function customSort(arr) {
     return arr.sort((a, b) => {
-      const extractNumber = (set) => {
-        const match = set.match(/h[A-Za-z]+(\d+)/);
-        if (match) {
-          return parseInt(match[1], 10);  // 返回數字
-        }
-        return Infinity;  // 如果沒有匹配到名稱，放到最後面
+      const extract = (set) => {
+        const match = set.match(/^(h[A-Za-z]+)(\d+)/);
+        return match
+          ? { prefix: match[1], number: parseInt(match[2], 10) }
+          : { prefix: '', number: Infinity };
       };
 
-      const numberA = extractNumber(a);
-      const numberB = extractNumber(b);
+      const A = extract(a);
+      const B = extract(b);
 
-      return numberA - numberB;  // 按數字排序
+      return A.prefix.localeCompare(B.prefix) || A.number - B.number;
     });
   }
+  
   // 填充收錄商品選項
   Object.keys(products).forEach(category => {
     const optgroup = document.createElement("optgroup");
