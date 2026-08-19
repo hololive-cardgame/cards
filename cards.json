@@ -38351,6 +38351,230 @@
     "id": "hEB01-001"
   },
   {
+    "image": "cardListImages/hEB01/hEB01-002_OSR.png",
+    "name": "宝鐘マリン",
+    "type": "主推",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "life": 5,
+    "stageSkill":{
+      "name": "魔性の再演",
+      "effect": "自己的表演階段開始時，如果自己有聯動成員，可以使用自己手牌的藍色成員將自己這個回合綻放過的中心成員「宝鐘マリン」再次進行綻放。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "Uh～ 刺激的すぎたかナ～？",
+      "effect": "[每個回合一次]給予對手1位Debut以外的後台成員50點特殊傷害。之後，如果與自己中心成員重疊的成員為3張以上，給予對手1位Debut以外的後台成員50點特殊傷害。"
+    },
+    "spSkill": null,
+    "id": "hEB01-002"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-003_OSR.png",
+    "name": "博衣こより",
+    "type": "主推",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "life": 5,
+    "stageSkill":{
+      "name": "助手くん限定の『こよ色観測』",
+      "effect": "自己的舞台上每有1張「こよりの助手くん」，因自己的主推技能與自己黃色「博衣こより」的效果從牌組上方展示的張數+1。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "解析完了！ 二人だけの独占海域",
+      "effect": "[每個回合一次]從自己的牌組上方展示與自己舞台上的吶喊卡相同數量的牌。如果有3張以上的成員，這個回合中，自己舞台上所有的「博衣こより」藝能傷害+30。將Debut以外的所有成員加入手牌，其餘放到存檔區。"
+    },
+    "spSkill": null,
+    "id": "hEB01-003"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-004_C.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "心地よい距離感",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-004"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-005_U.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "うんうん、今度海に行かないって？",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組將1~3張持有特殊規則的Debut「ときのそら」放到舞台上。將牌組重新洗牌。如果將3張牌放到舞台上，將自己的1張手牌放回牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "いいよー！ 誘ってくれてうれしい！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-005"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-006_C.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "私、浴衣……どうかな？",
+      "effect": "對手回合中，這個成員被擊倒時，可以將這個成員帶有的1張支援卡返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "はぐれないように、ね？",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "如果對1st以上的成員使用這個藝能，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-006"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-007_U.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ふたりだけの特別ツアー！",
+      "effect": "從自己的牌組抽1張牌，將1張手牌放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "よそ見しちゃダメだよ？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-007"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-008_R.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "私の自信作、食べてみる？",
+      "effect": "從自己的牌組展示1張「STAR STAR☆T」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "夏の熱気のせいにさせて",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-008"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-009_R.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "この歌は、あなたのために。",
+      "effect": "從自己的牌組展示1張2nd「ときのそら」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "誰より、特別だって気づいてる？",
+      "damage": 50,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "將自己存檔區的1~3張成員放回牌組重新洗牌。之後，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-009"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-010_RR.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "今日は、いつもの道も特別だね",
+      "effect": "[限定中心位置]可以擲1次骰子。如果為奇數，選擇對手的1位後台成員。將對手的中心成員與該成員進行替換。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "振り返れば、いつもあなたが。",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "可以將自己舞台後方1位活動狀態的2nd「ときのそら」改為休息狀態：這個成員使用了藝能後，再次使用相同的藝能。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-010"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
