@@ -38974,6 +38974,96 @@
     "id": "hEB01-024"
   },
   {
+    "image": "cardListImages/hEB01/hEB01-025_C.png",
+    "name": "サマーパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "如果自己的生命值在2以上，從自己的牌組將1張標示#サマー的Debut成員放到舞台上。將牌組重新洗牌。如果自己的生命值為1，從自己的牌組展示1張標示#サマー的成員並加入手牌。將牌組重新洗牌。",
+    "id": "hEB01-025"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-026_U.png",
+    "name": "クマリン",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "自己的主推為「宝鐘マリン」才能使用。\n\n從自己的牌組抽2張牌。之後，可以展示自己手牌的1張「宝鐘マリン」並放回牌組下方。如果將牌放回牌組，從自己的牌組抽2張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hEB01-026"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-027_C.png",
+    "name": "サマーライブ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "這個回合中，自己舞台上所有標示#サマー的成員藝能傷害+30。之後，將自己存檔區的1張吶喊卡發送給自己的成員。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hEB01-027"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-028_C.png",
+    "name": "スイカ割り",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "選擇自己舞台上的1位2nd成員。這個回合中，該成員的藝能傷害+30，該成員使用藝能傷害擊倒成員時，從自己的牌組抽2張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hEB01-028"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-029_C.png",
+    "name": "スプラッシュシュート",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "自己的中心成員與聯動成員都標示#サマー才能使用。\n\n給予對手的中心成員或聯動成員30點特殊傷害。\n\n「スプラッシュシュート」每個回合只能使用一次。",
+    "id": "hEB01-029"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-030_U.png",
+    "name": "ホロライブ・サマー",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "從自己的牌組抽2張牌。之後，如果自己的舞台上有3位以上標示#サマー的成員，查看自己牌組上方的2張牌。將其中的1張牌加入手牌。其餘放到存檔區。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hEB01-030"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-031_C.png",
+    "name": "水遊び",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "將自己存檔區的1張吶喊卡發送給自己標示#サマー的成員。",
+    "id": "hEB01-031"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-032_U.png",
+    "name": "STAR STAR☆T",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "如果自己的主推為「ときのそら」，這張牌可以在自己先攻的第一個回合使用。\n\n從自己的牌組抽3張牌，將1張手牌放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hEB01-032"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-033_C.png",
+    "name": "ビーチボール",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "帶有這個道具且標示#サマー的成員藝能傷害+10。\n\n帶有這個道具的成員使用了藝能時，可以將這個道具轉移給自己標示#サマー的中心成員或聯動成員。\n\n每位成員只能帶有1張道具。",
+    "id": "hEB01-033"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-034_U.png",
+    "name": "なんでも爆解！",
+    "type": "支援・道具",
+    "tag": "#こよラボ",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "supportEffect": "帶有這個道具的成員藝能傷害+10。\n\n◆附加給2nd「博衣こより」有追加效果\n[限定中心位置或聯動位置]自己的表演階段結束時，可以將這個成員帶有的1張「なんでも爆解！」放到存檔區：給予對手的中心成員30點特殊傷害。\n\n每位成員只能帶有1張道具。",
+    "id": "hEB01-034"
+  },
+  {
     "image": "cardListImages/hPR/hPR-001_P.png",
     "name": "さくらみこ",
     "type": "成員",
