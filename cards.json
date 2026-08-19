@@ -29411,7 +29411,7 @@
       "name": "奇妙な来客",
       "damage": 70,
       "specialAttackImage": "icons/tokkou_50_blue.png",
-      "effect": "如果這個回合有使用過自己的主推技能「神秘の儀式」，可以將自己存檔區1~3張的「アーニャ・メルフィッサ」返回手牌。"
+      "effect": "如果這個回合有使用過自己的主推技能「神秘の儀式」，可以將自己存檔區的1~3張「アーニャ・メルフィッサ」返回手牌。"
     },
     "art2": null,
     "extra": null,
@@ -29438,7 +29438,7 @@
       "name": "奇妙な来客",
       "damage": 70,
       "specialAttackImage": "icons/tokkou_50_blue.png",
-      "effect": "如果這個回合有使用過自己的主推技能「神秘の儀式」，可以將自己存檔區1~3張的「アーニャ・メルフィッサ」返回手牌。"
+      "effect": "如果這個回合有使用過自己的主推技能「神秘の儀式」，可以將自己存檔區的1~3張「アーニャ・メルフィッサ」返回手牌。"
     },
     "art2": null,
     "extra": null,
@@ -38364,7 +38364,7 @@
     "oshiSkill": {
       "holoPower": -2,
       "name": "Uh～ 刺激的すぎたかナ～？",
-      "effect": "[每個回合一次]給予對手1位Debut以外的後台成員50點特殊傷害。之後，如果與自己中心成員重疊的成員為3張以上，給予對手1位Debut以外的後台成員50點特殊傷害。"
+      "effect": "[每個回合一次]給予對手Debut以外的1位後台成員50點特殊傷害。之後，如果與自己中心成員重疊的成員為3張以上，給予對手Debut以外的1位後台成員50點特殊傷害。"
     },
     "spSkill": null,
     "id": "hEB01-002"
@@ -38573,6 +38573,405 @@
     "art2": null,
     "extra": null,
     "id": "hEB01-010"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-011_C.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "夏祭りってテンションあがるよナぁ～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員的1張吶喊卡放到存檔區：從自己的牌組展示1張標示#サマー的「宝鐘マリン」並加入手牌。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-011"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-012_U.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "船長と海に行きたいって～？",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張有綻放效果的「宝鐘マリン」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "船長の水着見せつけちゃうゾ♡",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-012"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-012_P.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
+    "product": "PR卡",
+    "color": "藍",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "船長と海に行きたいって～？",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張有綻放效果的「宝鐘マリン」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "船長の水着見せつけちゃうゾ♡",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-012"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-013_C.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "わざと隙、見せてるんだゾ？",
+      "effect": "可以將1張與這個成員重疊的成員放到存檔區：將自己吶喊牌組上方的1張牌發送給自己的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "人混み抜けて……二人きりになっちゃう？",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-013"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-014_U.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "眩しいのは太陽？ それとも……マリン？",
+      "effect": "給予對手的1位後台成員10點特殊傷害。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "遠慮しないで、マリンにぜーんぶ委ねちゃいな？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-014"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-015_R.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "hp": 250,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "隣、空けて待ってるんだけど...",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": "如果與這個成員重疊的成員有2張以上，可以將自己舞台上的1張吶喊卡放到存檔區：將自己吶喊牌組上方的1張牌發送給自己的成員。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hEB01-015"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-016_R.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "一生、マリンのトリコでしょ？",
+      "damage": "40+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果與這個成員重疊的成員有3張以上，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-016"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-017_RR.png",
+    "name": "宝鐘マリン",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #絵 / #海 / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "キミにも一口、あげるゾ♡",
+      "effect": "將自己存檔區的1張吶喊卡發送給這個成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ねぇ、口元のチョコ……とって？♡",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "如果自己的主推為「宝鐘マリン」，可以將所有與這個成員重疊的成員放到存檔區：如果將1張以上放到存檔區，這個藝能傷害+100。如果將5張以上放到存檔區，再給予對手Debut以外的1位後台成員100點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-017"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-018_C.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "こよを夏祭りに連れて行って？",
+      "effect": "對手回合中，這個成員被擊倒時，可以將這個成員帶著的1張標示#こよラボ的支援卡返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ドキドキしちゃうね♡",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果這個成員帶著標示#こよラボ的支援卡，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-018"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-019_U.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "hp": 140,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "え、今度のお休みの日に海に行こうって？",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張Debut成員與1張標示#こよラボ的支援卡並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "こよの水着、期待しててねっ♡",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-019"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-020_C.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "hp": 190,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "助手くんの好みを研究して、選んだ浴衣だよっ♡",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "ドキッとさせる実験開始～！",
+      "damage":"50+",
+      "specialAttackImage": null,
+      "effect": "從自己的牌組上方展示與自己舞台上的吶喊卡相同數量的牌。每有1張成員，這個藝能傷害+10。將展示的牌放回牌組重新洗牌。"
+    },
+    "extra": null,
+    "id": "hEB01-020"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-021_U.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "助手くんの夏は、こよが独り占め♡",
+      "effect": "自己的舞台上每有1張「こよりの助手くん」，自己的1位成員HP回復20點。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "捕まえちゃった！わおーん！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-021"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-022_R.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "こよが掃除しに来たよ～！",
+      "effect": "可以將自己存檔區的1~2張「こよりの助手くん」返回手牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "助手くん、これ、なぁに？",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果自己的舞台上有2nd成員，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-022"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-023_R.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "助手くんお待ちかね、こよの水着姿だよ！",
+      "effect": "可以將自己存檔區的1~4張「博衣こより」依照喜歡的順序放回牌組下方。如果將4張牌放回牌組，可以將自己存檔區1張標示#こよラボ的支援卡附加給自己的「博衣こより」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "こよ以外見えなくしちゃった！♡",
+      "damage": 50,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "從自己的牌組抽牌，直到手牌張數與自己舞台上的「こよりの助手くん」張數相同。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-023"
+  },
+  {
+    "image": "cardListImages/hEB01/hEB01-024_RR.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ / #サマー",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "こよに溺れちゃえ～っ！",
+      "effect": "這個成員每帶有1張「こよりの助手くん」，這個成員的HP+10，這個成員的藝能需要的無色吶喊卡數量-1。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "皆にはナイショの、特別な時間…♡",
+      "damage": "120+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "從自己的牌組上方展示與自己舞台上的吶喊卡相同數量的牌。每有1張成員，這個藝能傷害+20，自己的1位成員HP回復20點。然後將展示的牌放回牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hEB01-024"
   },
   {
     "image": "cardListImages/hPR/hPR-001_P.png",
@@ -43230,7 +43629,7 @@
     "spSkill": {
       "holoPower": -3,
       "name": "リベリオン",
-      "effect": "[每場比賽一次]自己的存檔區每有1張支援卡，給予對手1位Debut以外的後台成員10點特殊傷害。"
+      "effect": "[每場比賽一次]自己的存檔區每有1張支援卡，給予對手Debut以外的1位後台成員10點特殊傷害。"
     },
     "id": "hSD12-001"
   },
