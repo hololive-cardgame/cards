@@ -26868,6 +26868,15 @@
     "id": "hBP05-074"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-074_P_02.png",
+    "name": "フレンドリーパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": "PR卡",
+    "supportEffect": "從自己的牌組展示1~2張特殊規則為「這個成員沒有張數限制」的Debut成員，放到舞台上。將牌組重新洗牌。如果將2張Debut成員放到舞台上，再將自己的1張手牌放回牌組下方。",
+    "id": "hBP05-074"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-075_C.png",
     "name": "牛丼",
     "type": "支援・活動",
@@ -38125,6 +38134,33 @@
     "id": "hBP08-053"
   },
   {
+    "image": "cardListImages/hBP08/hBP08-053_P.png",
+    "name": "水宮枢",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "PR卡",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "しゅぴしゅわ～～っ！！！！",
+      "effect": "[限定中心位置]如果對手的中心成員交棒需要的無色吶喊卡數量為5以上，對手的中心成員藝能需要的無色吶喊卡數量+2。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_null.png"],
+      "name": "届け、この愛",
+      "damage": 50,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果對手的中心成員交棒需要的無色吶喊卡數量為5以上，給予對手Debut以外的1位成員100點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-053"
+  },
+  {
     "image": "cardListImages/hBP08/hBP08-054_R.png",
     "name": "ムーナ・ホシノヴァ",
     "type": "成員",
@@ -46921,6 +46957,15 @@
     "id": "hSD14-010"
   },
   {
+    "image": "cardListImages/hSD14/hSD14-010_P_03.png",
+    "name": "holoAN",
+    "type": "支援・工作人員",
+    "tag": null,
+    "product": "PR卡",
+    "supportEffect": "從自己的牌組抽3張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hSD14-010"
+  },
+  {
     "image": "cardListImages/hSD14/hSD14-011_C.png",
     "name": "ありよりのアリゲーター",
     "type": "支援・吉祥物",
@@ -48598,6 +48643,15 @@
     "color": "藍",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
     "id": "hY04-012"
+  },
+  {
+    "image": "cardListImages/hY0/hY04-015_P.png",
+    "name": "青エール",
+    "type": "吶喊",
+    "product": "PR卡",
+    "color": "藍",
+    "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY04-015"
   },
   {
     "image": "cardListImages/hY0/hY05-001_C.png",
