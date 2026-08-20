@@ -48546,6 +48546,15 @@
     "id": "hY03-015"
   },
   {
+    "image": "cardListImages/hY0/hY03-018_P.png",
+    "name": "赤エール",
+    "type": "吶喊",
+    "product": "PR卡",
+    "color": "紅",
+    "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY03-018"
+  },
+  {
     "image": "cardListImages/hY0/hY04-001_C.png",
     "name": "青エール",
     "type": "吶喊",
