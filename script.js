@@ -1179,10 +1179,12 @@ function showPopup(card, index) {
           <span>${card.color}</span>
         </div>
 
-        <div class="info">
-          <span class="label">效果</span>
-          <span>${yellEffect}</span>
-        </div>
+        ${yellEffect ? `
+          <div class="info">
+            <span class="label">效果</span>
+            <span>${yellEffect}</span>
+          </div>
+        ` : ''}
 
         <div class="info">
           <span class="label">卡牌編號</span>
