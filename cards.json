@@ -48870,6 +48870,15 @@
     "id": "hY01-001"
   },
   {
+    "image": "cardListImages/hEB01/hY01-001_S.png",
+    "name": "白エール",
+    "type": "吶喊",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "白",
+    "yellEffect": null,
+    "id": "hY01-001"
+  },
+  {
     "image": "cardListImages/hY0/hY01-002_P.png",
     "name": "白エール",
     "type": "吶喊",
@@ -48978,6 +48987,15 @@
     "id": "hY02-001"
   },
   {
+    "image": "cardListImages/hEB01/hY02-001_S.png",
+    "name": "緑エール",
+    "type": "吶喊",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "綠",
+    "yellEffect": null,
+    "id": "hY02-001"
+  },
+  {
     "image": "cardListImages/hY0/hY02-002_SY.png",
     "name": "緑エール",
     "type": "吶喊",
@@ -49074,6 +49092,15 @@
     "product": ["補充包「ブルーミングレディアンス (hBP01)」","補充包「クインテットスペクトラム (hBP02)」","補充包「エリートスパーク (hBP03)」","起始牌組「赤 百鬼あやめ (hSD02)」","起始牌組「赤 宝鐘マリン (hSD09)」","起始牌組「推し Justice (hSD13)」","起始牌組「ライブスタートデッキ さくらみこ (hSD16)」","スタートエールセット"],
     "color": "紅",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY03-001"
+  },
+  {
+    "image": "cardListImages/hEB01/hY03-001_S.png",
+    "name": "赤エール",
+    "type": "吶喊",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紅",
+    "yellEffect": null,
     "id": "hY03-001"
   },
   {
@@ -49221,6 +49248,15 @@
     "id": "hY04-001"
   },
   {
+    "image": "cardListImages/hEB01/hY04-001_S.png",
+    "name": "青エール",
+    "type": "吶喊",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "藍",
+    "yellEffect": null,
+    "id": "hY04-001"
+  },
+  {
     "image": "cardListImages/hY0/hY04-002_SY.png",
     "name": "青エール",
     "type": "吶喊",
@@ -49338,6 +49374,15 @@
     "id": "hY05-001"
   },
   {
+    "image": "cardListImages/hEB01/hY05-001_S.png",
+    "name": "紫エール",
+    "type": "吶喊",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "紫",
+    "yellEffect": null,
+    "id": "hY05-001"
+  },
+  {
     "image": "cardListImages/hY0/hY05-002_SY.png",
     "name": "紫エール",
     "type": "吶喊",
@@ -49425,6 +49470,15 @@
     "product": ["補充包「エリートスパーク (hBP03)」","起始牌組「黄 不知火フレア (hSD07)」","起始牌組「FLOW GLOW 推し 虎金妃笑虎 (hSD11)」","起始牌組「推し Justice (hSD13)」","起始牌組「ライブスタートデッキ 大空スバル (hSD19)」"],
     "color": "黃",
     "yellEffect": "■成員離開舞台時，將該成員所有的吶喊卡放到存檔區。\n■成員交棒時，將該成員指定數量的吶喊卡放到存檔區。",
+    "id": "hY06-001"
+  },
+  {
+    "image": "cardListImages/hEB01/hY06-001_S.png",
+    "name": "黄エール",
+    "type": "吶喊",
+    "product": "補充包「エクストラブースター サマー・ホログラム (hEB01)」",
+    "color": "黃",
+    "yellEffect": null,
     "id": "hY06-001"
   },
   {
