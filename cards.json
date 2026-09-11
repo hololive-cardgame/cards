@@ -40811,6 +40811,148 @@
     "id": "hBP09-001"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-002_OSR.png",
+    "name": "轟はじめ",
+    "type": "主推",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "life": 5,
+    "stageSkill":{
+      "name": "目指せ、宇宙一の番長！",
+      "effect": "[每個回合一次]自己的「轟はじめ」交棒時，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "oshiSkill": {
+      "holoPower": "-X",
+      "name": "ウケたらなお好し、スベるも好し",
+      "effect": "[每個回合一次]選擇自己的中心成員「轟はじめ」。這個回合中，因這個效果每將1張holo能量放到存檔區，該成員的藝能傷害+10。如果將7張以上放到存檔區，這個回合中，自己舞台上所有的「轟はじめ」藝能傷害+100。"
+    },
+    "spSkill": null,
+    "id": "hBP09-002"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-003_OSR.png",
+    "name": "白銀ノエル",
+    "type": "主推",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "life": 5,
+    "stageSkill":{
+      "name": "鉄の胃袋大魔神",
+      "effect": "[每個回合一次]自己使用了「牛丼」時，將自己吶喊牌組上方的1張牌發送給自己的「白銀ノエル」。如果2nd成員在自己的舞台上，再從自己的牌組抽1張牌。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "あふれる牛丼愛",
+      "effect": "[每個回合一次]將自己存檔區的1張吶喊卡發送給自己的「白銀ノエル」。如果自己的存檔區有3張以上的「牛丼」，則將自己存檔區的1~2張吶喊卡分配給自己的「白銀ノエル」。"
+    },
+    "spSkill": null,
+    "id": "hBP09-003"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-004_OSR.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "主推",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "life": 5,
+    "stageSkill":{
+      "name": "TO THE FORGE NOW",
+      "effect": "[每個回合一次]將自己標示#カエラ'sアームズ的道具附加給「カエラ・コヴァルスキア」時，從自己的牌組抽2張牌。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "レアアイテムを発見せよ！",
+      "effect": "[每個回合一次]將自己舞台上2張標示#カエラ'sアームズ的道具放到存檔區。如果因這個效果將2張牌放到存檔區，給予對手Debut以外的中心成員或聯動成員100點特殊傷害。"
+    },
+    "spSkill": null,
+    "id": "hBP09-004"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-005_OSR.png",
+    "name": "常闇トワ",
+    "type": "主推",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "life": 5,
+    "stageSkill":{
+      "name": "魔弾の射手",
+      "effect": "[每個回合一次]自己的中心成員「常闇トワ」使用了藝能後，可以再次使用該成員另一個不同名稱的藝能。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "とびっきりオーバーなショット",
+      "effect": "[每個回合一次]自己的表演階段結束時可以使用：這個回合自己標示#歌的成員每使用一次藝能，從自己的牌組抽1張牌。"
+    },
+    "spSkill": null,
+    "id": "hBP09-005"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-006_OSR.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "主推",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "life": 5,
+    "stageSkill":null,
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "伝説の美（ヴィ）",
+      "effect": "[每個回合一次]從自己的牌組抽3張牌，對手從牌組抽2張牌。"
+    },
+    "spSkill": {
+      "holoPower": -3,
+      "name": "ナイヴィヴィ！イケヴィヴィ！カッコヴィヴィ！",
+      "effect": "[每場比賽一次]如果自己的中心成員為2nd「綺々羅々ヴィヴィ」，雙方將所有手牌以及存檔區的所有成員與支援卡放回牌組重新洗牌。然後從各自的牌組抽7張牌。"
+    },
+    "id": "hBP09-006"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-007_OSR.png",
+    "name": "雪花ラミィ",
+    "type": "主推",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "life": 5,
+    "stageSkill":{
+      "name": "至福のひととき",
+      "effect": "自己舞台上所有的「雪花ラミィ」藝能傷害+20。如果自己的存檔區有5張以上標示#ラミィのお酒的支援卡，則自己舞台上所有的「雪花ラミィ」藝能傷害+50。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "愛するものに囲まれて",
+      "effect": "[每個回合一次]從自己的牌組展示1~2張標示#ラミィのお酒的支援卡並加入手牌。將牌組重新洗牌。"
+    },
+    "spSkill": null,
+    "id": "hBP09-007"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-008_C.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "カジュアルスバル",
+      "effect": "[每個回合一次]對手回合中，這個成員一次受到了40點以上的藝能傷害時，給予對手的中心成員30點特殊傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "ロング、似合うっスか？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-008"
+  },
+  {
     "image": "cardListImages/hEB01/hEB01-001_OSR.png",
     "name": "ときのそら",
     "type": "主推",
