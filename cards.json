@@ -5433,6 +5433,30 @@
     "id": "hBP01-072"
   },
   {
+    "image": "cardListImages/hBP09/hBP01-072_C_02.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 80,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "WAZZUP!!",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "這個成員有紅色吶喊卡時，可以擲1次骰子：奇數時，給予對手的聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-072"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-073_C.png",
     "name": "ハコス・ベールズ",
     "type": "成員",
@@ -6290,6 +6314,30 @@
     "type": "成員",
     "tag": "#ID / #ID1期生 / #歌",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "ムーン　ムーン　ムーナだよ！",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "可以擲1次骰子：偶數時，給予對手的1位後台成員20點特殊傷害。即使擊倒對手的成員，也不會減少對手的生命值。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP01-088"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP01-088_C_02.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
     "color": "藍",
     "hp": 90,
     "bloom": "Debut",
@@ -8129,6 +8177,30 @@
     "id": "hBP02-014"
   },
   {
+    "image": "cardListImages/hBP09/hBP02-014_C_02.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "こんまっする～！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP02-014"
+  },
+  {
     "image": "cardListImages/hBP02/hBP02-015_C.png",
     "name": "白銀ノエル",
     "type": "成員",
@@ -8977,6 +9049,30 @@
     "type": "成員",
     "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
     "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "綠",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "うちうち、うちだよ～大神ミオだよ～",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": "可以將自己舞台上的1張吶喊卡，轉移給自己標示#JP的成員。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP02-024"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP02-024_C_02.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
     "color": "綠",
     "hp": 90,
     "bloom": "Debut",
@@ -11509,6 +11605,30 @@
     "type": "成員",
     "tag": "#EN / #Advent / #歌 / #トリ",
     "product": "補充包「エンチャントレガリア (hBP05)」",
+    "color": "紫",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "Hiya darlings!",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "這個成員有紅色吶喊卡時，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP02-065"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP02-065_C_02.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
     "color": "紫",
     "hp": 90,
     "bloom": "Debut",
@@ -15478,6 +15598,30 @@
     "type": "成員",
     "tag": "#JP / #4期生 / #歌 / #シューター",
     "product": "PR卡",
+    "color": "紫",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "こんやっぴー",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-051"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP03-051_C_02.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
     "color": "紫",
     "hp": 110,
     "bloom": "Debut",
@@ -19714,6 +19858,30 @@
     "id": "hBP04-039"
   },
   {
+    "image": "cardListImages/hBP09/hBP04-039_C_02.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "おはエラ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-039"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-040_C.png",
     "name": "カエラ・コヴァルスキア",
     "type": "成員",
@@ -19914,6 +20082,30 @@
     "type": "成員",
     "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 90,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "こんらみ～",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位成員10點特殊傷害。即使擊倒對手的成員，也不會減少對手的生命值。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-043"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP04-043_C_02.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
     "color": "藍",
     "hp": 90,
     "bloom": "Debut",
@@ -21472,6 +21664,36 @@
     "id": "hBP04-067"
   },
   {
+    "image": "cardListImages/hBP09/hBP04-067_C_02.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "あじまる！ あじまる！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ちわーす！ ホロライブ2期生 大空スバルっス!!",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-067"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-068_U.png",
     "name": "大空スバル",
     "type": "成員",
@@ -22300,6 +22522,33 @@
     "id": "hBP04-079"
   },
   {
+    "image": "cardListImages/hBP09/hBP04-079_C_02.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "わっしょ～い！",
+      "effect": "對手回合中，這個成員被擊倒時，可以將這個成員的1張吶喊卡，轉移給自己其他的成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ホロライブの清楚担当",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-079"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-080_C.png",
     "name": "夏色まつり",
     "type": "成員",
@@ -23027,7 +23276,7 @@
     "name": "雪民",
     "type": "支援・粉絲",
     "tag": null,
-    "product": "補充包「キュリアスユニバース (hBP04)」",
+    "product": ["補充包「キュリアスユニバース (hBP04)」","補充包「ボリュームヴォルテックス (hBP09)」"],
     "supportEffect": "帶有這個粉絲的成員給予對手中心成員造成的特殊傷害+10。\n\n這個粉絲只能附加給「雪花ラミィ」，每位成員可以帶有任意數量的粉絲。",
     "id": "hBP04-106"
   },
@@ -27115,7 +27364,7 @@
     "name": "牛丼",
     "type": "支援・活動",
     "tag": "#食べ物",
-    "product": "補充包「エンチャントレガリア (hBP05)」",
+    "product": ["補充包「エンチャントレガリア (hBP05)」","補充包「ボリュームヴォルテックス (hBP09)」"],
     "supportEffect": "選擇自己的1位成員。這個回合中，該成員交棒需要的無色吶喊卡數量-2。之後，該成員HP回復20點。",
     "id": "hBP05-075"
   },
@@ -40543,6 +40792,25 @@
     "id": "hBP08-110"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-001_OSR.png",
+    "name": "大空スバル",
+    "type": "主推",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "life": 5,
+    "stageSkill":{
+      "name": "秩序を守る署長",
+      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "大空警察出動！",
+      "effect": "[每個回合一次]選擇對手舞台上的1位成員。從自己的牌組將1張與剛才選擇的成員相同綻放等級的「大空スバル」放到舞台上。將牌組重新洗牌。"
+    },
+    "spSkill": null,
+    "id": "hBP09-001"
+  },
+  {
     "image": "cardListImages/hEB01/hEB01-001_OSR.png",
     "name": "ときのそら",
     "type": "主推",
@@ -44353,6 +44621,30 @@
     "id": "hSD05-002"
   },
   {
+    "image": "cardListImages/hBP09/hSD05-002_C_02.png",
+    "name": "轟はじめ",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ぶんぶんぶーん！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD05-002"
+  },
+  {
     "image": "cardListImages/hSD05/hSD05-003_C.png",
     "name": "轟はじめ",
     "type": "成員",
@@ -46364,6 +46656,30 @@
     "type": "成員",
     "tag": "#DEV_IS / #FLOW GLOW",
     "product": "起始牌組「FLOW GLOW 推し 輪堂千速 (hSD10)」",
+    "color": "紫",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ん〜〜〜〜〜ッヴィヴィ〜！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD10-007"
+  },
+  {
+    "image": "cardListImages/hBP09/hSD10-007_C_02.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
     "color": "紫",
     "hp": 120,
     "bloom": "Debut",
