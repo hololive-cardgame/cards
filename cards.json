@@ -40953,6 +40953,384 @@
     "id": "hBP09-008"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-009_U.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ガーリースバル",
+      "effect": "如果在自己後攻的第一個回合，下個對手回合中，1st成員對自己所有的「大空スバル」造成的藝能傷害-100。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "柔らかな日差し",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-009"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-010_C.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "高まるテンション",
+      "effect": "從自己的牌組抽2張牌，將2張手牌依照喜歡的順序放回牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "ここから盛り上がるっスよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "將對手舞台上的1張道具放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-010"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-011_C.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "雨中のお日様",
+      "effect": "[每個回合一次]對手回合中，這個成員一次受到了100點以上的藝能傷害時，從自己的牌組抽2張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "雨にも負けず風にも負けず",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-011"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-012_R.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "BIG3懇親会 side S",
+      "effect": "如果自己的主推為「大空スバル」，且對手的holo能量有2張以上，將自己牌組上方的1張牌放到holo能量區。「BIG3懇親会 side S」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png","icons/arts_null.png"],
+      "name": "もつのおかわりください",
+      "damage": "80+",
+      "specialAttackImage": null,
+      "effect": "如果自己的成員在之前對手回合中被擊倒，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-012"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-013_U.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "ひよこお部屋着",
+      "effect": "從自己的牌組展示1張「大空警察」或「スピード違反」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "リラックスホリデー",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-013"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-014_RR.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "それ、没収っスよ！",
+      "effect": "[每個回合一次]對手回合中，這個成員一次受到了200點以上的藝能傷害時，對手要將中心成員的所有吶喊卡依照喜歡的順序放回吶喊牌組下方。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png","icons/arts_white.png"],
+      "name": "沈まない太陽",
+      "damage": "160+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "之前對手回合中，自己每有1位被擊倒的成員，這個藝能傷害+40。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-014"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-015_C.png",
+    "name": "轟はじめ",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "たゆまぬダンストレーニング",
+      "effect": "如果自己的舞台上有3位以上的成員，這個成員交棒需要的無色吶喊卡數量-1。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "軽やかなステップ",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果自己的成員在這個回合有交棒，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-015"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-016_U.png",
+    "name": "轟はじめ",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": {
+      "name": "はじめの負けん気",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示2張交棒需要的無色吶喊卡數量為1的「轟はじめ」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "先陣を切る！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-016"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-017_C.png",
+    "name": "轟はじめ",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "喧騒の中の密事",
+      "effect": "這個成員受到的藝能傷害-30。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "待ち合わせの角で",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-017"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-018_C.png",
+    "name": "轟はじめ",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "はじめのジャケット",
+      "effect": "[限定中心位置]從自己的牌組抽2張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "おちょなびたふくそー",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "[限定聯動位置]這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-018"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-019_R.png",
+    "name": "轟はじめ",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "はじめの愛チャ",
+      "effect": "[限定舞台後方]選擇自己舞台上的1位成員。這個回合中，該成員交棒需要的無色吶喊卡數量-2。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "ぶんぶんばんちょー",
+      "damage": "40+",
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]如果自己的成員在這個回合有交棒，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-019"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-020_U.png",
+    "name": "轟はじめ",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "奇想天外な盤面",
+      "effect": "這個成員在重置階段不需要改為休息狀態。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "悟ればいいんだ！",
+      "damage": 60,
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "[限定聯動位置]這個回合中，自己的中心成員藝能需要的白色吶喊卡數量-1。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-020"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-021_RR.png",
+    "name": "轟はじめ",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #ベイビー",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "ストイックダンサー",
+      "effect": "這個成員擊倒對手的成員時，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png"],
+      "name": "尽きることなき情熱",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "如果自己的成員在這個回合有交棒，這個藝能傷害+80。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-021"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-022_R.png",
+    "name": "角巻わため",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #ケモミミ / #歌",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "わためいとの楽園",
+      "effect": "選擇對手舞台上的1位成員。如果自己的holo能量有10張以上，這個回合中，剛才選擇的成員也視為2nd成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png"],
+      "name": "花がきれいだねぇ",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "如果自己的holo能量有4張以上，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-022"
+  },
+  {
     "image": "cardListImages/hEB01/hEB01-001_OSR.png",
     "name": "ときのそら",
     "type": "主推",
