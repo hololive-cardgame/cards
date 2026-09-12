@@ -41331,6 +41331,273 @@
     "id": "hBP09-022"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-023_R.png",
+    "name": "ベスティア・ゼータ",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 220,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "ゴシックゼータ",
+      "effect": "這個成員擊倒對手的成員時，如果自己的主推為「ベスティア・ゼータ」，擲2次骰子。如果擲出的點數總和與雙方的生命值總和相同，對手的生命值-1。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png","icons/arts_null.png"],
+      "name": "漆黒の諜報",
+      "damage": "120+",
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]如果這個回合有使用過自己的主推技能「Good Luck, holoh3ro!」，這個藝能傷害+80。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP09-023"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-024_R.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 240,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "照れ隠しの微笑",
+      "effect": "[限定中心位置]自己標示#FLOW GLOW的聯動成員藝能需要的所有吶喊卡顏色改為無色。"
+    },
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png"],
+      "name": "リーダーへのお返し",
+      "damage": "70+",
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]如果自己的舞台上有「虎金妃笑虎」、「水宮枢」、「輪堂千速」與「綺々羅々ヴィヴィ」，這個藝能傷害+100。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP09-024"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-025_C.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "カジュアルノエル",
+      "effect": "如果自己的主推持有主推舞台技能，這個成員的HP+20。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "今日はプライベート！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-025"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-026_U.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 140,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "マッスル・グレイス",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張Debut「白銀ノエル」與1張「牛丼」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "慈愛の鉄槌",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-026"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-027_C.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "団長出陣！",
+      "effect": "如果這個成員的HP沒有減少，1st成員對這個成員造成的藝能傷害-50。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "優しくて力持ち！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-027"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-028_C.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ノエルの冒険",
+      "effect": "從自己的牌組展示1張「牛丼」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "白銀聖騎士団集合！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-028"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-029_R.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 260,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png","icons/arts_null.png"],
+      "name": "BIG3懇親会 side N",
+      "damage": 100,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組展示1張2nd「白銀ノエル」並加入手牌。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP09-029"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-030_U.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 220,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "白銀聖騎士団を背負う者",
+      "effect": "自己的存檔區每有1張「牛丼」，自己的1位成員HP回復10點。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "頼もしき筋力",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "自己的存檔區每有1張「牛丼」，這個藝能傷害+10。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-030"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-031_RR.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 220,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "究極の牛丼道",
+      "effect": "[每個回合一次]這個成員因「牛丼」的效果回復的HP+100。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png","icons/arts_green.png","icons/arts_null.png"],
+      "name": "牛丼は～飲み物！",
+      "damage": "10+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果自己的主推為「白銀ノエル」，且這個成員剩餘的HP在200以上，這個藝能傷害+200。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-031"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-032_C.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "黒髪のケモミミ少女",
+      "effect": "可以展示自己手牌的1張吉祥物或粉絲並放回牌組上方：將自己吶喊牌組上方的1張牌發送給自己標示#ゲーマーズ的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "いってみぉーん",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-032"
+  },
+  {
     "image": "cardListImages/hEB01/hEB01-001_OSR.png",
     "name": "ときのそら",
     "type": "主推",
