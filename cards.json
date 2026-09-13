@@ -41598,6 +41598,549 @@
     "id": "hBP09-032"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-033_U.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "濡れ髪ミオしゃ",
+      "effect": "可以將自己牌組上方的1張牌放到存檔區：如果該牌為支援卡，將自己吶喊牌組上方的1張牌發送給自己的成員。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "火照る湯あみ",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-033"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-034_R.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 240,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "ミオしゃの行く道",
+      "effect": "可以將自己存檔區的吉祥物與粉絲總和2張依照喜歡的順序放回牌組上方：自己的1位成員HP回復100點。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png","icons/arts_null.png"],
+      "name": "うちと一緒にいこう！",
+      "damage": 110,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP09-034"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-035_RR.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "癒しの空間",
+      "effect": "如果自己的主推為「大神ミオ」，從自己的牌組抽3張牌，將2張手牌依照喜歡的順序放回牌組上方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "料理は愛情",
+      "damage": "180+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "可以將自己牌組上方的2張牌放到存檔區：選擇自己舞台上的1位成員。因這個效果每將1張支援卡放到存檔區，這個回合中，剛才選擇的成員藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-035"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-036_R.png",
+    "name": "風真いろは",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "百万一心",
+      "effect": "選擇自己舞台上的1位「AZKi」。從自己的吶喊牌組將1張與該成員相同顏色的吶喊卡發送給該成員。將吶喊牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "助太刀、感謝でござる！",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "自己的中心成員「AZKi」每有1張吶喊卡，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-036"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-037_R.png",
+    "name": "輪堂千速",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "綠",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "Fantastic Driver",
+      "effect": "這個成員擊倒對手的成員時，選擇自己1位標示#FLOW GLOW的後台成員。可以將該成員與所有重疊的成員返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png","icons/arts_null.png"],
+      "name": "Victory Feast",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "如果自己的主推為「輪堂千速」，自己的舞台上每有1位Debut以外的成員，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-037"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-038_C.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Blacksmith",
+      "effect": "如果這個成員帶有道具，從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "鍛冶にかける想い",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-038"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-039_U.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "Workaholic!",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示2張道具並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "資材集めはお任せ！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-039"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-040_C.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "クレーバーな仕事人",
+      "effect": "可以將自己存檔區1張標示#カエラ'sアームズ的道具返回手牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "終わらぬ探求",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-040"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-041_C.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "美しき装いの職人",
+      "effect": "如果這個成員帶著標示#カエラ'sアームズ的道具，這個成員藝能需要的紅色吶喊卡數量-1。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "兼ね備えた冷静と熱意",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果自己的Buzz成員或2nd成員帶著標示#カエラ'sアームズ的道具，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-041"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-042_R.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 240,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "森の賢者",
+      "effect": "這個成員擊倒對手的成員時，將自己存檔區的1張成員返回手牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "木立にひそむ神秘",
+      "damage": 70,
+      "specialAttackImage": null,
+      "effect": "將自己存檔區1張標示#カエラ'sアームズ的道具附加給這個成員。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP09-042"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-043_U.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "Happy Summer Days",
+      "effect": "如果自己的舞台上有2張以上標示#カエラ'sアームズ的道具，將自己存檔區的1張吶喊卡發送給自己的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "Vacation on Islands",
+      "damage": 60,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "給予對手的聯動成員30點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-043"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-044_RR.png",
+    "name": "カエラ・コヴァルスキア",
+    "type": "成員",
+    "tag": "#ID / #ID3期生",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "師から受け継ぎしもの",
+      "effect": "如果這個成員帶有道具，可以再將1張標示#カエラ'sアームズ的道具附加給這個成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "鍛冶屋の本懐",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果這個成員帶著標示#カエラ'sアームズ的道具，這個藝能傷害+60。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-044"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-045_R.png",
+    "name": "赤井はあと",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #料理",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "スイートはあちゃま",
+      "effect": "擲1次骰子。如果為奇數，給予對手的中心成員30點特殊傷害。如果為偶數，從自己的牌組抽2張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png","icons/arts_null.png"],
+      "name": "おいしいお菓子を作る！",
+      "damage": 170,
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "將自己存檔區的1張Debut「赤井はあと」放到舞台上。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-045"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-046_U.png",
+    "name": "百鬼あやめ",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "鬼の戯れ",
+      "effect": "可以將自己吶喊牌組上方的1張牌放到存檔區：從自己的牌組將1張Debut「百鬼あやめ」放到舞台上。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "鬼の宴",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-046"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-047_C.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": {
+      "name": "FUNNY RAT",
+      "effect": "如果自己的中心成員為「大空スバル」，從自己的牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "風船はいかが？",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果「大空スバル」在自己的舞台上，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-047"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-048_U.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "CHAOTIC INVITATION",
+      "effect": "如果自己的主推為「大空スバル」，從自己的牌組展示1張1st「大空スバル」與1張1st「ハコス・ベールズ」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ボクと楽しもうよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "擲1次骰子。如果為奇數，給予對手的聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-048"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-049_R.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "熱き取り調べ",
+      "effect": "如果自己的主推為「大空スバル」，這個成員藝能需要的無色吶喊卡數量-3。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "しらばっくれるな！",
+      "damage": 80,
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己的主推為「大空スバル」，將自己存檔區的1張「大空スバル」或「ハコス・ベールズ」返回手牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-049"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-050_RR.png",
+    "name": "ハコス・ベールズ",
+    "type": "成員",
+    "tag": "#EN / #Promise / #ケモミミ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紅",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "大空警察国際部代表",
+      "effect": "如果自己的主推為「大空スバル」，選擇對手的1位後台成員。將該成員與對手的聯動成員進行替換。如果對手沒有聯動成員，則將該成員移動到聯動位置。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ネズミの大捕り物",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_purple.png",
+      "effect": "自己的舞台上每有1位「大空スバル」，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-050"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-051_C.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "愛され系小悪魔",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "こういうのもいいでしょ？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員的1張吶喊卡轉移給自己標示#歌的後台成員。"
+    },
+    "extra": null,
+    "id": "hBP09-051"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-052_U.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "配信終わりのひととき",
+      "effect": "如果在自己後攻的第一個回合，將自己吶喊牌組上方的1張牌發送給自己的「常闇トワ」。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "この後なにしよっか？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-052"
+  },
+  {
     "image": "cardListImages/hEB01/hEB01-001_OSR.png",
     "name": "ときのそら",
     "type": "主推",
