@@ -6971,7 +6971,7 @@
     "type": "支援・物品",
     "tag": null,
     "product": "補充包「ブルーミングレディアンス (hBP01)」",
-    "supportEffect": "將自己holo能量區的1張牌放到存檔區才能使用。\n\n從自己的牌組展示1張與自己的主推相同顏色，Buzz以外的Debut成員或1st成員並加入手牌。將牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
+    "supportEffect": "將自己的1張holo能量放到存檔區才能使用。\n\n從自己的牌組展示1張與自己的主推相同顏色，Buzz以外的Debut成員或1st成員並加入手牌。將牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP01-103"
   },
   {
@@ -7052,7 +7052,7 @@
     "type": "支援・物品",
     "tag": null,
     "product": ["補充包「ブルーミングレディアンス (hBP01)」","起始牌組「青 猫又おかゆ (hSD03)」"],
-    "supportEffect": "將自己holo能量區的1張牌放到存檔區才能使用。\n\n從自己的吶喊牌組展示1張與自己1位成員相同顏色的吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
+    "supportEffect": "將自己的1張holo能量放到存檔區才能使用。\n\n從自己的吶喊牌組展示1張與自己1位成員相同顏色的吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP01-105"
   },
   {
@@ -12277,7 +12277,7 @@
     "type": "支援・活動",
     "tag": "#魔法",
     "product": "補充包「クインテットスペクトラム (hBP02)」",
-    "supportEffect": "將自己holo能量區的1張牌放到存檔區才能使用。\n\n將自己存檔區的1張紫色吶喊卡發送給自己的「紫咲シオン」。標示#魔法的活動每個回合只能使用一次。",
+    "supportEffect": "將自己的1張holo能量放到存檔區才能使用。\n\n將自己存檔區的1張紫色吶喊卡發送給自己的「紫咲シオン」。標示#魔法的活動每個回合只能使用一次。",
     "id": "hBP02-083"
   },
   {
@@ -17578,7 +17578,7 @@
     "type": "支援・物品",
     "tag": null,
     "product": "補充包「エリートスパーク (hBP03)」",
-    "supportEffect": "將自己holo能量區的1張牌放到存檔區才能使用。\n\n從自己的牌組展示1張與自己主推相同顏色的1st成員並加入手牌。將牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
+    "supportEffect": "將自己的1張holo能量放到存檔區才能使用。\n\n從自己的牌組展示1張與自己主推相同顏色的1st成員並加入手牌。將牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
     "id": "hBP03-084"
   },
   {
@@ -17794,7 +17794,7 @@
     "type": "支援・吉祥物",
     "tag": null,
     "product": "補充包「エリートスパーク (hBP03)」",
-    "supportEffect": "帶有這個吉祥物的成員藝能傷害+10。\n\n◆附加給「戌神ころね」有追加效果\n帶有這個吉祥物的成員被擊倒時，可以將自己holo能量區的1張牌放到存檔區：將這個吉祥物返回手牌。\n\n每位成員只能帶有1張吉祥物。",
+    "supportEffect": "帶有這個吉祥物的成員藝能傷害+10。\n\n◆附加給「戌神ころね」有追加效果\n帶有這個吉祥物的成員被擊倒時，可以將自己的1張holo能量放到存檔區：將這個吉祥物返回手牌。\n\n每位成員只能帶有1張吉祥物。",
     "id": "hBP03-103"
   },
   {
@@ -35528,7 +35528,7 @@
       "name": "あら、捕まえられちゃった！",
       "damage": "50+",
       "specialAttackImage": null,
-      "effect": "可以將自己holo能量區的1張牌放到存檔區：這個藝能傷害+30。"
+      "effect": "可以將自己的1張holo能量放到存檔區：這個藝能傷害+30。"
     },
     "art2": null,
     "extra": "這個成員被擊倒時，自己的生命值-2",
@@ -35555,7 +35555,7 @@
       "name": "あら、捕まえられちゃった！",
       "damage": "50+",
       "specialAttackImage": null,
-      "effect": "可以將自己holo能量區的1張牌放到存檔區：這個藝能傷害+30。"
+      "effect": "可以將自己的1張holo能量放到存檔區：這個藝能傷害+30。"
     },
     "art2": null,
     "extra": "這個成員被擊倒時，自己的生命值-2",
@@ -35681,7 +35681,7 @@
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
       "name": "桃鈴ねねは昆虫博士になる！",
-      "effect": "如果自己的holo能量區有4張以上，且對手沒有聯動成員，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。"
+      "effect": "如果自己的holo能量有4張以上，且對手沒有聯動成員，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。"
     },
     "effectB": null,
     "effectG": null,
@@ -35708,7 +35708,7 @@
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
       "name": "桃鈴ねねは昆虫博士になる！",
-      "effect": "如果自己的holo能量區有4張以上，且對手沒有聯動成員，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。"
+      "effect": "如果自己的holo能量有4張以上，且對手沒有聯動成員，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。"
     },
     "effectB": null,
     "effectG": null,
@@ -35735,7 +35735,7 @@
     "batonImage": ["icons/arts_null.png"],
     "effectC": {
       "name": "桃鈴ねねは昆虫博士になる！",
-      "effect": "如果自己的holo能量區有4張以上，且對手沒有聯動成員，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。"
+      "effect": "如果自己的holo能量有4張以上，且對手沒有聯動成員，對手要將1位後台成員移動到聯動位置(這個移動不視為聯動)。"
     },
     "effectB": null,
     "effectG": null,
@@ -42691,6 +42691,528 @@
     "art2": null,
     "extra": null,
     "id": "hBP09-072"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-073_C.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "歌に乗せる願い",
+      "effect": "[限定中心位置]如果自己的holo能量有2張以上，自己所有的「ネリッサ・レイヴンクロフト」受到的藝能傷害-30。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "魔力の調べ",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-073"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-074_U.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "魔人の秘儀",
+      "effect": "可以將自己存檔區1張標示#Advent的Debut成員或1st成員返回手牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "秘儀の加護",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "如果對1st以上的成員使用這個藝能，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-074"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-075_R.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "魔人のオフモード",
+      "effect": "[限定中心位置]使用了自己的主推技能時，這個回合中，自己的聯動成員「ネリッサ・レイヴンクロフト」藝能需要的紫色吶喊卡數量-1。"
+    },
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "安らぎの歌",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "如果自己的主推為「ネリッサ・レイヴンクロフト」，從自己的牌組抽1張牌，將自己的1張手牌放到holo能量區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-075"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-076_RR.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "魔人の臥所",
+      "effect": "可以將自己的1~3張holo能量放到存檔區：每將1張holo能量放到存檔區，這個回合中，自己舞台上所有標示#歌的成員藝能傷害+30。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_purple.png","icons/arts_null.png"],
+      "name": "妖艶なる音色",
+      "damage": 140,
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "使用這個藝能擊倒對手的成員時，將自己存檔區的1張「ネリッサ・レイヴンクロフト」返回手牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-076"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-077_C.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "カジュアルラミィ",
+      "effect": "擲1次骰子。如果為6，這個回合中，這個成員的藝能傷害+20。如果為1，將這個成員改為休息狀態。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "待った？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-077"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-078_U.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "熱を帯びた瞳",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組抽3張牌，將1張手牌放到存檔區。如果放到存檔區的牌沒有標示#ラミィのお酒，再將自己的1張手牌放到存檔區。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "晩酌のお誘い",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-078"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-079_C.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ねぽらぼのら担当",
+      "effect": "查看自己牌組上方的5張牌。展示1張標示#ラミィのお酒的支援卡並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "令嬢のウィンク",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果自己的成員帶有支援卡，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-079"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-080_C.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 190,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "やきもちユニーリア",
+      "effect": "將自己存檔區的1張吶喊卡發送給自己標示#お酒的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ラミィしか愛せないんじゃないの？",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-080"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-081_R.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "BIG3懇親会 side L",
+      "effect": "如果自己的存檔區中標示#ラミィのお酒的支援卡在1張以下，這個成員藝能需要的無色吶喊卡數量+1。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png"],
+      "name": "んー！ うますぎるー！",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員的2張吶喊卡放到存檔區：給予對手Debut以外的1位成員40點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-081"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-082_U.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "トレーニング完了",
+      "effect": "如果自己的存檔區有標示#ラミィのお酒的支援卡，將自己吶喊牌組上方的1張牌發送給自己的「雪花ラミィ」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "この後は至福の一杯で",
+      "damage": 130,
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-082"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-083_RR.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "顔が肝臓",
+      "effect": "如果自己的存檔區中標示#ラミィのお酒的支援卡在4張以下，這個成員藝能需要的無色吶喊卡數量+2。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "酒、酒、つまみ、酒、酒、酒！",
+      "damage": "160±",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "擲1次骰子。如果為6，這個藝能傷害+100。如果為1，這個藝能傷害-100。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-083"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-084_C.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 110,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "サプライズなプレゼント",
+      "effect": "可以將自己手牌1張標示LIMITED的支援卡放到存檔區：從自己的牌組將1~2張Debut「夏色まつり」放到舞台上。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "リボン、うれしいな",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-084"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-085_U.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "授業中にこっそり……",
+      "effect": "如果自己的主推為「夏色まつり」，可以將自己存檔區1張標示LIMITED的支援卡放回牌組下方：選擇自己舞台上的1位「夏色まつり」。這個回合中，該成員的藝能傷害+30。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "かわいく描けたから見てよ～",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-085"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-086_R.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "おまつり騒ぎ",
+      "effect": "如果自己的主推為「夏色まつり」，查看自己牌組上方的5張牌。展示1張標示LIMITED的支援卡並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "太鼓でわっしょーい！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-086"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-087_RR.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "あざとい清楚担当",
+      "effect": "如果自己的主推為黃色的「夏色まつり」，且自己舞台上的所有成員都為「夏色まつり」，可以將自己holo能量區上方的1張牌放到存檔區：這個回合中，標示LIMITED的支援卡可以使用2張。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "夏色まつりは清楚だよなぁ！？",
+      "damage": "60+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果自己的存檔區有5張以上標示LIMITED的支援卡，這個藝能傷害+60。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-087"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-088_R.png",
+    "name": "桃鈴ねね",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #歌 / #絵",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 180,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "キミと二度寝",
+      "effect": "如果自己的主推為「桃鈴ねね」，這個成員一次不會受到200點以上的藝能傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png"],
+      "name": "布団にもぐりこんじゃうぞ",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "將自己存檔區的吶喊卡發送給自己1~2位標示#5期生的成員，每人各1張。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-088"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-089_R.png",
+    "name": "アユンダ・リス",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #ケモミミ / #歌",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "この情熱が私達！",
+      "effect": "如果自己的舞台上有綠色吶喊卡、藍色吶喊卡與黃色吶喊卡，選擇自己1位標示#ID1期生的成員。這個回合中，該成員的藝能傷害+30。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "世界に響く美声",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "如果自己主推的顏色為綠色、藍色或黃色，將自己吶喊牌組上方的1張牌發送給自己標示#ID1期生的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-089"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-090_C.png",
+    "name": "コラボパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "將自己的1張holo能量放到存檔區才能使用。\n\n從自己的牌組展示1張與自己主推相同卡名且有聯動效果的成員並加入手牌。將牌組重新洗牌。",
+    "id": "hBP09-090"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-091_U.png",
+    "name": "あずいろ BESTIE DAYS",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「AZKi」或「風真いろは」，且自己的成員在之前對手回合中沒有被擊倒才能使用。\n\n從自己的牌組將1張1st「AZKi」與1張1st「風真いろは」放到舞台上。將牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-091"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-092_C.png",
+    "name": "雨の日ヴィヴィ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「綺々羅々ヴィヴィ」才能使用。\n\n雙方從各自的牌組抽2張牌。之後，如果對手的手牌在7張以上，這個回合中，自己舞台上所有的「綺々羅々ヴィヴィ」藝能傷害+30。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-092"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-093_C.png",
+    "name": "応援するホロリス",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "選擇自己舞台上的1~2張吶喊卡，分配給自己的成員。之後，如果有吶喊卡的成員在4位以上，將自己存檔區的1張吶喊卡發送給自己的成員。",
+    "id": "hBP09-093"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-094_U.png",
+    "name": "大空警察",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「大空スバル」，且自己的成員在之前對手回合中被擊倒才能使用。\n\n選擇對手的1位後台成員。將該成員改為休息狀態。下個對手的重置階段，該成員不能改為活動狀態。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-094"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-095_C.png",
+    "name": "君に乾杯",
+    "type": "支援・活動",
+    "tag": "#ラミィのお酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「雪花ラミィ」才能使用。\n\n選擇對手的中心成員或聯動成員。給予該成員10點特殊傷害。如果自己的存檔區有2張以上的「君に乾杯」，則給予該成員40點特殊傷害。\n\n「君に乾杯」每個回合只能使用一次。",
+    "id": "hBP09-095"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-096_U.png",
+    "name": "コンコ コンコンコ コンコンコン",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "選擇自己舞台上1位標示#ReGLOSS的成員。這個回合中，該成員交棒需要的無色吶喊卡數量-1。之後，將自己存檔區的1張吶喊卡發送給自己後台的「轟はじめ」。",
+    "id": "hBP09-096"
   },
   {
     "image": "cardListImages/hEB01/hEB01-001_OSR.png",
