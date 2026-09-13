@@ -41007,6 +41007,33 @@
     "id": "hBP09-010"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-010_P.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "PR卡",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "高まるテンション",
+      "effect": "從自己的牌組抽2張牌，將2張手牌依照喜歡的順序放回牌組下方。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "ここから盛り上がるっスよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "將對手舞台上的1張道具放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-010"
+  },
+  {
     "image": "cardListImages/hBP09/hBP09-011_C.png",
     "name": "大空スバル",
     "type": "成員",
@@ -42936,6 +42963,33 @@
     "id": "hBP09-081"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-081_P.png",
+    "name": "雪花ラミィ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ハーフエルフ / #お酒",
+    "product": "PR卡",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "BIG3懇親会 side L",
+      "effect": "如果自己的存檔區中標示#ラミィのお酒的支援卡在1張以下，這個成員藝能需要的無色吶喊卡數量+1。"
+    },
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_yellow.png"],
+      "name": "んー！ うますぎるー！",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員的2張吶喊卡放到存檔區：給予對手Debut以外的1位成員40點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-081"
+  },
+  {
     "image": "cardListImages/hBP09/hBP09-082_U.png",
     "name": "雪花ラミィ",
     "type": "成員",
@@ -43213,6 +43267,151 @@
     "product": "補充包「ボリュームヴォルテックス (hBP09)」",
     "supportEffect": "選擇自己舞台上1位標示#ReGLOSS的成員。這個回合中，該成員交棒需要的無色吶喊卡數量-1。之後，將自己存檔區的1張吶喊卡發送給自己後台的「轟はじめ」。",
     "id": "hBP09-096"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-097_U.png",
+    "name": "コンビプレイ",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "從自己的牌組抽2張牌。之後，將自己舞台上的1張吶喊卡放回吶喊牌組下方，從自己的吶喊牌組將1張吶喊卡發送給自己的成員。將吶喊牌組重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-097"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-098_C.png",
+    "name": "スイカバブル",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "從自己的牌組抽4張牌。之後，如果自己的存檔區有標示LIMITED的支援卡，將自己的4張手牌依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-098"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-099_C.png",
+    "name": "スピード違反",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「大空スバル」，且自己舞台上的吶喊卡數量比對手少時才能使用。\n\n將自己存檔區的2張吶喊卡發送給自己的1位成員。",
+    "id": "hBP09-099"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-100_U.png",
+    "name": "ノエルの特盛牛丼",
+    "type": "支援・活動",
+    "tag": "#食べ物",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "選擇自己舞台上的1位「白銀ノエル」。這個回合中，該成員的藝能傷害+10。如果該成員是Buzz成員或2nd成員，該成員HP回復50點。",
+    "extra": "這個活動也視為「牛丼」",
+    "id": "hBP09-100"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-101_U.png",
+    "name": "バカ！変態！うるさーい！もう知らなーい！",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「常闇トワ」才能使用。\n\n給予對手的中心成員20點特殊傷害。之後，這個回合中，自己的「常闇トワ」使用的第三個藝能可以選擇對手Debut以外的後台成員為對象。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-101"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-102_C.png",
+    "name": "ばんちょーダンス",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「轟はじめ」才能使用。\n\n將自己牌組上方的2張牌放到holo能量區。之後，查看自己的holo能量區。將其中的1~2張牌加入手牌。將holo能量區重新洗牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-102"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-103_C.png",
+    "name": "変な動き",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「白銀ノエル」才能使用。\n\n將自己存檔區的1張「白銀ノエル」與1張「牛丼」返回手牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-103"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-104_C.png",
+    "name": "ホロライブ体力王決定戦",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "這個回合中，自己舞台上剩餘HP最高的所有成員藝能傷害+30。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-104"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-105_U.png",
+    "name": "BIG3",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "自己的主推為「大空スバル」、「白銀ノエル」或「雪花ラミィ」才能使用。\n\n從自己的牌組抽2張牌。，之後，查看自己牌組上方的3張牌。展示1張與自己主推相同卡名的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-105"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-105_P.png",
+    "name": "BIG3",
+    "type": "支援・活動",
+    "tag": null,
+    "product": "PR卡",
+    "supportEffect": "自己的主推為「大空スバル」、「白銀ノエル」或「雪花ラミィ」才能使用。\n\n從自己的牌組抽2張牌。，之後，查看自己牌組上方的3張牌。展示1張與自己主推相同卡名的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hBP09-105"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-106_C.png",
+    "name": "カエラが作ったホロシールド",
+    "type": "支援・道具",
+    "tag": "#カエラ'sアームズ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "帶有這個道具的Buzz或2nd「カエラ・コヴァルスキア」HP+40。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP09-106"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-107_U.png",
+    "name": "カエラが作ったホロソード",
+    "type": "支援・道具",
+    "tag": "#カエラ'sアームズ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "帶有這個道具的Buzz或2nd「カエラ・コヴァルスキア」藝能傷害+40。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP09-107"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-108_C.png",
+    "name": "常闇トワのブレイクマイク",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "帶有這個道具的「常闇トワ」藝能傷害+20。\n\n◆附加給2nd「常闇トワ」有追加效果\n這個成員持有的所有藍色吶喊卡也視為紫色吶喊卡。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP09-108"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-109_U.png",
+    "name": "メイクアップ",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "帶有這個道具的「綺々羅々ヴィヴィ」藝能傷害+20。\n\n◆附加給1st以上的「綺々羅々ヴィヴィ」有追加效果\n[限定中心位置]自己的表演階段結束時，可以使用自己手牌的成員將這個回合綻放過的1位標示#FLOW GLOW的成員再次進行綻放。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP09-109"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-110_U.png",
+    "name": "雪夜月",
+    "type": "支援・道具",
+    "tag": "#ラミィのお酒",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "◆附加給「雪花ラミィ」有追加效果\n自己的表演階段結束時，如果這個成員在這個回合有使用過藝能，將這個成員帶有的1張「雪夜月」放到存檔區，從自己的牌組抽1張牌。\n\n每位成員只能帶有1張道具。",
+    "id": "hBP09-110"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-111_C.png",
+    "name": "Pemaloe",
+    "type": "支援・粉絲",
+    "tag": null,
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "supportEffect": "對手回合中，帶有這個粉絲的成員被擊倒時，將這個成員的1張吶喊卡，轉移給自己其他的成員。\n\n這個粉絲只能附加給「カエラ・コヴァルスキア」，每位成員可以帶有任意數量的粉絲。",
+    "id": "hBP09-111"
   },
   {
     "image": "cardListImages/hEB01/hEB01-001_OSR.png",
