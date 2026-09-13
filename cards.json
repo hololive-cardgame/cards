@@ -32069,7 +32069,7 @@
     "life": 5,
     "stageSkill":{
       "name": "ETERNiTY FRONTiER",
-      "effect": "自己的holo能量區每有1張牌，自己的中心成員「AZKi」藝能傷害+20。"
+      "effect": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。"
     },
     "oshiSkill": {
       "holoPower": -1,
@@ -32088,7 +32088,7 @@
     "life": 5,
     "stageSkill":{
       "name": "ETERNiTY FRONTiER",
-      "effect": "自己的holo能量區每有1張牌，自己的中心成員「AZKi」藝能傷害+20。"
+      "effect": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。"
     },
     "oshiSkill": {
       "holoPower": -1,
@@ -32107,7 +32107,7 @@
     "life": 5,
     "stageSkill":{
       "name": "ETERNiTY FRONTiER",
-      "effect": "自己的holo能量區每有1張牌，自己的中心成員「AZKi」藝能傷害+20。"
+      "effect": "自己每有1張holo能量，自己的中心成員「AZKi」藝能傷害+20。"
     },
     "oshiSkill": {
       "holoPower": -1,
@@ -42139,6 +42139,558 @@
     "art2": null,
     "extra": null,
     "id": "hBP09-052"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-053_C.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "ストリートトワ",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "常闇眷属と過ごすひととき",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hBP09-053"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-054_C.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "華麗なバイオレット",
+      "effect": "將自己吶喊牌組上方的1張牌發送給自己的「常闇トワ」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "情熱のパレット",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "如果標示#歌的2nd成員在自己的舞台上，給予對手的1位成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-054"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-055_R.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "小悪魔のほほ笑み",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "今、寝てたでしょ～？",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "如果這個藝能是這個回合使用的第二個藝能，可以將這個成員的1張吶喊卡轉移給自己其他標示#歌的成員。"
+    },
+    "extra": null,
+    "id": "hBP09-055"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-056_U.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "闘志あふれるファイター",
+      "damage": 40,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "將自己存檔區的1張吶喊卡發送給自己標示#歌的成員。"
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "研鑽の果ての一撃",
+      "damage": 50,
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "如果這個藝能是這個回合使用的第二個藝能，將自己牌組上方的1張牌放到holo能量區。"
+    },
+    "extra": null,
+    "id": "hBP09-056"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-057_RR.png",
+    "name": "常闇トワ",
+    "type": "成員",
+    "tag": "#JP / #4期生 / #歌 / #シューター",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "魔界学校の優等生",
+      "damage": 70,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果這個藝能是這個回合使用的第二個藝能，查看自己牌組上方的4張牌。展示1張支援卡並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "art2": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "一人前の悪魔になるために",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "如果這個藝能是這個回合使用的第三個藝能，給予對手的1位成員50點特殊傷害。"
+    },
+    "extra": null,
+    "id": "hBP09-057"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-058_R.png",
+    "name": "猫又おかゆ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ほろ酔いおかゆん",
+      "effect": "如果自己的主推為「猫又おかゆ」，將自己吶喊牌組上方的1張牌發送給自己的「猫又おかゆ」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "猫とまどろむ夜",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "給予對手的1位成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-058"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-059_C.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "月の歌い手",
+      "effect": "對手回合中，自己的「ムーナ・ホシノヴァ」被擊倒時，將自己吶喊牌組上方的1張牌發送給自己這個成員以外標示#ID1期生的後台成員。「月の歌い手」每個回合只能使用一次。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "魂揺らすシャウト",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-059"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-060_U.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "大人びた大学生",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#ID1期生的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png"],
+      "name": "今日はお姉さんモード",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "給予對手的中心成員與聯動成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-060"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-061_R.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "月の女神",
+      "effect": "如果自己的主推為「ムーナ・ホシノヴァ」，將自己吶喊牌組上方的1張牌發送給這個成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_blue.png"],
+      "name": "月影照らす道標",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": "將這個成員的2張吶喊卡轉移給自己1位標示#ID1期生的後台成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-061"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-062_RR.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "夜を照らす光",
+      "effect": "這個成員擊倒對手的成員時，如果自己的舞台上有5位以上標示#ID1期生的成員，給予對手的1位成員50點特殊傷害。"
+    },
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png","icons/arts_blue.png","icons/arts_blue.png","icons/arts_blue.png"],
+      "name": "魅惑の佇まい",
+      "damage": "120+",
+      "specialAttackImage": "icons/tokkou_50_red.png",
+      "effect": "如果自己的主推為「ムーナ・ホシノヴァ」，可以將這個成員的5張藍色吶喊卡放到存檔區：自己的舞台上每有1位標示#ID1期生的成員，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-062"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-063_R.png",
+    "name": "オーロ・クロニー",
+    "type": "成員",
+    "tag": "#EN / #Promise",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Student of Time",
+      "effect": "從自己的牌組下方抽1張牌。「Student of Time」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png"],
+      "name": "Let's Study Together!",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組將1張「Boros」或「Kronies」附加給自己的「オーロ・クロニー」。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-063"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-064_C.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "もう離せへんで～",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "如果對手的手牌在4張以上，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-064"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-065_U.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "キラキラなプレゼント",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示2張「綺々羅々ヴィヴィ」並加入手牌。將牌組重新洗牌。對手從牌組抽1張牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "喜んでくれたらヴィヴィもうれしい！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-065"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-066_C.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ラッキッキーな呼び出し",
+      "effect": "這個回合中，這個成員的藝能傷害+20。如果對手的手牌在7張以上，則這個回合中，自己舞台上所有的「綺々羅々ヴィヴィ」藝能傷害+20。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "買い物つきあってー！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-066"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-067_C.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "あまあまヴィヴィ",
+      "effect": "如果自己的主推為「綺々羅々ヴィヴィ」，從自己的牌組抽2張牌，對手從牌組抽1張牌。「あまあまヴィヴィ」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "早くこっちに来て～",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-067"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-068_R.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "コスメへのこだわり",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_purple.png","icons/arts_purple.png"],
+      "name": "これ、試してみようかな",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": "如果這個成員帶有「メイクアップ」，從自己的牌組展示1張標示#FLOW GLOW的成員並加入手牌。將牌組重新洗牌。"
+    },
+    "extra": null,
+    "id": "hBP09-068"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-069_U.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "12人目の選手",
+      "effect": "如果對手的手牌在7張以上，這個成員受到的藝能傷害-50。"
+    },
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "ヴィヴィはディフェンス推しやで！",
+      "damage": 100,
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-069"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-070_RR.png",
+    "name": "綺々羅々ヴィヴィ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "ストロングコミュニケーター",
+      "effect": "[限定中心位置]如果對手的手牌在7張以上，這個成員藝能需要的無色吶喊卡數量-2。"
+    },
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "ヴィヴェイシャスヴィジョン",
+      "damage": "120+",
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "如果對手的手牌在7張以上，這個藝能傷害+70。如果對手的手牌在10張以上，則這個藝能傷害+100。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-070"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-071_R.png",
+    "name": "AZKi",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "開拓の旅路を歩む少女",
+      "effect": "選擇自己舞台上的1位「風真いろは」。這個回合中，自己每有1張holo能量，該成員的藝能傷害+10。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "輝く出会い",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "如果「風真いろは」在自己的舞台上，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-071"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-072_R.png",
+    "name": "クレイジー・オリー",
+    "type": "成員",
+    "tag": "#ID / #ID2期生 / #語学",
+    "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "紫",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ダンス・マカブル",
+      "effect": "如果自己的成員在這個回合從存檔區綻放，從自己的牌組抽2張牌。「ダンス・マカブル」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "青き花吹雪の祝福",
+      "damage": "30+",
+      "specialAttackImage": null,
+      "effect": "如果自己的成員在這個回合從存檔區綻放，這個藝能傷害+30。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-072"
   },
   {
     "image": "cardListImages/hEB01/hEB01-001_OSR.png",
