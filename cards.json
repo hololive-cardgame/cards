@@ -25358,7 +25358,7 @@
       "name": "Non-Limit Boost",
       "damage": 50,
       "specialAttackImage": "icons/tokkou_50_purple.png",
-      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
+      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有其中1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
     },
     "art2": {
       "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
@@ -25388,7 +25388,7 @@
       "name": "Non-Limit Boost",
       "damage": 50,
       "specialAttackImage": "icons/tokkou_50_purple.png",
-      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
+      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有其中1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
     },
     "art2": {
       "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
@@ -25418,7 +25418,7 @@
       "name": "Non-Limit Boost",
       "damage": 50,
       "specialAttackImage": "icons/tokkou_50_purple.png",
-      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
+      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有其中1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
     },
     "art2": {
       "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
@@ -25448,7 +25448,7 @@
       "name": "Non-Limit Boost",
       "damage": 50,
       "specialAttackImage": "icons/tokkou_50_purple.png",
-      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
+      "effect": "如果這個成員有紅色吶喊卡與藍色吶喊卡，可以將自己存檔區的2張吶喊卡發送給這個成員。如果只有其中1種顏色的吶喊卡，可以將自己存檔區的1張吶喊卡發送給這個成員。"
     },
     "art2": {
       "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
