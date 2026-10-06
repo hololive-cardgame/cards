@@ -13415,6 +13415,30 @@
     "id": "hBP03-016"
   },
   {
+    "image": "cardListImages/hBP03/hBP03-016_P_02.png",
+    "name": "獅白ぼたん",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ケモミミ / #シューター",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ららーいおん♪",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-016"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-017_U.png",
     "name": "獅白ぼたん",
     "type": "成員",
@@ -13584,6 +13608,33 @@
   },
   {
     "image": "cardListImages/hBP03/hBP03-020_P.png",
+    "name": "獅白ぼたん",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ケモミミ / #シューター",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 110,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "SSSSR",
+      "effect": "將自己吶喊牌組上方的1張牌，發送給自己的後台成員「獅白ぼたん」。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_null.png"],
+      "name": "ショッピングカートで来た",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP03-020"
+  },
+  {
+    "image": "cardListImages/hBP03/hBP03-020_P_02.png",
     "name": "獅白ぼたん",
     "type": "成員",
     "tag": "#JP / #5期生 / #ケモミミ / #シューター",
@@ -20946,6 +20997,30 @@
     "type": "成員",
     "tag": "#JP / #秘密結社holoX / #シューター",
     "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": [],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "貴様ら、刮目せよ！！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP04-054"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP04-054_P_02.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター",
+    "product": "PR卡",
     "color": "紫",
     "hp": 100,
     "bloom": "Debut",
@@ -35474,6 +35549,33 @@
     "type": "成員",
     "tag": "#JP / #秘密結社holoX / #シューター / #歌",
     "product": "補充包「ディーヴァフィーバー (hBP07)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ライブだー！！！！！！！！！",
+      "effect": "這個回合中，這個成員的藝能需要的無色吶喊卡數量-2。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "吾輩の歌聴いてくれる奴いるううう！？！？",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組展示1張「ラプラス・ダークネス」並加入手牌。將牌組重新洗牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-073"
+  },
+  {
+    "image": "cardListImages/hBP07/hBP07-073_P.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター / #歌",
+    "product": "PR卡",
     "color": "紫",
     "hp": 170,
     "bloom": "1st",
