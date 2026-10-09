@@ -5385,6 +5385,33 @@
     "id": "hBP01-071"
   },
   {
+    "image": "cardListImages/hCO03/hBP01-071_SR.png",
+    "name": "尾丸ポルカ",
+    "type": "成員",
+    "tag": "#JP / #5期生 / #ケモミミ",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションB",
+    "color": "紅",
+    "hp": 240,
+    "bloom": "1st Buzz",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ポルカイリュージョン",
+      "effect": "可以將自己存檔區的1張「座員」返回手牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "ポルカサーカス",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "自己所有的成員每帶有1張粉絲，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": "這個成員被擊倒時，自己的生命值-2",
+    "id": "hBP01-071"
+  },
+  {
     "image": "cardListImages/hBP01/hBP01-072_C.png",
     "name": "ハコス・ベールズ",
     "type": "成員",
@@ -7969,6 +7996,33 @@
     "type": "成員",
     "tag": "#JP / #1期生 / #ゲーマーズ / #ケモミミ / #絵",
     "product": "PR卡",
+    "color": "白",
+    "hp": 120,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "白上から目をそらしちゃ",
+      "effect": "從自己的牌組展示1張標示#白上'sキャラクター的牌並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ダメですよっ！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP02-011"
+  },
+  {
+    "image": "cardListImages/hCO02/hBP02-011_SR_03.png",
+    "name": "白上フブキ",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #ゲーマーズ / #ケモミミ / #絵",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションA",
     "color": "白",
     "hp": 120,
     "bloom": "1st",
@@ -18781,6 +18835,33 @@
     "id": "hBP04-012"
   },
   {
+    "image": "cardListImages/hCO03/hBP04-012_SR_03.png",
+    "name": "博衣こより",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #ケモミミ",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションB",
+    "color": "白",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "はい！ はい！ はい！ はい！",
+      "effect": "從自己的牌組展示1張標示#こよラボ的支援卡並加入手牌。將牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "助手くんとこよはずっと一緒だよ！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "這個成員帶有「こよりの助手くん」時，從自己的牌組抽1張牌。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP04-012"
+  },
+  {
     "image": "cardListImages/hBP04/hBP04-013_RR.png",
     "name": "博衣こより",
     "type": "成員",
@@ -19770,6 +19851,33 @@
     "type": "成員",
     "tag": "#DEV_IS / #ReGLOSS / #料理 / #語学",
     "product": "補充包「キュリアスユニバース (hBP04)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "限界飯料理人",
+      "effect": "可以將自己存檔區的1張「限界飯」返回手牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png"],
+      "name": "社長パンチ",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "給予對手的聯動成員20點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP04-035"
+  },
+  {
+    "image": "cardListImages/hCO03/hBP04-035_SR.png",
+    "name": "一条莉々華",
+    "type": "成員",
+    "tag": "#DEV_IS / #ReGLOSS / #料理 / #語学",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションB",
     "color": "紅",
     "hp": 130,
     "bloom": "1st",
@@ -27558,6 +27666,15 @@
     "id": "hBP05-074"
   },
   {
+    "image": "cardListImages/hBP05/hBP05-074_P_03.png",
+    "name": "フレンドリーパソコン",
+    "type": "支援・物品",
+    "tag": null,
+    "product": "PR卡",
+    "supportEffect": "從自己的牌組展示1~2張特殊規則為「這個成員沒有張數限制」的Debut成員，放到舞台上。將牌組重新洗牌。如果將2張Debut成員放到舞台上，再將自己的1張手牌放回牌組下方。",
+    "id": "hBP05-074"
+  },
+  {
     "image": "cardListImages/hBP05/hBP05-075_C.png",
     "name": "牛丼",
     "type": "支援・活動",
@@ -28565,6 +28682,33 @@
     "type": "成員",
     "tag": "#DEV_IS / #FLOW GLOW",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "白",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "ストイック負けず嫌い王",
+      "effect": "如果自己的主推為「響咲リオナ」，可以將自己牌組上方的1張牌放到存檔區：從自己的牌組抽1張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png"],
+      "name": "意外と熱血タイプ？",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "將自己牌組上方的1張牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-019"
+  },
+  {
+    "image": "cardListImages/hCO02/hBP06-019_SR.png",
+    "name": "響咲リオナ",
+    "type": "成員",
+    "tag": "#DEV_IS / #FLOW GLOW",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションA",
     "color": "白",
     "hp": 150,
     "bloom": "1st",
@@ -30581,6 +30725,33 @@
     "type": "成員",
     "tag": "#EN / #Myth / #歌",
     "product": "補充包「アヤカシヴァーミリオン (hBP06)」",
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "お泊りパーリナイ!",
+      "effect": "如果自己的舞台上有3位以上標示#EN的成員，從自己的吶喊牌組展示1張藍色吶喊卡或紫色吶喊卡，發送給自己的成員。將吶喊牌組重新洗牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "まどろみの中で",
+      "damage": 80,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP06-059"
+  },
+  {
+    "image": "cardListImages/hCO03/hBP06-059_SR.png",
+    "name": "森カリオペ",
+    "type": "成員",
+    "tag": "#EN / #Myth / #歌",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションB",
     "color": "藍",
     "hp": 160,
     "bloom": "1st",
@@ -35517,6 +35688,33 @@
     "id": "hBP07-072"
   },
   {
+    "image": "cardListImages/hCO03/hBP07-072_SR.png",
+    "name": "ラプラス・ダークネス",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #シューター",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションB",
+    "color": "紫",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "Secret Love -La+-",
+      "effect": "選擇自己舞台上1位標示#秘密結社holoX的成員，擲3次骰子。這個回合中，因這個效果每出現1次奇數，剛才選擇的成員藝能傷害+10。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "吾輩との秘密だぞ",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP07-072"
+  },
+  {
     "image": "cardListImages/hBP07/hBP07-073_R.png",
     "name": "ラプラス・ダークネス",
     "type": "成員",
@@ -39928,6 +40126,33 @@
     "id": "hBP08-071"
   },
   {
+    "image": "cardListImages/hCO03/hBP08-071_SR.png",
+    "name": "一伊那尓栖",
+    "type": "成員",
+    "tag": "#EN / #Myth / #絵 / #海",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションB",
+    "color": "紫",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "TOMORROW!?",
+      "effect": "給予對手1位與其主推不同顏色的成員20點特殊傷害。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png","icons/arts_null.png"],
+      "name": "Bonk!",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-071"
+  },
+  {
     "image": "cardListImages/hBP08/hBP08-072_R.png",
     "name": "一伊那尓栖",
     "type": "成員",
@@ -41055,6 +41280,82 @@
     "id": "hBP09-001"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-001_P_02.png",
+    "name": "大空スバル",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "stageSkill":{
+      "name": "秩序を守る署長",
+      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "大空警察出動！",
+      "effect": "[每個回合一次]選擇對手舞台上的1位成員。從自己的牌組將1張與剛才選擇的成員相同綻放等級的「大空スバル」放到舞台上。將牌組重新洗牌。"
+    },
+    "spSkill": null,
+    "id": "hBP09-001"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-001_P_03.png",
+    "name": "大空スバル",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "stageSkill":{
+      "name": "秩序を守る署長",
+      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "大空警察出動！",
+      "effect": "[每個回合一次]選擇對手舞台上的1位成員。從自己的牌組將1張與剛才選擇的成員相同綻放等級的「大空スバル」放到舞台上。將牌組重新洗牌。"
+    },
+    "spSkill": null,
+    "id": "hBP09-001"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-001_P_04.png",
+    "name": "大空スバル",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "stageSkill":{
+      "name": "秩序を守る署長",
+      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "大空警察出動！",
+      "effect": "[每個回合一次]選擇對手舞台上的1位成員。從自己的牌組將1張與剛才選擇的成員相同綻放等級的「大空スバル」放到舞台上。將牌組重新洗牌。"
+    },
+    "spSkill": null,
+    "id": "hBP09-001"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-001_P_05.png",
+    "name": "大空スバル",
+    "type": "主推",
+    "product": "PR卡",
+    "color": "白",
+    "life": 5,
+    "stageSkill":{
+      "name": "秩序を守る署長",
+      "effect": "自己所有的「大空スバル」藝能需要的白色吶喊卡數量-1。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "大空警察出動！",
+      "effect": "[每個回合一次]選擇對手舞台上的1位成員。從自己的牌組將1張與剛才選擇的成員相同綻放等級的「大空スバル」放到舞台上。將牌組重新洗牌。"
+    },
+    "spSkill": null,
+    "id": "hBP09-001"
+  },
+  {
     "image": "cardListImages/hBP09/hBP09-002_OSR.png",
     "name": "轟はじめ",
     "type": "主推",
@@ -41556,6 +41857,33 @@
     "type": "成員",
     "tag": "#JP / #2期生 / #トリ",
     "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "白",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "BIG3懇親会 side S",
+      "effect": "如果自己的主推為「大空スバル」，且對手的holo能量有2張以上，將自己牌組上方的1張牌放到holo能量區。「BIG3懇親会 side S」每個回合只能使用一次。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_white.png","icons/arts_null.png"],
+      "name": "もつのおかわりください",
+      "damage": "80+",
+      "specialAttackImage": null,
+      "effect": "如果自己的成員在之前對手回合中被擊倒，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-012"
+  },
+  {
+    "image": "cardListImages/hCO02/hBP09-012_SR.png",
+    "name": "大空スバル",
+    "type": "成員",
+    "tag": "#JP / #2期生 / #トリ",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションA",
     "color": "白",
     "hp": 160,
     "bloom": "1st",
@@ -44353,6 +44681,33 @@
     "id": "hBP09-075"
   },
   {
+    "image": "cardListImages/hCO02/hBP09-075_SR.png",
+    "name": "ネリッサ・レイヴンクロフト",
+    "type": "成員",
+    "tag": "#EN / #Advent / #歌 / #トリ",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションA",
+    "color": "紫",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "魔人のオフモード",
+      "effect": "[限定中心位置]使用了自己的主推技能時，這個回合中，自己的聯動成員「ネリッサ・レイヴンクロフト」藝能需要的紫色吶喊卡數量-1。"
+    },
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "安らぎの歌",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": "如果自己的主推為「ネリッサ・レイヴンクロフト」，從自己的牌組抽1張牌，將自己的1張手牌放到holo能量區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-075"
+  },
+  {
     "image": "cardListImages/hBP09/hBP09-076_RR.png",
     "name": "ネリッサ・レイヴンクロフト",
     "type": "成員",
@@ -44790,6 +45145,33 @@
     "type": "成員",
     "tag": "#JP / #1期生 / #シューター",
     "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "授業中にこっそり……",
+      "effect": "如果自己的主推為「夏色まつり」，可以將自己存檔區1張標示LIMITED的支援卡放回牌組下方：選擇自己舞台上的1位「夏色まつり」。這個回合中，該成員的藝能傷害+30。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png","icons/arts_null.png"],
+      "name": "かわいく描けたから見てよ～",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-085"
+  },
+  {
+    "image": "cardListImages/hCO02/hBP09-085_SR.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションA",
     "color": "黃",
     "hp": 140,
     "bloom": "1st",
@@ -51957,6 +52339,33 @@
     "type": "成員",
     "tag": "#EN / #Advent / #ベイビー",
     "product": "起始牌組「推し Advent (hSD12)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "賑やかな家族",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#Advent的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "とっても感謝してるの",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD12-009"
+  },
+  {
+    "image": "cardListImages/hCO02/hSD12-009_SR.png",
+    "name": "古石ビジュー",
+    "type": "成員",
+    "tag": "#EN / #Advent / #ベイビー",
+    "product": "エクストリーマーカップ25-26 Final オフィシャルホロカコレクションA",
     "color": "紫",
     "hp": 130,
     "bloom": "1st",
