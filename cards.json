@@ -54598,6 +54598,25 @@
     "id": "hSD19-010"
   },
   {
+    "image": "cardListImages/hSD20/hSD20-001_OSR.png",
+    "name": "百灯キョーコ",
+    "type": "主推",
+    "product": "起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」",
+    "color": "紅",
+    "life": 5,
+    "stageSkill":{
+      "name": "広がる情熱",
+      "effect": "自己的成員聯動時，如果自己的中心成員為「百灯キョーコ」，將自己吶喊牌組上方的1張牌發送給自己的聯動成員。"
+    },
+    "oshiSkill": {
+      "holoPower": -3,
+      "name": "ヒーローポリス疾走！",
+      "effect": "[每個回合一次]自己的舞台上每有1張吶喊卡，給予對手Debut以外的中心成員與聯動成員10點特殊傷害。"
+    },
+    "spSkill": null,
+    "id": "hSD20-001"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
