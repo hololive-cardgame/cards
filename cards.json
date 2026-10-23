@@ -42728,6 +42728,33 @@
     "id": "hBP09-031"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-031_P.png",
+    "name": "白銀ノエル",
+    "type": "成員",
+    "tag": "#JP / #3期生 / #お酒",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 220,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "究極の牛丼道",
+      "effect": "[每個回合一次]這個成員因「牛丼」的效果回復的HP+100。"
+    },
+    "art1": {
+      "image": ["icons/arts_green.png","icons/arts_green.png","icons/arts_green.png","icons/arts_null.png"],
+      "name": "牛丼は～飲み物！",
+      "damage": "10+",
+      "specialAttackImage": "icons/tokkou_50_blue.png",
+      "effect": "如果自己的主推為「白銀ノエル」，且這個成員剩餘的HP在200以上，這個藝能傷害+200。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-031"
+  },
+  {
     "image": "cardListImages/hBP09/hBP09-032_C.png",
     "name": "大神ミオ",
     "type": "成員",
@@ -45217,6 +45244,33 @@
     "type": "成員",
     "tag": "#JP / #1期生 / #シューター",
     "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "黃",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "おまつり騒ぎ",
+      "effect": "如果自己的主推為「夏色まつり」，查看自己牌組上方的5張牌。展示1張標示LIMITED的支援卡並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_yellow.png"],
+      "name": "太鼓でわっしょーい！",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-086"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-086_P.png",
+    "name": "夏色まつり",
+    "type": "成員",
+    "tag": "#JP / #1期生 / #シューター",
+    "product": "PR卡",
     "color": "黃",
     "hp": 170,
     "bloom": "1st",
