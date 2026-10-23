@@ -54933,6 +54933,177 @@
     "id": "hSD21-001"
   },
   {
+    "image": "cardListImages/hSD21/hSD21-002_C.png",
+    "name": "熱千めら",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
+    "color": "紫",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "防火対策 基礎！",
+      "effect": "這個成員受到的藝能傷害-10。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "火の用心じゃ～！",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD21-002"
+  },
+  {
+    "image": "cardListImages/hSD21/hSD21-003_U.png",
+    "name": "熱千めら",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "炎を鎮める不思議な力",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示2張持有天賦效果的「熱千めら」。將其中的1張加入手牌，其餘放到存檔區。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "響く拍子木",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD21-003"
+  },
+  {
+    "image": "cardListImages/hSD21/hSD21-004_C.png",
+    "name": "熱千めら",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
+    "color": "紫",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "防火対策 応用！",
+      "effect": "這個成員受到的藝能傷害-20。"
+    },
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "元気な頑張り屋",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": "從自己的牌組抽1張牌，將1張手牌放到存檔區。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD21-004"
+  },
+  {
+    "image": "cardListImages/hSD21/hSD21-005_U.png",
+    "name": "熱千めら",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
+    "color": "紫",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ハジけるアソビの渦",
+      "effect": "如果自己的存檔區有3張以上持有天賦效果的成員，給予對手的中心成員或聯動成員20點特殊傷害。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_purple.png"],
+      "name": "最高の非日常へ",
+      "damage": 40,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD21-005"
+  },
+  {
+    "image": "cardListImages/hSD21/hSD21-006_R.png",
+    "name": "熱千めら",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
+    "color": "紫",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "ご利益パワー",
+      "effect": "這個成員被擊倒時，可以選擇這個成員的1~2張吶喊卡，分配給自己其他的成員。"
+    },
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "火消しの本領発揮じゃ！",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD21-006"
+  },
+  {
+    "image": "cardListImages/hSD21/hSD21-007_RR.png",
+    "name": "熱千めら",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
+    "color": "紫",
+    "hp": 210,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "火消しのサラマンダー",
+      "effect": "這個成員被擊倒時，從自己的牌組抽2張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_purple.png","icons/arts_null.png"],
+      "name": "「ご利益」担当",
+      "damage": "100+",
+      "specialAttackImage": "icons/tokkou_50_yellow.png",
+      "effect": "如果自己的存檔區有3張以上持有天賦效果的成員，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD21-007"
+  },
+  {
+    "image": "cardListImages/hSD21/hSD21-008_U.png",
+    "name": "熱千めらの拍子木",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
+    "supportEffect": "帶有這個道具的「熱千めら」藝能傷害+20。\n\n◆附加給1st以上的「熱千めら」有追加效果\n這個成員擊倒對手的成員時，從自己的牌組抽1張牌，將1張手牌放到存檔區。\n\n每位成員只能帶有1張道具。",
+    "id": "hSD21-008"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
