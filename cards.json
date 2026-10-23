@@ -54617,6 +54617,322 @@
     "id": "hSD20-001"
   },
   {
+    "image": "cardListImages/hSD20/hSD20-002_C.png",
+    "name": "百灯キョーコ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png"],
+      "name": "笑顔にさせちゃっていいですか！？？",
+      "damage": "20+",
+      "specialAttackImage": null,
+      "effect": "[限定中心位置]如果自己舞台上的吶喊卡有2張以上，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD20-002"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-003_U.png",
+    "name": "百灯キョーコ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」",
+    "color": "紅",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "即集合！",
+      "effect": "如果在自己後攻的第一個回合，從自己的牌組展示1張標示#アソビ★まわり隊！的Debut成員與1張1st「百灯キョーコ」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ドンチャン大騒ぎの始まり",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD20-003"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-004_C.png",
+    "name": "百灯キョーコ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」",
+    "color": "紅",
+    "hp": 180,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "出勤準備完了！",
+      "damage": 60,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": {
+      "image": ["icons/arts_red.png","icons/arts_null.png","icons/arts_null.png","icons/arts_null.png"],
+      "name": "拡声器いらずのビッグボイス",
+      "damage": 140,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "extra": null,
+    "id": "hSD20-004"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-005_U.png",
+    "name": "百灯キョーコ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」",
+    "color": "紅",
+    "hp": 150,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "差し伸べる手",
+      "effect": "選擇自己舞台上1位標示#アソビ★まわり隊！的成員。這個回合中，該成員的藝能傷害+20。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "考えるより先に動く",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD20-005"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-006_R.png",
+    "name": "百灯キョーコ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」",
+    "color": "紅",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "誰にだって手を伸ばす！",
+      "effect": "可以將自己舞台上的1張吶喊卡放到存檔區：將自己存檔區1張標示#アソビ★まわり隊！的成員返回手牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_null.png"],
+      "name": "渦巻くハイテンション",
+      "damage": "50+",
+      "specialAttackImage": null,
+      "effect": "如果自己舞台上的吶喊卡有6張以上，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD20-006"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-007_RR.png",
+    "name": "百灯キョーコ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": "起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」",
+    "color": "紅",
+    "hp": 190,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "情熱系ヒーローポリス",
+      "effect": "[限定中心位置]自己聯動成員的藝能傷害+20。"
+    },
+    "art1": {
+      "image": ["icons/arts_red.png","icons/arts_red.png","icons/arts_null.png"],
+      "name": "「最強」担当",
+      "damage": "150+",
+      "specialAttackImage": "icons/tokkou_50_green.png",
+      "effect": "如果自己舞台上的吶喊卡有6張以上，這個藝能傷害+50。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD20-007"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-008_C.png",
+    "name": "宙科そぴあ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": ["起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」","起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」"],
+    "color": "藍",
+    "hp": 120,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": {
+      "name": "夢は弾けるビッグバン！",
+      "effect": "對手回合中，這個成員被擊倒時，從自己的牌組抽1張牌。"
+    },
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "全部この目で確かめにいくよ！",
+      "damage": 10,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hSD20-008"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-009_U.png",
+    "name": "宙科そぴあ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": ["起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」","起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」"],
+    "color": "藍",
+    "hp": 160,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "面白さの探求",
+      "effect": "如果自己的舞台上有3位以上標示#アソビ★まわり隊！的成員，可以將這個成員的1張吶喊卡放到存檔區：從自己的牌組抽2張牌。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "抑えきれない知的好奇心",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD20-009"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-010_R.png",
+    "name": "宙科そぴあ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": ["起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」","起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」"],
+    "color": "藍",
+    "hp": 130,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "仲間を探すぞ～！",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#アソビ★まわり隊！的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "面白いもの見つけたよ！",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "可以將這個成員的1張吶喊卡轉移給自己其他標示#アソビ★まわり隊！的成員。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD20-010"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-011_RR.png",
+    "name": "宙科そぴあ",
+    "type": "成員",
+    "tag": "#アソビ★まわり隊！",
+    "product": ["起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」","起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」"],
+    "color": "藍",
+    "hp": 200,
+    "bloom": "2nd",
+    "batonImage": ["icons/arts_null.png","icons/arts_null.png"],
+    "effectC": {
+      "name": "（自称）天才宇宙飛行士",
+      "effect": "可以將自己存檔區的2張吶喊卡發送給自己1位標示#アソビ★まわり隊！的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_null.png"],
+      "name": "「ひらめき」担当",
+      "damage": "80+",
+      "specialAttackImage": "icons/tokkou_50_white.png",
+      "effect": "可以將這個成員的1~3張吶喊卡放到存檔區：每將1張吶喊卡放到存檔區，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hSD20-011"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-012_U.png",
+    "name": "アソビ★まわり隊！",
+    "type": "支援・活動",
+    "tag": null,
+    "product": ["起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」","起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」"],
+    "supportEffect": "不包含這張牌，自己的手牌在6張以下才能使用。\n\n查看自己牌組上方的4張牌。展示任意標示#アソビ★まわり隊！的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hSD20-012"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-013_U.png",
+    "name": "ぐるぐるTIME！",
+    "type": "支援・活動",
+    "tag": null,
+    "product": ["起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」","起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」"],
+    "supportEffect": "自己舞台上的所有成員都標示#アソビ★まわり隊！才能使用。\n\n選擇對手的1位後台成員。將該成員與對手的中心成員進行替換。之後，和對手猜拳，直到分出勝負為止。如果自己獲勝，從自己的牌組抽3張牌。\n\nLIMITED：每個回合只能使用一張。",
+    "id": "hSD20-013"
+  },
+  {
+    "image": "cardListImages/hSD20/hSD20-014_U.png",
+    "name": "百灯キョーコの拡声器",
+    "type": "支援・道具",
+    "tag": null,
+    "product": "起始牌組「アソビ★まわり隊！推し 百灯キョーコ (hSD20)」",
+    "supportEffect": "帶有這個道具的「百灯キョーコ」藝能傷害+20。\n\n◆附加給1st以上的「百灯キョーコ」有追加效果\n這個成員擊倒對手的成員時，可以將自己存檔區的1張吶喊卡發送給自己標示#アソビ★まわり隊！的後台成員。\n\n每位成員只能帶有1張道具。",
+    "id": "hSD20-014"
+  },
+  {
+    "image": "cardListImages/hSD21/hSD21-001_OSR.png",
+    "name": "熱千めら",
+    "type": "主推",
+    "product": "起始牌組「アソビ★まわり隊！推し 熱千めら (hSD21)」",
+    "color": "紫",
+    "life": 5,
+    "stageSkill":{
+      "name": "サラマンダーの恩返し",
+      "effect": "自己的成員聯動時，如果自己的中心成員為「熱千めら」，從自己的牌組抽1張牌，將1張手牌放到存檔區。"
+    },
+    "oshiSkill": {
+      "holoPower": -2,
+      "name": "ご利益じゃ！",
+      "effect": "[每個回合一次]選擇自己舞台上的1位成員。自己的存檔區每有1位持有天賦效果的成員，這個回合中，剛才選擇的成員藝能傷害+10。如果該成員為「熱千めら」，該成員藝能需要的無色吶喊卡數量-1。"
+    },
+    "spSkill": null,
+    "id": "hSD21-001"
+  },
+  {
     "image": "cardListImages/hYS0/hYS01-001_OC.png",
     "name": "七詩ムメイ",
     "type": "主推",
