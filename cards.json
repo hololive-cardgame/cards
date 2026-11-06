@@ -37600,6 +37600,60 @@
     "id": "hBP08-017"
   },
   {
+    "image": "cardListImages/hBP08/hBP08-017_P.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "PR卡",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "「ヴァ！」",
+      "effect": "從自己的牌組展示1張「あん肝」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "みんな、ぬんぬん進んでいこーう",
+      "damage": "40+",
+      "specialAttackImage": null,
+      "effect": "如果標示#0期生的2nd成員在自己的舞台上，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-017"
+  },
+  {
+    "image": "cardListImages/hBP08/hBP08-017_P_02.png",
+    "name": "ときのそら",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #歌",
+    "product": "PR卡",
+    "color": "白",
+    "hp": 170,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "「ヴァ！」",
+      "effect": "從自己的牌組展示1張「あん肝」並加入手牌。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_white.png","icons/arts_null.png"],
+      "name": "みんな、ぬんぬん進んでいこーう",
+      "damage": "40+",
+      "specialAttackImage": null,
+      "effect": "如果標示#0期生的2nd成員在自己的舞台上，這個藝能傷害+20。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-017"
+  },
+  {
     "image": "cardListImages/hBP08/hBP08-018_RR.png",
     "name": "ときのそら",
     "type": "成員",
