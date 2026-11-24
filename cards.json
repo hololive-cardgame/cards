@@ -16208,6 +16208,30 @@
     "id": "hBP03-057"
   },
   {
+    "image": "cardListImages/hBP03/hBP03-057_P_02.png",
+    "name": "ロボ子さん",
+    "type": "成員",
+    "tag": "#JP / #0期生 / #シューター",
+    "product": "PR卡",
+    "color": "紫",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "はろーぼー！",
+      "damage": 30,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": "這個成員沒有張數限制",
+    "id": "hBP03-057"
+  },
+  {
     "image": "cardListImages/hBP03/hBP03-058_C.png",
     "name": "ロボ子さん",
     "type": "成員",
@@ -39994,6 +40018,33 @@
     "id": "hBP08-062"
   },
   {
+    "image": "cardListImages/hBP08/hBP08-062_P.png",
+    "name": "鷹嶺ルイ",
+    "type": "成員",
+    "tag": "#JP / #秘密結社holoX / #トリ / #お酒",
+    "product": "PR卡",
+    "color": "紫",
+    "hp": 130,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "ダウンさせられる覚悟",
+      "effect": "可以將自己的1張手牌放到存檔區：從自己的牌組將1張特殊規則為「這個成員沒有張數限制」的Debut成員放到舞台上。將牌組重新洗牌。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_null.png"],
+      "name": "ダウンさせる意志",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP08-062"
+  },
+  {
     "image": "cardListImages/hBP08/hBP08-063_C.png",
     "name": "鷹嶺ルイ",
     "type": "成員",
@@ -43056,6 +43107,33 @@
     "id": "hBP09-032"
   },
   {
+    "image": "cardListImages/hBP09/hBP09-032_P.png",
+    "name": "大神ミオ",
+    "type": "成員",
+    "tag": "#JP / #ゲーマーズ / #ケモミミ / #料理",
+    "product": "PR卡",
+    "color": "綠",
+    "hp": 100,
+    "bloom": "Debut",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": {
+      "name": "黒髪のケモミミ少女",
+      "effect": "可以展示自己手牌的1張吉祥物或粉絲並放回牌組上方：將自己吶喊牌組上方的1張牌發送給自己標示#ゲーマーズ的成員。"
+    },
+    "effectB": null,
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_green.png"],
+      "name": "いってみぉーん",
+      "damage": 20,
+      "specialAttackImage": null,
+      "effect": null
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-032"
+  },
+  {
     "image": "cardListImages/hBP09/hBP09-033_U.png",
     "name": "大神ミオ",
     "type": "成員",
@@ -44273,6 +44351,33 @@
     "type": "成員",
     "tag": "#ID / #ID1期生 / #歌",
     "product": "補充包「ボリュームヴォルテックス (hBP09)」",
+    "color": "藍",
+    "hp": 140,
+    "bloom": "1st",
+    "batonImage": ["icons/arts_null.png"],
+    "effectC": null,
+    "effectB": {
+      "name": "大人びた大学生",
+      "effect": "查看自己牌組上方的3張牌。展示1張標示#ID1期生的成員並加入手牌。其餘依照喜歡的順序放回牌組下方。"
+    },
+    "effectG": null,
+    "art1": {
+      "image": ["icons/arts_blue.png","icons/arts_blue.png"],
+      "name": "今日はお姉さんモード",
+      "damage": 50,
+      "specialAttackImage": null,
+      "effect": "給予對手的中心成員與聯動成員10點特殊傷害。"
+    },
+    "art2": null,
+    "extra": null,
+    "id": "hBP09-060"
+  },
+  {
+    "image": "cardListImages/hBP09/hBP09-060_P.png",
+    "name": "ムーナ・ホシノヴァ",
+    "type": "成員",
+    "tag": "#ID / #ID1期生 / #歌",
+    "product": "PR卡",
     "color": "藍",
     "hp": 140,
     "bloom": "1st",
